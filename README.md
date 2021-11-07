@@ -1,0 +1,4 @@
+# TEST
+doublespellingapplication-stim-master为刺激端
+doublespellingapplication-master为处理端
+receiveroperation-master为脑电信号采集端
