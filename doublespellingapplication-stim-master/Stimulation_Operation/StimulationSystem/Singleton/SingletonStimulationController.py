@@ -1,0 +1,4 @@
+from doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationProcess.StimulationController import StimulationController
+
+
+controller_StimulationController = StimulationController()

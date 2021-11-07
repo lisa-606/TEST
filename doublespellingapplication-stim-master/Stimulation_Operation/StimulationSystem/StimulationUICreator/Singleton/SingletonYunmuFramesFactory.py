@@ -1,0 +1,3 @@
+from doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationUICreator.YunmuFramesFactory import YunmuFramesFactory
+
+factory_YunmuFramesFactory = YunmuFramesFactory()

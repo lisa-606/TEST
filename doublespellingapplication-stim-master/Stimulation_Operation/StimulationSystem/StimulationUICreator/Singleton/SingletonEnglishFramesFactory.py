@@ -1,0 +1,3 @@
+from doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationUICreator.EnglishFramesFactory import EnglishFramesFactory
+
+factory_EnglishFramesFactory = EnglishFramesFactory()

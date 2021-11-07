@@ -1,0 +1,3 @@
+from doubleSpellingApplication.OperationSystem.SchemaProcess.SchemaController import SchemaController
+
+singleton_schema_controller = SchemaController()

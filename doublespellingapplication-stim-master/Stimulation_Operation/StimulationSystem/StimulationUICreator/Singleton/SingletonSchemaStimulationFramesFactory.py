@@ -1,0 +1,3 @@
+from doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationUICreator.SchemaStimulationFramesFactory import SchemaStimulationFramesFactory
+
+factory_SchemaStimulationFramesFactory = SchemaStimulationFramesFactory()

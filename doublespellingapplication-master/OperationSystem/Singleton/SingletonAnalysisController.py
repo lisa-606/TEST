@@ -1,0 +1,3 @@
+from doubleSpellingApplication.OperationSystem.AnalysisProcess.AnalysisController import AnalysisController
+
+singleton_analysis_controller = AnalysisController()

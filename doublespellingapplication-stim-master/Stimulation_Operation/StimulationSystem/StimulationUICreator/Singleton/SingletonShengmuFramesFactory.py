@@ -1,0 +1,3 @@
+from doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationUICreator.ShengmuFramesFactory import ShengmuFramesFactory
+
+factory_ShengmuFramesFactory = ShengmuFramesFactory()

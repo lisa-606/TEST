@@ -1,0 +1,714 @@
+2021-06-03 11:35:37,142 - DoubleSpellingOpeController.py[line:48] - DEBUG: wjsDoubleSpellingOpeController.initial in subsystem instance is called
+2021-06-03 11:35:38,685 - ExchangeMessageManagement.py[line:43] - DEBUG: ExchangeMessageManagement.initial is called.
+2021-06-03 11:35:38,921 - SchemaController.py[line:24] - DEBUG: SchemaController.initial is called.
+2021-06-03 11:35:39,205 - AnalysisController.py[line:21] - DEBUG: AnalysisController.initial is called.
+2021-06-03 11:35:39,205 - MultilayerWindowClassifier.py[line:32] - DEBUG: MultilayerWindowClassifier.initial is called.
+2021-06-03 11:35:39,214 - DetectAnalysisProcess.py[line:24] - DEBUG: DetectAnalysisProcess.initial is called.
+2021-06-03 11:35:39,215 - UpdateAnalysisProcess.py[line:20] - DEBUG: UpdateAnalysisProcess.initial is called.
+2021-06-03 11:35:39,215 - WaitAnalysisProcess.py[line:15] - DEBUG: WaitAnalysisProcess.initial is called.
+2021-06-03 11:35:39,719 - ExchangeMessageManagement.py[line:59] - DEBUG: ExchangeMessageManagement.start is called.
+2021-06-03 11:35:39,720 - DoubleSpellingOpeController.py[line:97] - DEBUG: 当前监视器状态INIT,等待监视器状态改变为STON,2021-06-03 11:35:39.720882
+
+2021-06-03 11:35:39,721 - DoubleSpellingOpeController.py[line:104] - DEBUG: DoubleSpellingOpeController.start is called.
+2021-06-03 11:35:40,723 - OperateExchangeMessageOperator.py[line:24] - DEBUG: received CTNS.
+2021-06-03 11:35:41,177 - ExchangeMessageManagement.py[line:79] - DEBUG: send CTOK!
+2021-06-03 11:35:41,178 - OperateExchangeMessageOperator.py[line:28] - DEBUG: 成功连接到Neuracle服务器
+2021-06-03 11:35:41,224 - OperateExchangeMessageOperator.py[line:24] - DEBUG: received CTNS.
+2021-06-03 11:35:41,234 - ExchangeMessageManagement.py[line:79] - DEBUG: send CTOK!
+2021-06-03 11:35:41,234 - OperateExchangeMessageOperator.py[line:28] - DEBUG: 成功连接到Neuracle服务器
+2021-06-03 11:35:41,725 - OperateExchangeMessageOperator.py[line:24] - DEBUG: received CTNS.
+2021-06-03 11:35:41,733 - ExchangeMessageManagement.py[line:79] - DEBUG: send CTOK!
+2021-06-03 11:35:41,733 - OperateExchangeMessageOperator.py[line:28] - DEBUG: 成功连接到Neuracle服务器
+2021-06-03 11:35:42,225 - OperateExchangeMessageOperator.py[line:24] - DEBUG: received CTNS.
+2021-06-03 11:35:42,233 - ExchangeMessageManagement.py[line:79] - DEBUG: send CTOK!
+2021-06-03 11:35:42,233 - OperateExchangeMessageOperator.py[line:28] - DEBUG: 成功连接到Neuracle服务器
+2021-06-03 11:35:42,725 - OperateExchangeMessageOperator.py[line:24] - DEBUG: received CTNS.
+2021-06-03 11:35:42,748 - ExchangeMessageManagement.py[line:79] - DEBUG: send CTOK!
+2021-06-03 11:35:42,748 - OperateExchangeMessageOperator.py[line:28] - DEBUG: 成功连接到Neuracle服务器
+2021-06-03 11:35:43,225 - OperateExchangeMessageOperator.py[line:24] - DEBUG: received CTNS.
+2021-06-03 11:35:43,233 - ExchangeMessageManagement.py[line:79] - DEBUG: send CTOK!
+2021-06-03 11:35:43,234 - OperateExchangeMessageOperator.py[line:28] - DEBUG: 成功连接到Neuracle服务器
+2021-06-03 11:35:43,726 - OperateExchangeMessageOperator.py[line:24] - DEBUG: received CTNS.
+2021-06-03 11:35:43,735 - ExchangeMessageManagement.py[line:79] - DEBUG: send CTOK!
+2021-06-03 11:35:43,735 - OperateExchangeMessageOperator.py[line:28] - DEBUG: 成功连接到Neuracle服务器
+2021-06-03 11:35:44,227 - OperateExchangeMessageOperator.py[line:24] - DEBUG: received CTNS.
+2021-06-03 11:35:44,236 - ExchangeMessageManagement.py[line:79] - DEBUG: send CTOK!
+2021-06-03 11:35:44,236 - OperateExchangeMessageOperator.py[line:28] - DEBUG: 成功连接到Neuracle服务器
+2021-06-03 11:35:44,728 - OperateExchangeMessageOperator.py[line:24] - DEBUG: received CTNS.
+2021-06-03 11:35:44,737 - ExchangeMessageManagement.py[line:79] - DEBUG: send CTOK!
+2021-06-03 11:35:44,737 - OperateExchangeMessageOperator.py[line:28] - DEBUG: 成功连接到Neuracle服务器
+2021-06-03 11:35:45,228 - OperateExchangeMessageOperator.py[line:24] - DEBUG: received CTNS.
+2021-06-03 11:35:45,237 - ExchangeMessageManagement.py[line:79] - DEBUG: send CTOK!
+2021-06-03 11:35:45,237 - OperateExchangeMessageOperator.py[line:28] - DEBUG: 成功连接到Neuracle服务器
+2021-06-03 11:35:45,729 - OperateExchangeMessageOperator.py[line:24] - DEBUG: received CTNS.
+2021-06-03 11:35:45,740 - ExchangeMessageManagement.py[line:79] - DEBUG: send CTOK!
+2021-06-03 11:35:45,740 - OperateExchangeMessageOperator.py[line:28] - DEBUG: 成功连接到Neuracle服务器
+2021-06-03 11:35:46,229 - OperateExchangeMessageOperator.py[line:24] - DEBUG: received CTNS.
+2021-06-03 11:35:46,238 - ExchangeMessageManagement.py[line:79] - DEBUG: send CTOK!
+2021-06-03 11:35:46,238 - OperateExchangeMessageOperator.py[line:28] - DEBUG: 成功连接到Neuracle服务器
+2021-06-03 11:35:46,730 - OperateExchangeMessageOperator.py[line:24] - DEBUG: received CTNS.
+2021-06-03 11:35:46,739 - ExchangeMessageManagement.py[line:79] - DEBUG: send CTOK!
+2021-06-03 11:35:46,739 - OperateExchangeMessageOperator.py[line:28] - DEBUG: 成功连接到Neuracle服务器
+2021-06-03 11:35:47,231 - OperateExchangeMessageOperator.py[line:24] - DEBUG: received CTNS.
+2021-06-03 11:35:47,240 - ExchangeMessageManagement.py[line:79] - DEBUG: send CTOK!
+2021-06-03 11:35:47,240 - OperateExchangeMessageOperator.py[line:28] - DEBUG: 成功连接到Neuracle服务器
+2021-06-03 11:35:47,732 - OperateExchangeMessageOperator.py[line:40] - DEBUG: received STAR.
+2021-06-03 11:35:47,741 - ExchangeMessageManagement.py[line:79] - DEBUG: send TROK!
+2021-06-03 11:35:47,741 - OperateExchangeMessageOperator.py[line:45] - DEBUG: 开始从NeuroScan服务器接收数据
+2021-06-03 11:36:25,771 - OperateExchangeMessageOperator.py[line:58] - DEBUG: received STON.
+2021-06-03 11:36:25,771 - OperateExchangeMessageOperator.py[line:60] - DEBUG: 设置为开始数据处理状态
+2021-06-03 11:36:26,277 - ExchangeMessageManagement.py[line:79] - DEBUG: send TNOK!
+2021-06-03 11:36:28,273 - OperateExchangeMessageOperator.py[line:92] - DEBUG: received STRD.
+2021-06-03 11:36:28,273 - OperateExchangeMessageOperator.py[line:94] - DEBUG: 准备进入实时处理模式
+2021-06-03 11:36:32,278 - DoubleSpellingOpeController.py[line:157] - DEBUG: DoubleSpellingOpeController.stop is called.
+2021-06-03 11:36:32,278 - ExchangeMessageManagement.py[line:64] - DEBUG: ExchangeMessageManagement.stop is called.
+2021-06-03 11:36:32,740 - receive_exchange_message_fcn.py[line:23] - DEBUG: Exiting receive_exchange_message_fcn!
+2021-06-03 11:36:32,778 - operate_exchange_message_fcn.py[line:20] - DEBUG: Exiting operate_exchange_message_fcn!
+2021-06-03 11:36:33,276 - DoubleSpellingOpeController.py[line:163] - DEBUG: DoubleSpellingOpeController.stop is returned.
+2021-06-03 11:45:06,488 - DoubleSpellingOpeController.py[line:48] - DEBUG: wjsDoubleSpellingOpeController.initial in subsystem instance is called
+2021-06-03 11:45:08,026 - ExchangeMessageManagement.py[line:43] - DEBUG: ExchangeMessageManagement.initial is called.
+2021-06-03 11:45:08,044 - SchemaController.py[line:24] - DEBUG: SchemaController.initial is called.
+2021-06-03 11:45:08,140 - AnalysisController.py[line:21] - DEBUG: AnalysisController.initial is called.
+2021-06-03 11:45:08,140 - MultilayerWindowClassifier.py[line:32] - DEBUG: MultilayerWindowClassifier.initial is called.
+2021-06-03 11:45:08,149 - DetectAnalysisProcess.py[line:24] - DEBUG: DetectAnalysisProcess.initial is called.
+2021-06-03 11:45:08,150 - UpdateAnalysisProcess.py[line:20] - DEBUG: UpdateAnalysisProcess.initial is called.
+2021-06-03 11:45:08,150 - WaitAnalysisProcess.py[line:15] - DEBUG: WaitAnalysisProcess.initial is called.
+2021-06-03 11:45:08,454 - ExchangeMessageManagement.py[line:59] - DEBUG: ExchangeMessageManagement.start is called.
+2021-06-03 11:45:08,455 - DoubleSpellingOpeController.py[line:97] - DEBUG: 当前监视器状态INIT,等待监视器状态改变为STON,2021-06-03 11:45:08.455657
+
+2021-06-03 11:45:08,456 - DoubleSpellingOpeController.py[line:104] - DEBUG: DoubleSpellingOpeController.start is called.
+2021-06-03 11:45:10,458 - OperateExchangeMessageOperator.py[line:24] - DEBUG: received CTNS.
+2021-06-03 11:45:10,521 - ExchangeMessageManagement.py[line:79] - DEBUG: send CTOK!
+2021-06-03 11:45:10,521 - OperateExchangeMessageOperator.py[line:28] - DEBUG: 成功连接到Neuracle服务器
+2021-06-03 11:45:10,959 - OperateExchangeMessageOperator.py[line:24] - DEBUG: received CTNS.
+2021-06-03 11:45:10,967 - ExchangeMessageManagement.py[line:79] - DEBUG: send CTOK!
+2021-06-03 11:45:10,968 - OperateExchangeMessageOperator.py[line:28] - DEBUG: 成功连接到Neuracle服务器
+2021-06-03 11:45:11,459 - OperateExchangeMessageOperator.py[line:24] - DEBUG: received CTNS.
+2021-06-03 11:45:11,469 - ExchangeMessageManagement.py[line:79] - DEBUG: send CTOK!
+2021-06-03 11:45:11,469 - OperateExchangeMessageOperator.py[line:28] - DEBUG: 成功连接到Neuracle服务器
+2021-06-03 11:45:11,960 - OperateExchangeMessageOperator.py[line:24] - DEBUG: received CTNS.
+2021-06-03 11:45:11,967 - ExchangeMessageManagement.py[line:79] - DEBUG: send CTOK!
+2021-06-03 11:45:11,968 - OperateExchangeMessageOperator.py[line:28] - DEBUG: 成功连接到Neuracle服务器
+2021-06-03 11:45:12,460 - OperateExchangeMessageOperator.py[line:24] - DEBUG: received CTNS.
+2021-06-03 11:45:12,468 - ExchangeMessageManagement.py[line:79] - DEBUG: send CTOK!
+2021-06-03 11:45:12,468 - OperateExchangeMessageOperator.py[line:28] - DEBUG: 成功连接到Neuracle服务器
+2021-06-03 11:45:12,961 - OperateExchangeMessageOperator.py[line:24] - DEBUG: received CTNS.
+2021-06-03 11:45:12,969 - ExchangeMessageManagement.py[line:79] - DEBUG: send CTOK!
+2021-06-03 11:45:12,969 - OperateExchangeMessageOperator.py[line:28] - DEBUG: 成功连接到Neuracle服务器
+2021-06-03 11:45:13,461 - OperateExchangeMessageOperator.py[line:24] - DEBUG: received CTNS.
+2021-06-03 11:45:13,469 - ExchangeMessageManagement.py[line:79] - DEBUG: send CTOK!
+2021-06-03 11:45:13,469 - OperateExchangeMessageOperator.py[line:28] - DEBUG: 成功连接到Neuracle服务器
+2021-06-03 11:45:13,962 - OperateExchangeMessageOperator.py[line:24] - DEBUG: received CTNS.
+2021-06-03 11:45:13,970 - ExchangeMessageManagement.py[line:79] - DEBUG: send CTOK!
+2021-06-03 11:45:13,970 - OperateExchangeMessageOperator.py[line:28] - DEBUG: 成功连接到Neuracle服务器
+2021-06-03 11:45:14,463 - OperateExchangeMessageOperator.py[line:24] - DEBUG: received CTNS.
+2021-06-03 11:45:14,471 - ExchangeMessageManagement.py[line:79] - DEBUG: send CTOK!
+2021-06-03 11:45:14,472 - OperateExchangeMessageOperator.py[line:28] - DEBUG: 成功连接到Neuracle服务器
+2021-06-03 11:45:14,964 - OperateExchangeMessageOperator.py[line:24] - DEBUG: received CTNS.
+2021-06-03 11:45:14,972 - ExchangeMessageManagement.py[line:79] - DEBUG: send CTOK!
+2021-06-03 11:45:14,972 - OperateExchangeMessageOperator.py[line:28] - DEBUG: 成功连接到Neuracle服务器
+2021-06-03 11:45:15,465 - OperateExchangeMessageOperator.py[line:40] - DEBUG: received STAR.
+2021-06-03 11:45:15,472 - ExchangeMessageManagement.py[line:79] - DEBUG: send TROK!
+2021-06-03 11:45:15,472 - OperateExchangeMessageOperator.py[line:45] - DEBUG: 开始从NeuroScan服务器接收数据
+2021-06-03 11:45:48,500 - OperateExchangeMessageOperator.py[line:58] - DEBUG: received STON.
+2021-06-03 11:45:48,500 - OperateExchangeMessageOperator.py[line:60] - DEBUG: 设置为开始数据处理状态
+2021-06-03 11:45:49,006 - ExchangeMessageManagement.py[line:79] - DEBUG: send TNOK!
+2021-06-03 11:45:51,504 - OperateExchangeMessageOperator.py[line:92] - DEBUG: received STRD.
+2021-06-03 11:45:51,797 - OperateExchangeMessageOperator.py[line:94] - DEBUG: 准备进入实时处理模式
+2021-06-03 11:46:53,796 - DoubleSpellingOpeController.py[line:157] - DEBUG: DoubleSpellingOpeController.stop is called.
+2021-06-03 11:46:53,796 - ExchangeMessageManagement.py[line:64] - DEBUG: ExchangeMessageManagement.stop is called.
+2021-06-03 11:46:54,081 - operate_exchange_message_fcn.py[line:20] - DEBUG: Exiting operate_exchange_message_fcn!
+2021-06-03 11:46:54,101 - receive_exchange_message_fcn.py[line:23] - DEBUG: Exiting receive_exchange_message_fcn!
+2021-06-03 11:46:54,101 - DoubleSpellingOpeController.py[line:163] - DEBUG: DoubleSpellingOpeController.stop is returned.
+2021-06-03 11:47:57,270 - DoubleSpellingOpeController.py[line:48] - DEBUG: wjsDoubleSpellingOpeController.initial in subsystem instance is called
+2021-06-03 11:47:57,322 - ExchangeMessageManagement.py[line:43] - DEBUG: ExchangeMessageManagement.initial is called.
+2021-06-03 11:47:57,342 - SchemaController.py[line:24] - DEBUG: SchemaController.initial is called.
+2021-06-03 11:47:57,440 - AnalysisController.py[line:21] - DEBUG: AnalysisController.initial is called.
+2021-06-03 11:47:57,440 - MultilayerWindowClassifier.py[line:32] - DEBUG: MultilayerWindowClassifier.initial is called.
+2021-06-03 11:47:57,448 - DetectAnalysisProcess.py[line:24] - DEBUG: DetectAnalysisProcess.initial is called.
+2021-06-03 11:47:57,448 - UpdateAnalysisProcess.py[line:20] - DEBUG: UpdateAnalysisProcess.initial is called.
+2021-06-03 11:47:57,448 - WaitAnalysisProcess.py[line:15] - DEBUG: WaitAnalysisProcess.initial is called.
+2021-06-03 11:47:57,752 - ExchangeMessageManagement.py[line:59] - DEBUG: ExchangeMessageManagement.start is called.
+2021-06-03 11:47:57,753 - DoubleSpellingOpeController.py[line:97] - DEBUG: 当前监视器状态INIT,等待监视器状态改变为STON,2021-06-03 11:47:57.753562
+
+2021-06-03 11:47:57,753 - DoubleSpellingOpeController.py[line:104] - DEBUG: DoubleSpellingOpeController.start is called.
+2021-06-03 11:48:00,257 - OperateExchangeMessageOperator.py[line:24] - DEBUG: received CTNS.
+2021-06-03 11:48:00,302 - ExchangeMessageManagement.py[line:79] - DEBUG: send CTOK!
+2021-06-03 11:48:00,302 - OperateExchangeMessageOperator.py[line:28] - DEBUG: 成功连接到Neuracle服务器
+2021-06-03 11:48:00,758 - OperateExchangeMessageOperator.py[line:24] - DEBUG: received CTNS.
+2021-06-03 11:48:00,770 - ExchangeMessageManagement.py[line:79] - DEBUG: send CTOK!
+2021-06-03 11:48:00,770 - OperateExchangeMessageOperator.py[line:28] - DEBUG: 成功连接到Neuracle服务器
+2021-06-03 11:48:01,258 - OperateExchangeMessageOperator.py[line:24] - DEBUG: received CTNS.
+2021-06-03 11:48:01,266 - ExchangeMessageManagement.py[line:79] - DEBUG: send CTOK!
+2021-06-03 11:48:01,267 - OperateExchangeMessageOperator.py[line:28] - DEBUG: 成功连接到Neuracle服务器
+2021-06-03 11:48:01,759 - OperateExchangeMessageOperator.py[line:24] - DEBUG: received CTNS.
+2021-06-03 11:48:01,767 - ExchangeMessageManagement.py[line:79] - DEBUG: send CTOK!
+2021-06-03 11:48:01,767 - OperateExchangeMessageOperator.py[line:28] - DEBUG: 成功连接到Neuracle服务器
+2021-06-03 11:48:02,260 - OperateExchangeMessageOperator.py[line:24] - DEBUG: received CTNS.
+2021-06-03 11:48:02,269 - ExchangeMessageManagement.py[line:79] - DEBUG: send CTOK!
+2021-06-03 11:48:02,269 - OperateExchangeMessageOperator.py[line:28] - DEBUG: 成功连接到Neuracle服务器
+2021-06-03 11:48:02,760 - OperateExchangeMessageOperator.py[line:24] - DEBUG: received CTNS.
+2021-06-03 11:48:02,770 - ExchangeMessageManagement.py[line:79] - DEBUG: send CTOK!
+2021-06-03 11:48:02,770 - OperateExchangeMessageOperator.py[line:28] - DEBUG: 成功连接到Neuracle服务器
+2021-06-03 11:48:03,260 - OperateExchangeMessageOperator.py[line:24] - DEBUG: received CTNS.
+2021-06-03 11:48:03,270 - ExchangeMessageManagement.py[line:79] - DEBUG: send CTOK!
+2021-06-03 11:48:03,270 - OperateExchangeMessageOperator.py[line:28] - DEBUG: 成功连接到Neuracle服务器
+2021-06-03 11:48:03,761 - OperateExchangeMessageOperator.py[line:24] - DEBUG: received CTNS.
+2021-06-03 11:48:03,770 - ExchangeMessageManagement.py[line:79] - DEBUG: send CTOK!
+2021-06-03 11:48:03,770 - OperateExchangeMessageOperator.py[line:28] - DEBUG: 成功连接到Neuracle服务器
+2021-06-03 11:48:04,262 - OperateExchangeMessageOperator.py[line:24] - DEBUG: received CTNS.
+2021-06-03 11:48:04,270 - ExchangeMessageManagement.py[line:79] - DEBUG: send CTOK!
+2021-06-03 11:48:04,270 - OperateExchangeMessageOperator.py[line:28] - DEBUG: 成功连接到Neuracle服务器
+2021-06-03 11:48:04,762 - OperateExchangeMessageOperator.py[line:24] - DEBUG: received CTNS.
+2021-06-03 11:48:04,771 - ExchangeMessageManagement.py[line:79] - DEBUG: send CTOK!
+2021-06-03 11:48:04,771 - OperateExchangeMessageOperator.py[line:28] - DEBUG: 成功连接到Neuracle服务器
+2021-06-03 11:48:05,263 - OperateExchangeMessageOperator.py[line:40] - DEBUG: received STAR.
+2021-06-03 11:48:05,271 - ExchangeMessageManagement.py[line:79] - DEBUG: send TROK!
+2021-06-03 11:48:05,272 - OperateExchangeMessageOperator.py[line:45] - DEBUG: 开始从NeuroScan服务器接收数据
+2021-06-03 11:48:38,797 - OperateExchangeMessageOperator.py[line:58] - DEBUG: received STON.
+2021-06-03 11:48:38,797 - OperateExchangeMessageOperator.py[line:60] - DEBUG: 设置为开始数据处理状态
+2021-06-03 11:48:39,305 - ExchangeMessageManagement.py[line:79] - DEBUG: send TNOK!
+2021-06-03 11:48:39,882 - UpdateAnalysisProcess.py[line:70] - DEBUG: 
+
+均衡器更新完成，所用数据长度10029，更新所用计算时间0:00:00.168972，当前时间2021-06-03 11:48:39.882315
+
+
+2021-06-03 11:48:40,224 - DetectAnalysisProcess.py[line:85] - DEBUG: 满足终止条件，第7个数据窗共0.84秒数据作为判决窗，识别结果0，执行时间2021-06-03 11:48:40.224378
+
+2021-06-03 11:48:40,225 - DoubleSpellingSchemaProcess.py[line:338] - DEBUG: 
+DoubleSpellingSchemaProcess.report:本次识别结果，刺激频率8.0，执行时间2021-06-03 11:48:40.225381
+
+2021-06-03 11:48:40,234 - ExchangeMessageManagement.py[line:79] - DEBUG: send RSLT^0^0^^;_^;|:|'|"|.|!|,|`|上|下^0!
+2021-06-03 11:48:40,734 - SchemaController.py[line:58] - DEBUG: 
+SchemaController.report:
+当前刺激模式DoubleSpellingSchemaProcess,执行时间2021-06-03 11:48:40.734857
+
+
+
+2021-06-03 11:48:40,827 - OperateExchangeMessageOperator.py[line:92] - DEBUG: received STRD.
+2021-06-03 11:48:40,827 - OperateExchangeMessageOperator.py[line:94] - DEBUG: 准备进入实时处理模式
+2021-06-03 11:48:41,030 - WaitAnalysisProcess.py[line:27] - DEBUG: 进入等待模式,2021-06-03 11:48:41.030579
+
+2021-06-03 11:48:41,206 - DetectAnalysisProcess.py[line:85] - DEBUG: 满足终止条件，第7个数据窗共0.84秒数据作为判决窗，识别结果0，执行时间2021-06-03 11:48:41.206040
+
+2021-06-03 11:48:41,206 - DoubleSpellingSchemaProcess.py[line:338] - DEBUG: 
+DoubleSpellingSchemaProcess.report:本次识别结果，刺激频率8.0，执行时间2021-06-03 11:48:41.206040
+
+2021-06-03 11:48:41,215 - ExchangeMessageManagement.py[line:79] - DEBUG: send RSLT^0^0^^;;_^;|:|'|"|.|!|,|`|上|下^0!
+2021-06-03 11:48:41,715 - SchemaController.py[line:58] - DEBUG: 
+SchemaController.report:
+当前刺激模式DoubleSpellingSchemaProcess,执行时间2021-06-03 11:48:41.715422
+
+
+
+2021-06-03 11:48:42,008 - WaitAnalysisProcess.py[line:27] - DEBUG: 进入等待模式,2021-06-03 11:48:42.008136
+
+2021-06-03 11:48:43,830 - OperateExchangeMessageOperator.py[line:92] - DEBUG: received STRD.
+2021-06-03 11:48:43,830 - OperateExchangeMessageOperator.py[line:94] - DEBUG: 准备进入实时处理模式
+2021-06-03 11:48:44,092 - DetectAnalysisProcess.py[line:85] - DEBUG: 满足终止条件，第7个数据窗共0.84秒数据作为判决窗，识别结果0，执行时间2021-06-03 11:48:44.092150
+
+2021-06-03 11:48:44,092 - DoubleSpellingSchemaProcess.py[line:338] - DEBUG: 
+DoubleSpellingSchemaProcess.report:本次识别结果，刺激频率8.0，执行时间2021-06-03 11:48:44.092150
+
+2021-06-03 11:48:44,099 - ExchangeMessageManagement.py[line:79] - DEBUG: send RSLT^0^0^^;;;_^;|:|'|"|.|!|,|`|上|下^0!
+2021-06-03 11:48:44,600 - SchemaController.py[line:58] - DEBUG: 
+SchemaController.report:
+当前刺激模式DoubleSpellingSchemaProcess,执行时间2021-06-03 11:48:44.600151
+
+
+
+2021-06-03 11:48:44,893 - WaitAnalysisProcess.py[line:27] - DEBUG: 进入等待模式,2021-06-03 11:48:44.893826
+
+2021-06-03 11:48:46,834 - OperateExchangeMessageOperator.py[line:92] - DEBUG: received STRD.
+2021-06-03 11:48:46,834 - OperateExchangeMessageOperator.py[line:94] - DEBUG: 准备进入实时处理模式
+2021-06-03 11:48:47,080 - DetectAnalysisProcess.py[line:85] - DEBUG: 满足终止条件，第7个数据窗共0.84秒数据作为判决窗，识别结果0，执行时间2021-06-03 11:48:47.080336
+
+2021-06-03 11:48:47,080 - DoubleSpellingSchemaProcess.py[line:338] - DEBUG: 
+DoubleSpellingSchemaProcess.report:本次识别结果，刺激频率8.0，执行时间2021-06-03 11:48:47.080336
+
+2021-06-03 11:48:47,088 - ExchangeMessageManagement.py[line:79] - DEBUG: send RSLT^0^0^^;;;;_^;|:|'|"|.|!|,|`|上|下^0!
+2021-06-03 11:48:47,588 - SchemaController.py[line:58] - DEBUG: 
+SchemaController.report:
+当前刺激模式DoubleSpellingSchemaProcess,执行时间2021-06-03 11:48:47.588345
+
+
+
+2021-06-03 11:48:47,886 - WaitAnalysisProcess.py[line:27] - DEBUG: 进入等待模式,2021-06-03 11:48:47.886067
+
+2021-06-03 11:48:49,837 - OperateExchangeMessageOperator.py[line:92] - DEBUG: received STRD.
+2021-06-03 11:48:49,837 - OperateExchangeMessageOperator.py[line:94] - DEBUG: 准备进入实时处理模式
+2021-06-03 11:48:50,071 - DetectAnalysisProcess.py[line:85] - DEBUG: 满足终止条件，第7个数据窗共0.84秒数据作为判决窗，识别结果0，执行时间2021-06-03 11:48:50.071845
+
+2021-06-03 11:48:50,071 - DoubleSpellingSchemaProcess.py[line:338] - DEBUG: 
+DoubleSpellingSchemaProcess.report:本次识别结果，刺激频率8.0，执行时间2021-06-03 11:48:50.071845
+
+2021-06-03 11:48:50,079 - ExchangeMessageManagement.py[line:79] - DEBUG: send RSLT^0^0^^;;;;;_^;|:|'|"|.|!|,|`|上|下^0!
+2021-06-03 11:48:50,581 - SchemaController.py[line:58] - DEBUG: 
+SchemaController.report:
+当前刺激模式DoubleSpellingSchemaProcess,执行时间2021-06-03 11:48:50.581710
+
+
+
+2021-06-03 11:48:50,873 - WaitAnalysisProcess.py[line:27] - DEBUG: 进入等待模式,2021-06-03 11:48:50.873418
+
+2021-06-03 11:48:52,840 - OperateExchangeMessageOperator.py[line:92] - DEBUG: received STRD.
+2021-06-03 11:48:52,840 - OperateExchangeMessageOperator.py[line:94] - DEBUG: 准备进入实时处理模式
+2021-06-03 11:48:56,480 - UpdateAnalysisProcess.py[line:70] - DEBUG: 
+
+均衡器更新完成，所用数据长度10029，更新所用计算时间0:00:01.139024，当前时间2021-06-03 11:48:56.480111
+
+
+2021-06-03 11:48:57,849 - DetectAnalysisProcess.py[line:85] - DEBUG: 满足终止条件，第7个数据窗共0.84秒数据作为判决窗，识别结果4，执行时间2021-06-03 11:48:57.849720
+
+2021-06-03 11:48:57,849 - DoubleSpellingSchemaProcess.py[line:338] - DEBUG: 
+DoubleSpellingSchemaProcess.report:本次识别结果，刺激频率8.8，执行时间2021-06-03 11:48:57.849720
+
+2021-06-03 11:48:57,857 - ExchangeMessageManagement.py[line:79] - DEBUG: send RSLT^4^0^^;;;;;'_^;|:|'|"|.|!|,|`|上|下^0!
+2021-06-03 11:48:58,359 - SchemaController.py[line:58] - DEBUG: 
+SchemaController.report:
+当前刺激模式DoubleSpellingSchemaProcess,执行时间2021-06-03 11:48:58.359121
+
+
+
+2021-06-03 11:48:58,664 - WaitAnalysisProcess.py[line:27] - DEBUG: 进入等待模式,2021-06-03 11:48:58.664864
+
+2021-06-03 11:49:00,353 - OperateExchangeMessageOperator.py[line:92] - DEBUG: received STRD.
+2021-06-03 11:49:00,353 - OperateExchangeMessageOperator.py[line:94] - DEBUG: 准备进入实时处理模式
+2021-06-03 11:49:00,552 - DetectAnalysisProcess.py[line:85] - DEBUG: 满足终止条件，第7个数据窗共0.84秒数据作为判决窗，识别结果4，执行时间2021-06-03 11:49:00.552418
+
+2021-06-03 11:49:00,552 - DoubleSpellingSchemaProcess.py[line:338] - DEBUG: 
+DoubleSpellingSchemaProcess.report:本次识别结果，刺激频率8.8，执行时间2021-06-03 11:49:00.552418
+
+2021-06-03 11:49:00,561 - ExchangeMessageManagement.py[line:79] - DEBUG: send RSLT^4^0^^;;;;;''_^;|:|'|"|.|!|,|`|上|下^0!
+2021-06-03 11:49:01,062 - SchemaController.py[line:58] - DEBUG: 
+SchemaController.report:
+当前刺激模式DoubleSpellingSchemaProcess,执行时间2021-06-03 11:49:01.062760
+
+
+
+2021-06-03 11:49:01,357 - WaitAnalysisProcess.py[line:27] - DEBUG: 进入等待模式,2021-06-03 11:49:01.357476
+
+2021-06-03 11:49:02,974 - DoubleSpellingOpeController.py[line:157] - DEBUG: DoubleSpellingOpeController.stop is called.
+2021-06-03 11:49:02,974 - ExchangeMessageManagement.py[line:64] - DEBUG: ExchangeMessageManagement.stop is called.
+2021-06-03 11:49:03,073 - DoubleSpellingOpeController.py[line:149] - DEBUG: DoubleSpellingOpeController.start is returned.
+2021-06-03 11:49:03,090 - receive_exchange_message_fcn.py[line:23] - DEBUG: Exiting receive_exchange_message_fcn!
+2021-06-03 11:49:03,360 - operate_exchange_message_fcn.py[line:20] - DEBUG: Exiting operate_exchange_message_fcn!
+2021-06-03 11:49:03,360 - DoubleSpellingOpeController.py[line:163] - DEBUG: DoubleSpellingOpeController.stop is returned.
+2021-06-03 11:50:30,134 - DoubleSpellingOpeController.py[line:48] - DEBUG: wjsDoubleSpellingOpeController.initial in subsystem instance is called
+2021-06-03 11:50:30,134 - DoubleSpellingOpeController.py[line:48] - DEBUG: wjsDoubleSpellingOpeController.initial in subsystem instance is called
+2021-06-03 11:50:31,666 - ExchangeMessageManagement.py[line:43] - DEBUG: ExchangeMessageManagement.initial is called.
+2021-06-03 11:50:31,666 - ExchangeMessageManagement.py[line:43] - DEBUG: ExchangeMessageManagement.initial is called.
+2021-06-03 11:50:31,683 - SchemaController.py[line:24] - DEBUG: SchemaController.initial is called.
+2021-06-03 11:50:31,683 - SchemaController.py[line:24] - DEBUG: SchemaController.initial is called.
+2021-06-03 11:50:31,787 - AnalysisController.py[line:21] - DEBUG: AnalysisController.initial is called.
+2021-06-03 11:50:31,787 - AnalysisController.py[line:21] - DEBUG: AnalysisController.initial is called.
+2021-06-03 11:50:31,787 - MultilayerWindowClassifier.py[line:32] - DEBUG: MultilayerWindowClassifier.initial is called.
+2021-06-03 11:50:31,787 - MultilayerWindowClassifier.py[line:32] - DEBUG: MultilayerWindowClassifier.initial is called.
+2021-06-03 11:50:31,796 - DetectAnalysisProcess.py[line:24] - DEBUG: DetectAnalysisProcess.initial is called.
+2021-06-03 11:50:31,796 - DetectAnalysisProcess.py[line:24] - DEBUG: DetectAnalysisProcess.initial is called.
+2021-06-03 11:50:31,796 - UpdateAnalysisProcess.py[line:20] - DEBUG: UpdateAnalysisProcess.initial is called.
+2021-06-03 11:50:31,796 - UpdateAnalysisProcess.py[line:20] - DEBUG: UpdateAnalysisProcess.initial is called.
+2021-06-03 11:50:31,796 - WaitAnalysisProcess.py[line:15] - DEBUG: WaitAnalysisProcess.initial is called.
+2021-06-03 11:50:31,796 - WaitAnalysisProcess.py[line:15] - DEBUG: WaitAnalysisProcess.initial is called.
+2021-06-03 11:50:32,077 - ExchangeMessageManagement.py[line:59] - DEBUG: ExchangeMessageManagement.start is called.
+2021-06-03 11:50:32,077 - ExchangeMessageManagement.py[line:59] - DEBUG: ExchangeMessageManagement.start is called.
+2021-06-03 11:50:32,078 - DoubleSpellingOpeController.py[line:97] - DEBUG: 当前监视器状态INIT,等待监视器状态改变为STON,2021-06-03 11:50:32.078771
+
+2021-06-03 11:50:32,078 - DoubleSpellingOpeController.py[line:97] - DEBUG: 当前监视器状态INIT,等待监视器状态改变为STON,2021-06-03 11:50:32.078771
+
+2021-06-03 11:50:32,078 - DoubleSpellingOpeController.py[line:104] - DEBUG: DoubleSpellingOpeController.start is called.
+2021-06-03 11:50:32,078 - DoubleSpellingOpeController.py[line:104] - DEBUG: DoubleSpellingOpeController.start is called.
+2021-06-03 11:50:33,080 - OperateExchangeMessageOperator.py[line:24] - DEBUG: received CTNS.
+2021-06-03 11:50:33,080 - OperateExchangeMessageOperator.py[line:24] - DEBUG: received CTNS.
+2021-06-03 11:50:33,161 - ExchangeMessageManagement.py[line:79] - DEBUG: send CTOK!
+2021-06-03 11:50:33,161 - ExchangeMessageManagement.py[line:79] - DEBUG: send CTOK!
+2021-06-03 11:50:33,161 - OperateExchangeMessageOperator.py[line:28] - DEBUG: 成功连接到Neuracle服务器
+2021-06-03 11:50:33,161 - OperateExchangeMessageOperator.py[line:28] - DEBUG: 成功连接到Neuracle服务器
+2021-06-03 11:50:33,580 - OperateExchangeMessageOperator.py[line:24] - DEBUG: received CTNS.
+2021-06-03 11:50:33,580 - OperateExchangeMessageOperator.py[line:24] - DEBUG: received CTNS.
+2021-06-03 11:50:33,590 - ExchangeMessageManagement.py[line:79] - DEBUG: send CTOK!
+2021-06-03 11:50:33,590 - ExchangeMessageManagement.py[line:79] - DEBUG: send CTOK!
+2021-06-03 11:50:33,590 - OperateExchangeMessageOperator.py[line:28] - DEBUG: 成功连接到Neuracle服务器
+2021-06-03 11:50:33,590 - OperateExchangeMessageOperator.py[line:28] - DEBUG: 成功连接到Neuracle服务器
+2021-06-03 11:50:34,081 - OperateExchangeMessageOperator.py[line:24] - DEBUG: received CTNS.
+2021-06-03 11:50:34,081 - OperateExchangeMessageOperator.py[line:24] - DEBUG: received CTNS.
+2021-06-03 11:50:34,090 - ExchangeMessageManagement.py[line:79] - DEBUG: send CTOK!
+2021-06-03 11:50:34,090 - ExchangeMessageManagement.py[line:79] - DEBUG: send CTOK!
+2021-06-03 11:50:34,090 - OperateExchangeMessageOperator.py[line:28] - DEBUG: 成功连接到Neuracle服务器
+2021-06-03 11:50:34,090 - OperateExchangeMessageOperator.py[line:28] - DEBUG: 成功连接到Neuracle服务器
+2021-06-03 11:50:34,582 - OperateExchangeMessageOperator.py[line:24] - DEBUG: received CTNS.
+2021-06-03 11:50:34,582 - OperateExchangeMessageOperator.py[line:24] - DEBUG: received CTNS.
+2021-06-03 11:50:34,590 - ExchangeMessageManagement.py[line:79] - DEBUG: send CTOK!
+2021-06-03 11:50:34,590 - ExchangeMessageManagement.py[line:79] - DEBUG: send CTOK!
+2021-06-03 11:50:34,590 - OperateExchangeMessageOperator.py[line:28] - DEBUG: 成功连接到Neuracle服务器
+2021-06-03 11:50:34,590 - OperateExchangeMessageOperator.py[line:28] - DEBUG: 成功连接到Neuracle服务器
+2021-06-03 11:50:35,082 - OperateExchangeMessageOperator.py[line:24] - DEBUG: received CTNS.
+2021-06-03 11:50:35,082 - OperateExchangeMessageOperator.py[line:24] - DEBUG: received CTNS.
+2021-06-03 11:50:35,091 - ExchangeMessageManagement.py[line:79] - DEBUG: send CTOK!
+2021-06-03 11:50:35,091 - ExchangeMessageManagement.py[line:79] - DEBUG: send CTOK!
+2021-06-03 11:50:35,091 - OperateExchangeMessageOperator.py[line:28] - DEBUG: 成功连接到Neuracle服务器
+2021-06-03 11:50:35,091 - OperateExchangeMessageOperator.py[line:28] - DEBUG: 成功连接到Neuracle服务器
+2021-06-03 11:50:35,583 - OperateExchangeMessageOperator.py[line:40] - DEBUG: received STAR.
+2021-06-03 11:50:35,583 - OperateExchangeMessageOperator.py[line:40] - DEBUG: received STAR.
+2021-06-03 11:50:35,591 - ExchangeMessageManagement.py[line:79] - DEBUG: send TROK!
+2021-06-03 11:50:35,591 - ExchangeMessageManagement.py[line:79] - DEBUG: send TROK!
+2021-06-03 11:50:35,591 - OperateExchangeMessageOperator.py[line:45] - DEBUG: 开始从NeuroScan服务器接收数据
+2021-06-03 11:50:35,591 - OperateExchangeMessageOperator.py[line:45] - DEBUG: 开始从NeuroScan服务器接收数据
+2021-06-03 11:51:12,120 - OperateExchangeMessageOperator.py[line:58] - DEBUG: received STON.
+2021-06-03 11:51:12,120 - OperateExchangeMessageOperator.py[line:58] - DEBUG: received STON.
+2021-06-03 11:51:12,120 - OperateExchangeMessageOperator.py[line:60] - DEBUG: 设置为开始数据处理状态
+2021-06-03 11:51:12,120 - OperateExchangeMessageOperator.py[line:60] - DEBUG: 设置为开始数据处理状态
+2021-06-03 11:51:12,625 - ExchangeMessageManagement.py[line:79] - DEBUG: send TNOK!
+2021-06-03 11:51:12,625 - ExchangeMessageManagement.py[line:79] - DEBUG: send TNOK!
+2021-06-03 11:51:12,744 - UpdateAnalysisProcess.py[line:70] - DEBUG: 
+
+均衡器更新完成，所用数据长度10029，更新所用计算时间0:00:00.087235，当前时间2021-06-03 11:51:12.744713
+
+
+2021-06-03 11:51:12,744 - UpdateAnalysisProcess.py[line:70] - DEBUG: 
+
+均衡器更新完成，所用数据长度10029，更新所用计算时间0:00:00.087235，当前时间2021-06-03 11:51:12.744713
+
+
+2021-06-03 11:51:13,011 - DetectAnalysisProcess.py[line:85] - DEBUG: 满足终止条件，第7个数据窗共0.84秒数据作为判决窗，识别结果0，执行时间2021-06-03 11:51:13.011422
+
+2021-06-03 11:51:13,011 - DetectAnalysisProcess.py[line:85] - DEBUG: 满足终止条件，第7个数据窗共0.84秒数据作为判决窗，识别结果0，执行时间2021-06-03 11:51:13.011422
+
+2021-06-03 11:51:13,011 - DoubleSpellingSchemaProcess.py[line:338] - DEBUG: 
+DoubleSpellingSchemaProcess.report:本次识别结果，刺激频率8.0，执行时间2021-06-03 11:51:13.011422
+
+2021-06-03 11:51:13,011 - DoubleSpellingSchemaProcess.py[line:338] - DEBUG: 
+DoubleSpellingSchemaProcess.report:本次识别结果，刺激频率8.0，执行时间2021-06-03 11:51:13.011422
+
+2021-06-03 11:51:13,023 - ExchangeMessageManagement.py[line:79] - DEBUG: send RSLT^0^0^^;_^;|:|'|"|.|!|,|`|上|下^0!
+2021-06-03 11:51:13,023 - ExchangeMessageManagement.py[line:79] - DEBUG: send RSLT^0^0^^;_^;|:|'|"|.|!|,|`|上|下^0!
+2021-06-03 11:51:13,523 - SchemaController.py[line:58] - DEBUG: 
+SchemaController.report:
+当前刺激模式DoubleSpellingSchemaProcess,执行时间2021-06-03 11:51:13.523786
+
+
+
+2021-06-03 11:51:13,523 - SchemaController.py[line:58] - DEBUG: 
+SchemaController.report:
+当前刺激模式DoubleSpellingSchemaProcess,执行时间2021-06-03 11:51:13.523786
+
+
+
+2021-06-03 11:51:13,820 - WaitAnalysisProcess.py[line:27] - DEBUG: 进入等待模式,2021-06-03 11:51:13.820468
+
+2021-06-03 11:51:13,820 - WaitAnalysisProcess.py[line:27] - DEBUG: 进入等待模式,2021-06-03 11:51:13.820468
+
+2021-06-03 11:51:14,122 - OperateExchangeMessageOperator.py[line:92] - DEBUG: received STRD.
+2021-06-03 11:51:14,122 - OperateExchangeMessageOperator.py[line:92] - DEBUG: received STRD.
+2021-06-03 11:51:14,122 - OperateExchangeMessageOperator.py[line:94] - DEBUG: 准备进入实时处理模式
+2021-06-03 11:51:14,122 - OperateExchangeMessageOperator.py[line:94] - DEBUG: 准备进入实时处理模式
+2021-06-03 11:51:14,451 - DetectAnalysisProcess.py[line:85] - DEBUG: 满足终止条件，第7个数据窗共0.84秒数据作为判决窗，识别结果0，执行时间2021-06-03 11:51:14.451424
+
+2021-06-03 11:51:14,451 - DetectAnalysisProcess.py[line:85] - DEBUG: 满足终止条件，第7个数据窗共0.84秒数据作为判决窗，识别结果0，执行时间2021-06-03 11:51:14.451424
+
+2021-06-03 11:51:14,451 - DoubleSpellingSchemaProcess.py[line:338] - DEBUG: 
+DoubleSpellingSchemaProcess.report:本次识别结果，刺激频率8.0，执行时间2021-06-03 11:51:14.451424
+
+2021-06-03 11:51:14,451 - DoubleSpellingSchemaProcess.py[line:338] - DEBUG: 
+DoubleSpellingSchemaProcess.report:本次识别结果，刺激频率8.0，执行时间2021-06-03 11:51:14.451424
+
+2021-06-03 11:51:14,460 - ExchangeMessageManagement.py[line:79] - DEBUG: send RSLT^0^0^^;;_^;|:|'|"|.|!|,|`|上|下^0!
+2021-06-03 11:51:14,460 - ExchangeMessageManagement.py[line:79] - DEBUG: send RSLT^0^0^^;;_^;|:|'|"|.|!|,|`|上|下^0!
+2021-06-03 11:51:14,960 - SchemaController.py[line:58] - DEBUG: 
+SchemaController.report:
+当前刺激模式DoubleSpellingSchemaProcess,执行时间2021-06-03 11:51:14.960804
+
+
+
+2021-06-03 11:51:14,960 - SchemaController.py[line:58] - DEBUG: 
+SchemaController.report:
+当前刺激模式DoubleSpellingSchemaProcess,执行时间2021-06-03 11:51:14.960804
+
+
+
+2021-06-03 11:51:15,268 - WaitAnalysisProcess.py[line:27] - DEBUG: 进入等待模式,2021-06-03 11:51:15.268623
+
+2021-06-03 11:51:15,268 - WaitAnalysisProcess.py[line:27] - DEBUG: 进入等待模式,2021-06-03 11:51:15.268623
+
+2021-06-03 11:51:17,125 - OperateExchangeMessageOperator.py[line:92] - DEBUG: received STRD.
+2021-06-03 11:51:17,125 - OperateExchangeMessageOperator.py[line:92] - DEBUG: received STRD.
+2021-06-03 11:51:17,125 - OperateExchangeMessageOperator.py[line:94] - DEBUG: 准备进入实时处理模式
+2021-06-03 11:51:17,125 - OperateExchangeMessageOperator.py[line:94] - DEBUG: 准备进入实时处理模式
+2021-06-03 11:51:17,356 - DetectAnalysisProcess.py[line:85] - DEBUG: 满足终止条件，第7个数据窗共0.84秒数据作为判决窗，识别结果0，执行时间2021-06-03 11:51:17.356782
+
+2021-06-03 11:51:17,356 - DetectAnalysisProcess.py[line:85] - DEBUG: 满足终止条件，第7个数据窗共0.84秒数据作为判决窗，识别结果0，执行时间2021-06-03 11:51:17.356782
+
+2021-06-03 11:51:17,356 - DoubleSpellingSchemaProcess.py[line:338] - DEBUG: 
+DoubleSpellingSchemaProcess.report:本次识别结果，刺激频率8.0，执行时间2021-06-03 11:51:17.356782
+
+2021-06-03 11:51:17,356 - DoubleSpellingSchemaProcess.py[line:338] - DEBUG: 
+DoubleSpellingSchemaProcess.report:本次识别结果，刺激频率8.0，执行时间2021-06-03 11:51:17.356782
+
+2021-06-03 11:51:17,366 - ExchangeMessageManagement.py[line:79] - DEBUG: send RSLT^0^0^^;;;_^;|:|'|"|.|!|,|`|上|下^0!
+2021-06-03 11:51:17,366 - ExchangeMessageManagement.py[line:79] - DEBUG: send RSLT^0^0^^;;;_^;|:|'|"|.|!|,|`|上|下^0!
+2021-06-03 11:51:17,867 - SchemaController.py[line:58] - DEBUG: 
+SchemaController.report:
+当前刺激模式DoubleSpellingSchemaProcess,执行时间2021-06-03 11:51:17.867161
+
+
+
+2021-06-03 11:51:17,867 - SchemaController.py[line:58] - DEBUG: 
+SchemaController.report:
+当前刺激模式DoubleSpellingSchemaProcess,执行时间2021-06-03 11:51:17.867161
+
+
+
+2021-06-03 11:51:18,159 - WaitAnalysisProcess.py[line:27] - DEBUG: 进入等待模式,2021-06-03 11:51:18.159960
+
+2021-06-03 11:51:18,159 - WaitAnalysisProcess.py[line:27] - DEBUG: 进入等待模式,2021-06-03 11:51:18.159960
+
+2021-06-03 11:51:20,129 - OperateExchangeMessageOperator.py[line:92] - DEBUG: received STRD.
+2021-06-03 11:51:20,129 - OperateExchangeMessageOperator.py[line:92] - DEBUG: received STRD.
+2021-06-03 11:51:20,129 - OperateExchangeMessageOperator.py[line:94] - DEBUG: 准备进入实时处理模式
+2021-06-03 11:51:20,129 - OperateExchangeMessageOperator.py[line:94] - DEBUG: 准备进入实时处理模式
+2021-06-03 11:51:20,347 - DetectAnalysisProcess.py[line:85] - DEBUG: 满足终止条件，第7个数据窗共0.84秒数据作为判决窗，识别结果0，执行时间2021-06-03 11:51:20.347127
+
+2021-06-03 11:51:20,347 - DetectAnalysisProcess.py[line:85] - DEBUG: 满足终止条件，第7个数据窗共0.84秒数据作为判决窗，识别结果0，执行时间2021-06-03 11:51:20.347127
+
+2021-06-03 11:51:20,348 - DoubleSpellingSchemaProcess.py[line:338] - DEBUG: 
+DoubleSpellingSchemaProcess.report:本次识别结果，刺激频率8.0，执行时间2021-06-03 11:51:20.348131
+
+2021-06-03 11:51:20,348 - DoubleSpellingSchemaProcess.py[line:338] - DEBUG: 
+DoubleSpellingSchemaProcess.report:本次识别结果，刺激频率8.0，执行时间2021-06-03 11:51:20.348131
+
+2021-06-03 11:51:20,357 - ExchangeMessageManagement.py[line:79] - DEBUG: send RSLT^0^0^^;;;;_^;|:|'|"|.|!|,|`|上|下^0!
+2021-06-03 11:51:20,357 - ExchangeMessageManagement.py[line:79] - DEBUG: send RSLT^0^0^^;;;;_^;|:|'|"|.|!|,|`|上|下^0!
+2021-06-03 11:51:20,857 - SchemaController.py[line:58] - DEBUG: 
+SchemaController.report:
+当前刺激模式DoubleSpellingSchemaProcess,执行时间2021-06-03 11:51:20.857791
+
+
+
+2021-06-03 11:51:20,857 - SchemaController.py[line:58] - DEBUG: 
+SchemaController.report:
+当前刺激模式DoubleSpellingSchemaProcess,执行时间2021-06-03 11:51:20.857791
+
+
+
+2021-06-03 11:51:21,187 - WaitAnalysisProcess.py[line:27] - DEBUG: 进入等待模式,2021-06-03 11:51:21.187584
+
+2021-06-03 11:51:21,187 - WaitAnalysisProcess.py[line:27] - DEBUG: 进入等待模式,2021-06-03 11:51:21.187584
+
+2021-06-03 11:51:23,132 - OperateExchangeMessageOperator.py[line:92] - DEBUG: received STRD.
+2021-06-03 11:51:23,132 - OperateExchangeMessageOperator.py[line:92] - DEBUG: received STRD.
+2021-06-03 11:51:23,132 - OperateExchangeMessageOperator.py[line:94] - DEBUG: 准备进入实时处理模式
+2021-06-03 11:51:23,132 - OperateExchangeMessageOperator.py[line:94] - DEBUG: 准备进入实时处理模式
+2021-06-03 11:51:23,373 - DetectAnalysisProcess.py[line:85] - DEBUG: 满足终止条件，第7个数据窗共0.84秒数据作为判决窗，识别结果0，执行时间2021-06-03 11:51:23.373682
+
+2021-06-03 11:51:23,373 - DetectAnalysisProcess.py[line:85] - DEBUG: 满足终止条件，第7个数据窗共0.84秒数据作为判决窗，识别结果0，执行时间2021-06-03 11:51:23.373682
+
+2021-06-03 11:51:23,374 - DoubleSpellingSchemaProcess.py[line:338] - DEBUG: 
+DoubleSpellingSchemaProcess.report:本次识别结果，刺激频率8.0，执行时间2021-06-03 11:51:23.374691
+
+2021-06-03 11:51:23,374 - DoubleSpellingSchemaProcess.py[line:338] - DEBUG: 
+DoubleSpellingSchemaProcess.report:本次识别结果，刺激频率8.0，执行时间2021-06-03 11:51:23.374691
+
+2021-06-03 11:51:23,382 - ExchangeMessageManagement.py[line:79] - DEBUG: send RSLT^0^0^^;;;;;_^;|:|'|"|.|!|,|`|上|下^0!
+2021-06-03 11:51:23,382 - ExchangeMessageManagement.py[line:79] - DEBUG: send RSLT^0^0^^;;;;;_^;|:|'|"|.|!|,|`|上|下^0!
+2021-06-03 11:51:23,883 - SchemaController.py[line:58] - DEBUG: 
+SchemaController.report:
+当前刺激模式DoubleSpellingSchemaProcess,执行时间2021-06-03 11:51:23.883647
+
+
+
+2021-06-03 11:51:23,883 - SchemaController.py[line:58] - DEBUG: 
+SchemaController.report:
+当前刺激模式DoubleSpellingSchemaProcess,执行时间2021-06-03 11:51:23.883647
+
+
+
+2021-06-03 11:51:24,169 - WaitAnalysisProcess.py[line:27] - DEBUG: 进入等待模式,2021-06-03 11:51:24.169301
+
+2021-06-03 11:51:24,169 - WaitAnalysisProcess.py[line:27] - DEBUG: 进入等待模式,2021-06-03 11:51:24.169301
+
+2021-06-03 11:51:26,635 - OperateExchangeMessageOperator.py[line:92] - DEBUG: received STRD.
+2021-06-03 11:51:26,635 - OperateExchangeMessageOperator.py[line:92] - DEBUG: received STRD.
+2021-06-03 11:51:26,635 - OperateExchangeMessageOperator.py[line:94] - DEBUG: 准备进入实时处理模式
+2021-06-03 11:51:26,635 - OperateExchangeMessageOperator.py[line:94] - DEBUG: 准备进入实时处理模式
+2021-06-03 11:51:30,275 - UpdateAnalysisProcess.py[line:70] - DEBUG: 
+
+均衡器更新完成，所用数据长度10029，更新所用计算时间0:00:01.135019，当前时间2021-06-03 11:51:30.275438
+
+
+2021-06-03 11:51:30,275 - UpdateAnalysisProcess.py[line:70] - DEBUG: 
+
+均衡器更新完成，所用数据长度10029，更新所用计算时间0:00:01.135019，当前时间2021-06-03 11:51:30.275438
+
+
+2021-06-03 11:51:31,634 - DetectAnalysisProcess.py[line:85] - DEBUG: 满足终止条件，第7个数据窗共0.84秒数据作为判决窗，识别结果4，执行时间2021-06-03 11:51:31.634047
+
+2021-06-03 11:51:31,634 - DetectAnalysisProcess.py[line:85] - DEBUG: 满足终止条件，第7个数据窗共0.84秒数据作为判决窗，识别结果4，执行时间2021-06-03 11:51:31.634047
+
+2021-06-03 11:51:31,634 - DoubleSpellingSchemaProcess.py[line:338] - DEBUG: 
+DoubleSpellingSchemaProcess.report:本次识别结果，刺激频率8.8，执行时间2021-06-03 11:51:31.634047
+
+2021-06-03 11:51:31,634 - DoubleSpellingSchemaProcess.py[line:338] - DEBUG: 
+DoubleSpellingSchemaProcess.report:本次识别结果，刺激频率8.8，执行时间2021-06-03 11:51:31.634047
+
+2021-06-03 11:51:31,643 - ExchangeMessageManagement.py[line:79] - DEBUG: send RSLT^4^0^^;;;;;'_^;|:|'|"|.|!|,|`|上|下^0!
+2021-06-03 11:51:31,643 - ExchangeMessageManagement.py[line:79] - DEBUG: send RSLT^4^0^^;;;;;'_^;|:|'|"|.|!|,|`|上|下^0!
+2021-06-03 11:51:32,143 - SchemaController.py[line:58] - DEBUG: 
+SchemaController.report:
+当前刺激模式DoubleSpellingSchemaProcess,执行时间2021-06-03 11:51:32.143662
+
+
+
+2021-06-03 11:51:32,143 - SchemaController.py[line:58] - DEBUG: 
+SchemaController.report:
+当前刺激模式DoubleSpellingSchemaProcess,执行时间2021-06-03 11:51:32.143662
+
+
+
+2021-06-03 11:51:32,431 - WaitAnalysisProcess.py[line:27] - DEBUG: 进入等待模式,2021-06-03 11:51:32.431358
+
+2021-06-03 11:51:32,431 - WaitAnalysisProcess.py[line:27] - DEBUG: 进入等待模式,2021-06-03 11:51:32.431358
+
+2021-06-03 11:51:34,146 - OperateExchangeMessageOperator.py[line:92] - DEBUG: received STRD.
+2021-06-03 11:51:34,146 - OperateExchangeMessageOperator.py[line:92] - DEBUG: received STRD.
+2021-06-03 11:51:34,146 - OperateExchangeMessageOperator.py[line:94] - DEBUG: 准备进入实时处理模式
+2021-06-03 11:51:34,146 - OperateExchangeMessageOperator.py[line:94] - DEBUG: 准备进入实时处理模式
+2021-06-03 11:51:34,419 - DetectAnalysisProcess.py[line:85] - DEBUG: 满足终止条件，第7个数据窗共0.84秒数据作为判决窗，识别结果4，执行时间2021-06-03 11:51:34.419288
+
+2021-06-03 11:51:34,419 - DetectAnalysisProcess.py[line:85] - DEBUG: 满足终止条件，第7个数据窗共0.84秒数据作为判决窗，识别结果4，执行时间2021-06-03 11:51:34.419288
+
+2021-06-03 11:51:34,420 - DoubleSpellingSchemaProcess.py[line:338] - DEBUG: 
+DoubleSpellingSchemaProcess.report:本次识别结果，刺激频率8.8，执行时间2021-06-03 11:51:34.420291
+
+2021-06-03 11:51:34,420 - DoubleSpellingSchemaProcess.py[line:338] - DEBUG: 
+DoubleSpellingSchemaProcess.report:本次识别结果，刺激频率8.8，执行时间2021-06-03 11:51:34.420291
+
+2021-06-03 11:51:34,428 - ExchangeMessageManagement.py[line:79] - DEBUG: send RSLT^4^0^^;;;;;''_^;|:|'|"|.|!|,|`|上|下^0!
+2021-06-03 11:51:34,428 - ExchangeMessageManagement.py[line:79] - DEBUG: send RSLT^4^0^^;;;;;''_^;|:|'|"|.|!|,|`|上|下^0!
+2021-06-03 11:51:34,928 - SchemaController.py[line:58] - DEBUG: 
+SchemaController.report:
+当前刺激模式DoubleSpellingSchemaProcess,执行时间2021-06-03 11:51:34.928379
+
+
+
+2021-06-03 11:51:34,928 - SchemaController.py[line:58] - DEBUG: 
+SchemaController.report:
+当前刺激模式DoubleSpellingSchemaProcess,执行时间2021-06-03 11:51:34.928379
+
+
+
+2021-06-03 11:51:35,212 - WaitAnalysisProcess.py[line:27] - DEBUG: 进入等待模式,2021-06-03 11:51:35.212025
+
+2021-06-03 11:51:35,212 - WaitAnalysisProcess.py[line:27] - DEBUG: 进入等待模式,2021-06-03 11:51:35.212025
+
+2021-06-03 11:51:37,148 - OperateExchangeMessageOperator.py[line:92] - DEBUG: received STRD.
+2021-06-03 11:51:37,148 - OperateExchangeMessageOperator.py[line:92] - DEBUG: received STRD.
+2021-06-03 11:51:37,148 - OperateExchangeMessageOperator.py[line:94] - DEBUG: 准备进入实时处理模式
+2021-06-03 11:51:37,148 - OperateExchangeMessageOperator.py[line:94] - DEBUG: 准备进入实时处理模式
+2021-06-03 11:51:37,393 - DetectAnalysisProcess.py[line:85] - DEBUG: 满足终止条件，第7个数据窗共0.84秒数据作为判决窗，识别结果4，执行时间2021-06-03 11:51:37.393225
+
+2021-06-03 11:51:37,393 - DetectAnalysisProcess.py[line:85] - DEBUG: 满足终止条件，第7个数据窗共0.84秒数据作为判决窗，识别结果4，执行时间2021-06-03 11:51:37.393225
+
+2021-06-03 11:51:37,393 - DoubleSpellingSchemaProcess.py[line:338] - DEBUG: 
+DoubleSpellingSchemaProcess.report:本次识别结果，刺激频率8.8，执行时间2021-06-03 11:51:37.393225
+
+2021-06-03 11:51:37,393 - DoubleSpellingSchemaProcess.py[line:338] - DEBUG: 
+DoubleSpellingSchemaProcess.report:本次识别结果，刺激频率8.8，执行时间2021-06-03 11:51:37.393225
+
+2021-06-03 11:51:37,402 - ExchangeMessageManagement.py[line:79] - DEBUG: send RSLT^4^0^^;;;;;'''_^;|:|'|"|.|!|,|`|上|下^0!
+2021-06-03 11:51:37,402 - ExchangeMessageManagement.py[line:79] - DEBUG: send RSLT^4^0^^;;;;;'''_^;|:|'|"|.|!|,|`|上|下^0!
+2021-06-03 11:51:37,902 - SchemaController.py[line:58] - DEBUG: 
+SchemaController.report:
+当前刺激模式DoubleSpellingSchemaProcess,执行时间2021-06-03 11:51:37.902747
+
+
+
+2021-06-03 11:51:37,902 - SchemaController.py[line:58] - DEBUG: 
+SchemaController.report:
+当前刺激模式DoubleSpellingSchemaProcess,执行时间2021-06-03 11:51:37.902747
+
+
+
+2021-06-03 11:51:38,193 - WaitAnalysisProcess.py[line:27] - DEBUG: 进入等待模式,2021-06-03 11:51:38.192449
+
+2021-06-03 11:51:38,193 - WaitAnalysisProcess.py[line:27] - DEBUG: 进入等待模式,2021-06-03 11:51:38.192449
+
+2021-06-03 11:51:40,152 - OperateExchangeMessageOperator.py[line:92] - DEBUG: received STRD.
+2021-06-03 11:51:40,152 - OperateExchangeMessageOperator.py[line:92] - DEBUG: received STRD.
+2021-06-03 11:51:40,152 - OperateExchangeMessageOperator.py[line:94] - DEBUG: 准备进入实时处理模式
+2021-06-03 11:51:40,152 - OperateExchangeMessageOperator.py[line:94] - DEBUG: 准备进入实时处理模式
+2021-06-03 11:51:40,378 - DetectAnalysisProcess.py[line:85] - DEBUG: 满足终止条件，第7个数据窗共0.84秒数据作为判决窗，识别结果4，执行时间2021-06-03 11:51:40.378286
+
+2021-06-03 11:51:40,378 - DetectAnalysisProcess.py[line:85] - DEBUG: 满足终止条件，第7个数据窗共0.84秒数据作为判决窗，识别结果4，执行时间2021-06-03 11:51:40.378286
+
+2021-06-03 11:51:40,378 - DoubleSpellingSchemaProcess.py[line:338] - DEBUG: 
+DoubleSpellingSchemaProcess.report:本次识别结果，刺激频率8.8，执行时间2021-06-03 11:51:40.378286
+
+2021-06-03 11:51:40,378 - DoubleSpellingSchemaProcess.py[line:338] - DEBUG: 
+DoubleSpellingSchemaProcess.report:本次识别结果，刺激频率8.8，执行时间2021-06-03 11:51:40.378286
+
+2021-06-03 11:51:40,387 - ExchangeMessageManagement.py[line:79] - DEBUG: send RSLT^4^0^^;;;;;''''_^;|:|'|"|.|!|,|`|上|下^0!
+2021-06-03 11:51:40,387 - ExchangeMessageManagement.py[line:79] - DEBUG: send RSLT^4^0^^;;;;;''''_^;|:|'|"|.|!|,|`|上|下^0!
+2021-06-03 11:51:40,889 - SchemaController.py[line:58] - DEBUG: 
+SchemaController.report:
+当前刺激模式DoubleSpellingSchemaProcess,执行时间2021-06-03 11:51:40.889218
+
+
+
+2021-06-03 11:51:40,889 - SchemaController.py[line:58] - DEBUG: 
+SchemaController.report:
+当前刺激模式DoubleSpellingSchemaProcess,执行时间2021-06-03 11:51:40.889218
+
+
+
+2021-06-03 11:51:41,177 - WaitAnalysisProcess.py[line:27] - DEBUG: 进入等待模式,2021-06-03 11:51:41.177940
+
+2021-06-03 11:51:41,177 - WaitAnalysisProcess.py[line:27] - DEBUG: 进入等待模式,2021-06-03 11:51:41.177940
+
+2021-06-03 11:51:43,155 - OperateExchangeMessageOperator.py[line:92] - DEBUG: received STRD.
+2021-06-03 11:51:43,155 - OperateExchangeMessageOperator.py[line:92] - DEBUG: received STRD.
+2021-06-03 11:51:43,155 - OperateExchangeMessageOperator.py[line:94] - DEBUG: 准备进入实时处理模式
+2021-06-03 11:51:43,155 - OperateExchangeMessageOperator.py[line:94] - DEBUG: 准备进入实时处理模式
+2021-06-03 11:51:43,361 - DetectAnalysisProcess.py[line:85] - DEBUG: 满足终止条件，第7个数据窗共0.84秒数据作为判决窗，识别结果4，执行时间2021-06-03 11:51:43.361391
+
+2021-06-03 11:51:43,361 - DetectAnalysisProcess.py[line:85] - DEBUG: 满足终止条件，第7个数据窗共0.84秒数据作为判决窗，识别结果4，执行时间2021-06-03 11:51:43.361391
+
+2021-06-03 11:51:43,361 - DoubleSpellingSchemaProcess.py[line:338] - DEBUG: 
+DoubleSpellingSchemaProcess.report:本次识别结果，刺激频率8.8，执行时间2021-06-03 11:51:43.361391
+
+2021-06-03 11:51:43,361 - DoubleSpellingSchemaProcess.py[line:338] - DEBUG: 
+DoubleSpellingSchemaProcess.report:本次识别结果，刺激频率8.8，执行时间2021-06-03 11:51:43.361391
+
+2021-06-03 11:51:43,370 - ExchangeMessageManagement.py[line:79] - DEBUG: send RSLT^4^0^^;;;;;'''''_^;|:|'|"|.|!|,|`|上|下^0!
+2021-06-03 11:51:43,370 - ExchangeMessageManagement.py[line:79] - DEBUG: send RSLT^4^0^^;;;;;'''''_^;|:|'|"|.|!|,|`|上|下^0!
+2021-06-03 11:51:43,870 - SchemaController.py[line:58] - DEBUG: 
+SchemaController.report:
+当前刺激模式DoubleSpellingSchemaProcess,执行时间2021-06-03 11:51:43.870723
+
+
+
+2021-06-03 11:51:43,870 - SchemaController.py[line:58] - DEBUG: 
+SchemaController.report:
+当前刺激模式DoubleSpellingSchemaProcess,执行时间2021-06-03 11:51:43.870723
+
+
+
+2021-06-03 11:51:44,172 - WaitAnalysisProcess.py[line:27] - DEBUG: 进入等待模式,2021-06-03 11:51:44.172441
+
+2021-06-03 11:51:44,172 - WaitAnalysisProcess.py[line:27] - DEBUG: 进入等待模式,2021-06-03 11:51:44.172441
+
+2021-06-03 11:51:46,172 - OperateExchangeMessageOperator.py[line:92] - DEBUG: received STRD.
+2021-06-03 11:51:46,172 - OperateExchangeMessageOperator.py[line:92] - DEBUG: received STRD.
+2021-06-03 11:51:46,172 - OperateExchangeMessageOperator.py[line:94] - DEBUG: 准备进入实时处理模式
+2021-06-03 11:51:46,172 - OperateExchangeMessageOperator.py[line:94] - DEBUG: 准备进入实时处理模式
+2021-06-03 11:51:46,490 - DoubleSpellingOpeController.py[line:157] - DEBUG: DoubleSpellingOpeController.stop is called.
+2021-06-03 11:51:46,490 - DoubleSpellingOpeController.py[line:157] - DEBUG: DoubleSpellingOpeController.stop is called.
+2021-06-03 11:51:46,491 - ExchangeMessageManagement.py[line:64] - DEBUG: ExchangeMessageManagement.stop is called.
+2021-06-03 11:51:46,491 - ExchangeMessageManagement.py[line:64] - DEBUG: ExchangeMessageManagement.stop is called.
+2021-06-03 11:51:46,506 - DoubleSpellingOpeController.py[line:149] - DEBUG: DoubleSpellingOpeController.start is returned.
+2021-06-03 11:51:46,506 - DoubleSpellingOpeController.py[line:149] - DEBUG: DoubleSpellingOpeController.start is returned.
+2021-06-03 11:51:46,673 - operate_exchange_message_fcn.py[line:20] - DEBUG: Exiting operate_exchange_message_fcn!
+2021-06-03 11:51:46,673 - operate_exchange_message_fcn.py[line:20] - DEBUG: Exiting operate_exchange_message_fcn!
+2021-06-03 11:51:46,968 - receive_exchange_message_fcn.py[line:23] - DEBUG: Exiting receive_exchange_message_fcn!
+2021-06-03 11:51:46,968 - receive_exchange_message_fcn.py[line:23] - DEBUG: Exiting receive_exchange_message_fcn!
+2021-06-03 11:51:47,173 - DoubleSpellingOpeController.py[line:163] - DEBUG: DoubleSpellingOpeController.stop is returned.
+2021-06-03 11:51:47,173 - DoubleSpellingOpeController.py[line:163] - DEBUG: DoubleSpellingOpeController.stop is returned.

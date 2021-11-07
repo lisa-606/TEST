@@ -1,0 +1,9 @@
+{
+  "device_name": "Neuracle",
+  "hostname": "127.0.0.1",
+  "port": 9503,
+  "srate": 1000,
+  "n_chan": 9,
+  "time_buffer":0.12,
+  "topic":"NeuracleEEG_data"
+}

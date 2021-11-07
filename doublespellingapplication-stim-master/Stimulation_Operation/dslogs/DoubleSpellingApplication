@@ -1,0 +1,1380 @@
+2021-06-03 11:35:36,014 - DoubleSpellingStimController.py[line:49] - DEBUG: DoubleSpellingStimController.initial is called.
+2021-06-03 11:35:37,424 - ExchangeMessageManagement.py[line:43] - DEBUG: ExchangeMessageManagement.initial is called.
+2021-06-03 11:35:37,425 - EventManager.py[line:68] - DEBUG: 0_AddEventListener
+2021-06-03 11:35:37,425 - EventManager.py[line:78] - DEBUG: {'CTOK': [<bound method StimulationExchangeMessageOperator.do_CTOK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x00000166DF8030B8>>]}
+2021-06-03 11:35:37,425 - EventManager.py[line:68] - DEBUG: 1_AddEventListener
+2021-06-03 11:35:37,426 - EventManager.py[line:78] - DEBUG: {'CTOK': [<bound method StimulationExchangeMessageOperator.do_CTOK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x00000166DF8030B8>>], 'DCOK': [<bound method StimulationExchangeMessageOperator.do_DCOK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x00000166DF8030B8>>]}
+2021-06-03 11:35:37,426 - EventManager.py[line:68] - DEBUG: 2_AddEventListener
+2021-06-03 11:35:37,426 - EventManager.py[line:78] - DEBUG: {'CTOK': [<bound method StimulationExchangeMessageOperator.do_CTOK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x00000166DF8030B8>>], 'DCOK': [<bound method StimulationExchangeMessageOperator.do_DCOK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x00000166DF8030B8>>], 'TROK': [<bound method StimulationExchangeMessageOperator.do_TROK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x00000166DF8030B8>>]}
+2021-06-03 11:35:37,426 - EventManager.py[line:68] - DEBUG: 3_AddEventListener
+2021-06-03 11:35:37,426 - EventManager.py[line:78] - DEBUG: {'CTOK': [<bound method StimulationExchangeMessageOperator.do_CTOK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x00000166DF8030B8>>], 'DCOK': [<bound method StimulationExchangeMessageOperator.do_DCOK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x00000166DF8030B8>>], 'TROK': [<bound method StimulationExchangeMessageOperator.do_TROK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x00000166DF8030B8>>], 'PROK': [<bound method StimulationExchangeMessageOperator.do_PROK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x00000166DF8030B8>>]}
+2021-06-03 11:35:37,426 - EventManager.py[line:68] - DEBUG: 4_AddEventListener
+2021-06-03 11:35:37,427 - EventManager.py[line:78] - DEBUG: {'CTOK': [<bound method StimulationExchangeMessageOperator.do_CTOK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x00000166DF8030B8>>], 'DCOK': [<bound method StimulationExchangeMessageOperator.do_DCOK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x00000166DF8030B8>>], 'TROK': [<bound method StimulationExchangeMessageOperator.do_TROK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x00000166DF8030B8>>], 'PROK': [<bound method StimulationExchangeMessageOperator.do_PROK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x00000166DF8030B8>>], 'TNOK': [<bound method StimulationExchangeMessageOperator.do_TNOK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x00000166DF8030B8>>]}
+2021-06-03 11:35:37,433 - EventManager.py[line:68] - DEBUG: 5_AddEventListener
+2021-06-03 11:35:37,433 - EventManager.py[line:78] - DEBUG: {'CTOK': [<bound method StimulationExchangeMessageOperator.do_CTOK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x00000166DF8030B8>>], 'DCOK': [<bound method StimulationExchangeMessageOperator.do_DCOK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x00000166DF8030B8>>], 'TROK': [<bound method StimulationExchangeMessageOperator.do_TROK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x00000166DF8030B8>>], 'PROK': [<bound method StimulationExchangeMessageOperator.do_PROK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x00000166DF8030B8>>], 'TNOK': [<bound method StimulationExchangeMessageOperator.do_TNOK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x00000166DF8030B8>>], 'PNOK': [<bound method StimulationExchangeMessageOperator.do_PNOK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x00000166DF8030B8>>]}
+2021-06-03 11:35:37,433 - EventManager.py[line:68] - DEBUG: 6_AddEventListener
+2021-06-03 11:35:37,434 - EventManager.py[line:78] - DEBUG: {'CTOK': [<bound method StimulationExchangeMessageOperator.do_CTOK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x00000166DF8030B8>>], 'DCOK': [<bound method StimulationExchangeMessageOperator.do_DCOK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x00000166DF8030B8>>], 'TROK': [<bound method StimulationExchangeMessageOperator.do_TROK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x00000166DF8030B8>>], 'PROK': [<bound method StimulationExchangeMessageOperator.do_PROK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x00000166DF8030B8>>], 'TNOK': [<bound method StimulationExchangeMessageOperator.do_TNOK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x00000166DF8030B8>>], 'PNOK': [<bound method StimulationExchangeMessageOperator.do_PNOK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x00000166DF8030B8>>], 'CAOK': [<bound method StimulationExchangeMessageOperator.do_CAOK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x00000166DF8030B8>>]}
+2021-06-03 11:35:37,434 - EventManager.py[line:68] - DEBUG: 7_AddEventListener
+2021-06-03 11:35:37,434 - EventManager.py[line:78] - DEBUG: {'CTOK': [<bound method StimulationExchangeMessageOperator.do_CTOK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x00000166DF8030B8>>], 'DCOK': [<bound method StimulationExchangeMessageOperator.do_DCOK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x00000166DF8030B8>>], 'TROK': [<bound method StimulationExchangeMessageOperator.do_TROK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x00000166DF8030B8>>], 'PROK': [<bound method StimulationExchangeMessageOperator.do_PROK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x00000166DF8030B8>>], 'TNOK': [<bound method StimulationExchangeMessageOperator.do_TNOK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x00000166DF8030B8>>], 'PNOK': [<bound method StimulationExchangeMessageOperator.do_PNOK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x00000166DF8030B8>>], 'CAOK': [<bound method StimulationExchangeMessageOperator.do_CAOK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x00000166DF8030B8>>], 'STSN': [<bound method StimulationExchangeMessageOperator.do_STSN of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x00000166DF8030B8>>]}
+2021-06-03 11:35:37,448 - EventManager.py[line:68] - DEBUG: 8_AddEventListener
+2021-06-03 11:35:37,448 - EventManager.py[line:78] - DEBUG: {'CTOK': [<bound method StimulationExchangeMessageOperator.do_CTOK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x00000166DF8030B8>>], 'DCOK': [<bound method StimulationExchangeMessageOperator.do_DCOK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x00000166DF8030B8>>], 'TROK': [<bound method StimulationExchangeMessageOperator.do_TROK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x00000166DF8030B8>>], 'PROK': [<bound method StimulationExchangeMessageOperator.do_PROK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x00000166DF8030B8>>], 'TNOK': [<bound method StimulationExchangeMessageOperator.do_TNOK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x00000166DF8030B8>>], 'PNOK': [<bound method StimulationExchangeMessageOperator.do_PNOK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x00000166DF8030B8>>], 'CAOK': [<bound method StimulationExchangeMessageOperator.do_CAOK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x00000166DF8030B8>>], 'STSN': [<bound method StimulationExchangeMessageOperator.do_STSN of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x00000166DF8030B8>>], 'RSLT': [<bound method StimulationExchangeMessageOperator.do_RSLT of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x00000166DF8030B8>>]}
+2021-06-03 11:35:37,448 - EventManager.py[line:49] - DEBUG: 9_Start
+2021-06-03 11:35:37,448 - EventManager.py[line:27] - DEBUG: 9_run
+2021-06-03 11:35:37,449 - EventManager.py[line:55] - DEBUG: start中的count: 10
+2021-06-03 11:35:37,449 - ExchangeMessageManagement.py[line:58] - DEBUG: ExchangeMessageManagement.initial returned.
+2021-06-03 11:35:37,449 - ExchangeMessageManagement.py[line:61] - DEBUG: ExchangeMessageManagement.start is called.
+2021-06-03 11:35:37,449 - ExchangeMessageManagement.py[line:64] - DEBUG: ExchangeMessageManagement.start returned.
+2021-06-03 11:35:37,450 - DoubleSpellingStimController.py[line:105] - DEBUG: 当前监视器状态INIT,等待监视器状态改变为CTOK,2021-06-03 11:35:37.450789
+
+2021-06-03 11:35:37,925 - ExchangeMessageManagement.py[line:82] - DEBUG: send CTNS!
+2021-06-03 11:35:38,032 - ExchangeMessageManagement.py[line:82] - DEBUG: send CTNS!
+2021-06-03 11:35:38,139 - ExchangeMessageManagement.py[line:82] - DEBUG: send CTNS!
+2021-06-03 11:35:38,247 - ExchangeMessageManagement.py[line:82] - DEBUG: send CTNS!
+2021-06-03 11:35:38,353 - ExchangeMessageManagement.py[line:82] - DEBUG: send CTNS!
+2021-06-03 11:35:38,461 - ExchangeMessageManagement.py[line:82] - DEBUG: send CTNS!
+2021-06-03 11:35:38,567 - ExchangeMessageManagement.py[line:82] - DEBUG: send CTNS!
+2021-06-03 11:35:38,674 - ExchangeMessageManagement.py[line:82] - DEBUG: send CTNS!
+2021-06-03 11:35:38,781 - ExchangeMessageManagement.py[line:82] - DEBUG: send CTNS!
+2021-06-03 11:35:38,888 - ExchangeMessageManagement.py[line:82] - DEBUG: send CTNS!
+2021-06-03 11:35:38,994 - ExchangeMessageManagement.py[line:82] - DEBUG: send CTNS!
+2021-06-03 11:35:39,101 - ExchangeMessageManagement.py[line:82] - DEBUG: send CTNS!
+2021-06-03 11:35:39,208 - ExchangeMessageManagement.py[line:82] - DEBUG: send CTNS!
+2021-06-03 11:35:39,314 - ExchangeMessageManagement.py[line:82] - DEBUG: send CTNS!
+2021-06-03 11:35:39,423 - ExchangeMessageManagement.py[line:82] - DEBUG: send CTNS!
+2021-06-03 11:35:39,530 - ExchangeMessageManagement.py[line:82] - DEBUG: send CTNS!
+2021-06-03 11:35:39,637 - ExchangeMessageManagement.py[line:82] - DEBUG: send CTNS!
+2021-06-03 11:35:39,744 - ExchangeMessageManagement.py[line:82] - DEBUG: send CTNS!
+2021-06-03 11:35:39,851 - ExchangeMessageManagement.py[line:82] - DEBUG: send CTNS!
+2021-06-03 11:35:39,957 - ExchangeMessageManagement.py[line:82] - DEBUG: send CTNS!
+2021-06-03 11:35:40,065 - ExchangeMessageManagement.py[line:82] - DEBUG: send CTNS!
+2021-06-03 11:35:40,172 - ExchangeMessageManagement.py[line:82] - DEBUG: send CTNS!
+2021-06-03 11:35:40,280 - ExchangeMessageManagement.py[line:82] - DEBUG: send CTNS!
+2021-06-03 11:35:40,387 - ExchangeMessageManagement.py[line:82] - DEBUG: send CTNS!
+2021-06-03 11:35:40,494 - ExchangeMessageManagement.py[line:82] - DEBUG: send CTNS!
+2021-06-03 11:35:40,602 - ExchangeMessageManagement.py[line:82] - DEBUG: send CTNS!
+2021-06-03 11:35:40,708 - ExchangeMessageManagement.py[line:82] - DEBUG: send CTNS!
+2021-06-03 11:35:40,792 - receive_exchange_message_fcn.py[line:16] - DEBUG: receive: CTOK
+2021-06-03 11:35:40,815 - ExchangeMessageManagement.py[line:82] - DEBUG: send CTNS!
+2021-06-03 11:35:40,922 - ExchangeMessageManagement.py[line:82] - DEBUG: send CTNS!
+2021-06-03 11:35:40,954 - StimulationExchangeMessageOperator.py[line:27] - DEBUG: 接收消息CTOK，设置监视器状态CTOK
+
+2021-06-03 11:35:41,030 - ExchangeMessageManagement.py[line:82] - DEBUG: send STAR!
+2021-06-03 11:35:41,030 - DoubleSpellingStimController.py[line:115] - DEBUG: 当前监视器状态CTOK,等待监视器状态改变为TROK,2021-06-03 11:35:41.030311
+
+2021-06-03 11:35:41,293 - receive_exchange_message_fcn.py[line:16] - DEBUG: receive: CTOK
+2021-06-03 11:35:41,454 - StimulationExchangeMessageOperator.py[line:27] - DEBUG: 接收消息CTOK，设置监视器状态CTOK
+
+2021-06-03 11:35:41,794 - receive_exchange_message_fcn.py[line:16] - DEBUG: receive: CTOK
+2021-06-03 11:35:41,955 - StimulationExchangeMessageOperator.py[line:27] - DEBUG: 接收消息CTOK，设置监视器状态CTOK
+
+2021-06-03 11:35:42,295 - receive_exchange_message_fcn.py[line:16] - DEBUG: receive: CTOK
+2021-06-03 11:35:42,456 - StimulationExchangeMessageOperator.py[line:27] - DEBUG: 接收消息CTOK，设置监视器状态CTOK
+
+2021-06-03 11:35:42,796 - receive_exchange_message_fcn.py[line:16] - DEBUG: receive: CTOK
+2021-06-03 11:35:42,956 - StimulationExchangeMessageOperator.py[line:27] - DEBUG: 接收消息CTOK，设置监视器状态CTOK
+
+2021-06-03 11:35:43,297 - receive_exchange_message_fcn.py[line:16] - DEBUG: receive: CTOK
+2021-06-03 11:35:43,457 - StimulationExchangeMessageOperator.py[line:27] - DEBUG: 接收消息CTOK，设置监视器状态CTOK
+
+2021-06-03 11:35:43,797 - receive_exchange_message_fcn.py[line:16] - DEBUG: receive: CTOK
+2021-06-03 11:35:43,957 - StimulationExchangeMessageOperator.py[line:27] - DEBUG: 接收消息CTOK，设置监视器状态CTOK
+
+2021-06-03 11:35:44,298 - receive_exchange_message_fcn.py[line:16] - DEBUG: receive: CTOK
+2021-06-03 11:35:44,458 - StimulationExchangeMessageOperator.py[line:27] - DEBUG: 接收消息CTOK，设置监视器状态CTOK
+
+2021-06-03 11:35:44,798 - receive_exchange_message_fcn.py[line:16] - DEBUG: receive: CTOK
+2021-06-03 11:35:44,958 - StimulationExchangeMessageOperator.py[line:27] - DEBUG: 接收消息CTOK，设置监视器状态CTOK
+
+2021-06-03 11:35:45,299 - receive_exchange_message_fcn.py[line:16] - DEBUG: receive: CTOK
+2021-06-03 11:35:45,460 - StimulationExchangeMessageOperator.py[line:27] - DEBUG: 接收消息CTOK，设置监视器状态CTOK
+
+2021-06-03 11:35:45,800 - receive_exchange_message_fcn.py[line:16] - DEBUG: receive: CTOK
+2021-06-03 11:35:45,960 - StimulationExchangeMessageOperator.py[line:27] - DEBUG: 接收消息CTOK，设置监视器状态CTOK
+
+2021-06-03 11:35:46,300 - receive_exchange_message_fcn.py[line:16] - DEBUG: receive: CTOK
+2021-06-03 11:35:46,460 - StimulationExchangeMessageOperator.py[line:27] - DEBUG: 接收消息CTOK，设置监视器状态CTOK
+
+2021-06-03 11:35:46,801 - receive_exchange_message_fcn.py[line:16] - DEBUG: receive: CTOK
+2021-06-03 11:35:46,961 - StimulationExchangeMessageOperator.py[line:27] - DEBUG: 接收消息CTOK，设置监视器状态CTOK
+
+2021-06-03 11:35:47,302 - receive_exchange_message_fcn.py[line:16] - DEBUG: receive: CTOK
+2021-06-03 11:35:47,462 - StimulationExchangeMessageOperator.py[line:27] - DEBUG: 接收消息CTOK，设置监视器状态CTOK
+
+2021-06-03 11:35:47,803 - receive_exchange_message_fcn.py[line:16] - DEBUG: receive: TROK
+2021-06-03 11:35:47,962 - StimulationExchangeMessageOperator.py[line:37] - DEBUG: 接收消息TROK，设置监视器状态TROK
+
+2021-06-03 11:36:24,319 - StimulationController.py[line:22] - DEBUG: DoubleSpellingApplication.StimulationController.initiall is called.
+2021-06-03 11:36:24,319 - InitialProcess.py[line:17] - DEBUG: DoubleSpellingApplication.InitialProcess.initial is called.
+2021-06-03 11:36:24,319 - InitialProcess.py[line:28] - DEBUG: DoubleSpellingApplication.InitialProcess.initial returned.
+2021-06-03 11:36:24,319 - PrePareProcess.py[line:21] - DEBUG: DoubleSpellingApplication.PrepareProcess.initial is called.
+2021-06-03 11:36:24,319 - PrePareProcess.py[line:33] - DEBUG: DoubleSpellingApplication.PrepareProcess.initial rerturned.
+2021-06-03 11:36:24,319 - StimulateProcess.py[line:23] - DEBUG: DoubleSpellingApplication.StimulateProcess.initial is called.
+2021-06-03 11:36:24,319 - StimulateProcess.py[line:33] - DEBUG: DoubleSpellingApplication.StimulateProcess.initial returned.
+2021-06-03 11:36:24,319 - FinishProcess.py[line:31] - DEBUG: DoubleSpellingApplication.FinishProcess.initial is called.
+2021-06-03 11:36:24,321 - FinishProcess.py[line:63] - DEBUG: DoubleSpellingApplication.FinishProcess.initial returned.
+2021-06-03 11:36:24,321 - StimulationController.py[line:41] - DEBUG: DoubleSpellingApplication.StimulationController.initiall returned.
+2021-06-03 11:36:25,338 - DoubleSpellingStimController.py[line:174] - DEBUG: DoubleSpellingStimController.initial returned.
+2021-06-03 11:36:25,338 - DoubleSpellingStimController.py[line:183] - INFO: DoubleSpellingStimController.start is called
+2021-06-03 11:36:25,345 - ExchangeMessageManagement.py[line:82] - DEBUG: send STON!
+2021-06-03 11:36:25,345 - DoubleSpellingStimController.py[line:186] - DEBUG: 当前监视器状态TROK,等待监视器状态改变为TNOK,2021-06-03 11:36:25.345889
+
+2021-06-03 11:36:26,362 - receive_exchange_message_fcn.py[line:16] - DEBUG: receive: TNOK
+2021-06-03 11:36:26,555 - StimulationExchangeMessageOperator.py[line:47] - DEBUG: 接收消息TNOK，设置监视器状态TNOK
+
+2021-06-03 11:36:26,562 - StimulationController.py[line:51] - DEBUG: DoubleSpellingApplication.StimulationController.run is called.
+2021-06-03 11:36:26,562 - StimulationController.py[line:52] - DEBUG: 
+开始进入StimulationController呈现阶段，执行时间2021-06-03 11:36:26.562920
+
+2021-06-03 11:36:26,562 - InitialProcess.py[line:42] - DEBUG: DoubleSpellingApplication.InitialProcess.run is called.
+2021-06-03 11:36:26,593 - InitialProcess.py[line:49] - DEBUG: DoubleSpellingApplication.InitialProcess.run returned.
+2021-06-03 11:36:26,594 - StimulationController.py[line:54] - DEBUG: DoubleSpellingApplication.StimulationController.run returned.
+2021-06-03 11:36:26,594 - StimulationController.py[line:51] - DEBUG: DoubleSpellingApplication.StimulationController.run is called.
+2021-06-03 11:36:26,594 - StimulationController.py[line:52] - DEBUG: 
+开始进入StimulationController呈现阶段，执行时间2021-06-03 11:36:26.594952
+
+2021-06-03 11:36:26,594 - PrePareProcess.py[line:54] - DEBUG: DoubleSpellingApplication.PrepareProcess.run is called.
+2021-06-03 11:36:27,622 - PrePareProcess.py[line:73] - DEBUG: DoubleSpellingApplication.PrepareProcess.run returned.
+2021-06-03 11:36:27,622 - StimulationController.py[line:54] - DEBUG: DoubleSpellingApplication.StimulationController.run returned.
+2021-06-03 11:36:27,622 - StimulationController.py[line:51] - DEBUG: DoubleSpellingApplication.StimulationController.run is called.
+2021-06-03 11:36:27,622 - StimulationController.py[line:52] - DEBUG: 
+开始进入StimulationController呈现阶段，执行时间2021-06-03 11:36:27.622220
+
+2021-06-03 11:36:27,622 - StimulateProcess.py[line:46] - DEBUG: DoubleSpellingApplication.StimulateProcess.run is called.
+2021-06-03 11:36:27,629 - ExchangeMessageManagement.py[line:82] - DEBUG: send STRD!
+2021-06-03 11:36:27,629 - StimulateProcess.py[line:54] - DEBUG: 
+StimulateProcess 发送开始异步检测指令，执行时间2021-06-03 11:36:27.629204
+
+2021-06-03 11:36:31,859 - DoubleSpellingStimController.py[line:216] - DEBUG: DoubleSpellingStimController.stop is called
+2021-06-03 11:36:31,859 - ExchangeMessageManagement.py[line:67] - DEBUG: ExchangeMessageManagement.stop is called.
+2021-06-03 11:36:31,859 - EventManager.py[line:59] - DEBUG: 104_Stop
+2021-06-03 11:36:31,868 - receive_exchange_message_fcn.py[line:21] - DEBUG: Exiting receive_exchange_message_fcn!
+2021-06-03 11:36:32,062 - operate_exchange_message_fcn.py[line:40] - DEBUG: Exiting operate_exchange_message_fcn!
+2021-06-03 11:36:32,558 - ExchangeMessageManagement.py[line:72] - DEBUG: ExchangeMessageManagement.stop returned.
+2021-06-03 11:36:32,558 - DoubleSpellingStimController.py[line:220] - DEBUG: DoubleSpellingStimController.stop returned
+2021-06-03 11:36:32,578 - StimulateProcess.py[line:77] - DEBUG: DoubleSpellingApplication.StimulateProcess.run returned.
+2021-06-03 11:36:32,578 - StimulationController.py[line:54] - DEBUG: DoubleSpellingApplication.StimulationController.run returned.
+2021-06-03 11:36:32,578 - StimulationController.py[line:51] - DEBUG: DoubleSpellingApplication.StimulationController.run is called.
+2021-06-03 11:36:32,578 - StimulationController.py[line:52] - DEBUG: 
+开始进入StimulationController呈现阶段，执行时间2021-06-03 11:36:32.578526
+
+2021-06-03 11:36:32,578 - ExitProcess.py[line:18] - DEBUG: DoubleSpellingApplication.ExitProcess.run is called.
+2021-06-03 11:36:32,611 - ExitProcess.py[line:29] - DEBUG: DoubleSpellingApplication.ExitProcess.run returned.
+2021-06-03 11:36:32,611 - StimulationController.py[line:54] - DEBUG: DoubleSpellingApplication.StimulationController.run returned.
+2021-06-03 11:36:32,611 - DoubleSpellingStimController.py[line:206] - INFO: DoubleSpellingStimController.start returned
+2021-06-03 11:45:07,865 - DoubleSpellingStimController.py[line:49] - DEBUG: DoubleSpellingStimController.initial is called.
+2021-06-03 11:45:09,002 - ExchangeMessageManagement.py[line:43] - DEBUG: ExchangeMessageManagement.initial is called.
+2021-06-03 11:45:09,002 - EventManager.py[line:68] - DEBUG: 0_AddEventListener
+2021-06-03 11:45:09,002 - EventManager.py[line:78] - DEBUG: {'CTOK': [<bound method StimulationExchangeMessageOperator.do_CTOK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x00000188BBC12B70>>]}
+2021-06-03 11:45:09,002 - EventManager.py[line:68] - DEBUG: 1_AddEventListener
+2021-06-03 11:45:09,002 - EventManager.py[line:78] - DEBUG: {'CTOK': [<bound method StimulationExchangeMessageOperator.do_CTOK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x00000188BBC12B70>>], 'DCOK': [<bound method StimulationExchangeMessageOperator.do_DCOK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x00000188BBC12B70>>]}
+2021-06-03 11:45:09,002 - EventManager.py[line:68] - DEBUG: 2_AddEventListener
+2021-06-03 11:45:09,002 - EventManager.py[line:78] - DEBUG: {'CTOK': [<bound method StimulationExchangeMessageOperator.do_CTOK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x00000188BBC12B70>>], 'DCOK': [<bound method StimulationExchangeMessageOperator.do_DCOK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x00000188BBC12B70>>], 'TROK': [<bound method StimulationExchangeMessageOperator.do_TROK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x00000188BBC12B70>>]}
+2021-06-03 11:45:09,002 - EventManager.py[line:68] - DEBUG: 3_AddEventListener
+2021-06-03 11:45:09,002 - EventManager.py[line:78] - DEBUG: {'CTOK': [<bound method StimulationExchangeMessageOperator.do_CTOK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x00000188BBC12B70>>], 'DCOK': [<bound method StimulationExchangeMessageOperator.do_DCOK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x00000188BBC12B70>>], 'TROK': [<bound method StimulationExchangeMessageOperator.do_TROK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x00000188BBC12B70>>], 'PROK': [<bound method StimulationExchangeMessageOperator.do_PROK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x00000188BBC12B70>>]}
+2021-06-03 11:45:09,002 - EventManager.py[line:68] - DEBUG: 4_AddEventListener
+2021-06-03 11:45:09,002 - EventManager.py[line:78] - DEBUG: {'CTOK': [<bound method StimulationExchangeMessageOperator.do_CTOK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x00000188BBC12B70>>], 'DCOK': [<bound method StimulationExchangeMessageOperator.do_DCOK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x00000188BBC12B70>>], 'TROK': [<bound method StimulationExchangeMessageOperator.do_TROK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x00000188BBC12B70>>], 'PROK': [<bound method StimulationExchangeMessageOperator.do_PROK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x00000188BBC12B70>>], 'TNOK': [<bound method StimulationExchangeMessageOperator.do_TNOK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x00000188BBC12B70>>]}
+2021-06-03 11:45:09,005 - EventManager.py[line:68] - DEBUG: 5_AddEventListener
+2021-06-03 11:45:09,005 - EventManager.py[line:78] - DEBUG: {'CTOK': [<bound method StimulationExchangeMessageOperator.do_CTOK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x00000188BBC12B70>>], 'DCOK': [<bound method StimulationExchangeMessageOperator.do_DCOK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x00000188BBC12B70>>], 'TROK': [<bound method StimulationExchangeMessageOperator.do_TROK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x00000188BBC12B70>>], 'PROK': [<bound method StimulationExchangeMessageOperator.do_PROK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x00000188BBC12B70>>], 'TNOK': [<bound method StimulationExchangeMessageOperator.do_TNOK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x00000188BBC12B70>>], 'PNOK': [<bound method StimulationExchangeMessageOperator.do_PNOK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x00000188BBC12B70>>]}
+2021-06-03 11:45:09,005 - EventManager.py[line:68] - DEBUG: 6_AddEventListener
+2021-06-03 11:45:09,005 - EventManager.py[line:78] - DEBUG: {'CTOK': [<bound method StimulationExchangeMessageOperator.do_CTOK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x00000188BBC12B70>>], 'DCOK': [<bound method StimulationExchangeMessageOperator.do_DCOK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x00000188BBC12B70>>], 'TROK': [<bound method StimulationExchangeMessageOperator.do_TROK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x00000188BBC12B70>>], 'PROK': [<bound method StimulationExchangeMessageOperator.do_PROK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x00000188BBC12B70>>], 'TNOK': [<bound method StimulationExchangeMessageOperator.do_TNOK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x00000188BBC12B70>>], 'PNOK': [<bound method StimulationExchangeMessageOperator.do_PNOK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x00000188BBC12B70>>], 'CAOK': [<bound method StimulationExchangeMessageOperator.do_CAOK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x00000188BBC12B70>>]}
+2021-06-03 11:45:09,005 - EventManager.py[line:68] - DEBUG: 7_AddEventListener
+2021-06-03 11:45:09,005 - EventManager.py[line:78] - DEBUG: {'CTOK': [<bound method StimulationExchangeMessageOperator.do_CTOK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x00000188BBC12B70>>], 'DCOK': [<bound method StimulationExchangeMessageOperator.do_DCOK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x00000188BBC12B70>>], 'TROK': [<bound method StimulationExchangeMessageOperator.do_TROK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x00000188BBC12B70>>], 'PROK': [<bound method StimulationExchangeMessageOperator.do_PROK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x00000188BBC12B70>>], 'TNOK': [<bound method StimulationExchangeMessageOperator.do_TNOK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x00000188BBC12B70>>], 'PNOK': [<bound method StimulationExchangeMessageOperator.do_PNOK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x00000188BBC12B70>>], 'CAOK': [<bound method StimulationExchangeMessageOperator.do_CAOK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x00000188BBC12B70>>], 'STSN': [<bound method StimulationExchangeMessageOperator.do_STSN of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x00000188BBC12B70>>]}
+2021-06-03 11:45:09,021 - EventManager.py[line:68] - DEBUG: 8_AddEventListener
+2021-06-03 11:45:09,021 - EventManager.py[line:78] - DEBUG: {'CTOK': [<bound method StimulationExchangeMessageOperator.do_CTOK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x00000188BBC12B70>>], 'DCOK': [<bound method StimulationExchangeMessageOperator.do_DCOK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x00000188BBC12B70>>], 'TROK': [<bound method StimulationExchangeMessageOperator.do_TROK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x00000188BBC12B70>>], 'PROK': [<bound method StimulationExchangeMessageOperator.do_PROK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x00000188BBC12B70>>], 'TNOK': [<bound method StimulationExchangeMessageOperator.do_TNOK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x00000188BBC12B70>>], 'PNOK': [<bound method StimulationExchangeMessageOperator.do_PNOK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x00000188BBC12B70>>], 'CAOK': [<bound method StimulationExchangeMessageOperator.do_CAOK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x00000188BBC12B70>>], 'STSN': [<bound method StimulationExchangeMessageOperator.do_STSN of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x00000188BBC12B70>>], 'RSLT': [<bound method StimulationExchangeMessageOperator.do_RSLT of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x00000188BBC12B70>>]}
+2021-06-03 11:45:09,021 - EventManager.py[line:49] - DEBUG: 9_Start
+2021-06-03 11:45:09,022 - EventManager.py[line:27] - DEBUG: 9_run
+2021-06-03 11:45:09,022 - EventManager.py[line:55] - DEBUG: start中的count: 10
+2021-06-03 11:45:09,022 - ExchangeMessageManagement.py[line:58] - DEBUG: ExchangeMessageManagement.initial returned.
+2021-06-03 11:45:09,022 - ExchangeMessageManagement.py[line:61] - DEBUG: ExchangeMessageManagement.start is called.
+2021-06-03 11:45:09,023 - ExchangeMessageManagement.py[line:64] - DEBUG: ExchangeMessageManagement.start returned.
+2021-06-03 11:45:09,023 - DoubleSpellingStimController.py[line:105] - DEBUG: 当前监视器状态INIT,等待监视器状态改变为CTOK,2021-06-03 11:45:09.023502
+
+2021-06-03 11:45:09,503 - ExchangeMessageManagement.py[line:82] - DEBUG: send CTNS!
+2021-06-03 11:45:09,610 - ExchangeMessageManagement.py[line:82] - DEBUG: send CTNS!
+2021-06-03 11:45:09,719 - ExchangeMessageManagement.py[line:82] - DEBUG: send CTNS!
+2021-06-03 11:45:09,826 - ExchangeMessageManagement.py[line:82] - DEBUG: send CTNS!
+2021-06-03 11:45:09,933 - ExchangeMessageManagement.py[line:82] - DEBUG: send CTNS!
+2021-06-03 11:45:10,039 - ExchangeMessageManagement.py[line:82] - DEBUG: send CTNS!
+2021-06-03 11:45:10,147 - ExchangeMessageManagement.py[line:82] - DEBUG: send CTNS!
+2021-06-03 11:45:10,148 - receive_exchange_message_fcn.py[line:16] - DEBUG: receive: CTOK
+2021-06-03 11:45:10,254 - ExchangeMessageManagement.py[line:82] - DEBUG: send CTNS!
+2021-06-03 11:45:10,361 - ExchangeMessageManagement.py[line:82] - DEBUG: send CTNS!
+2021-06-03 11:45:10,469 - ExchangeMessageManagement.py[line:82] - DEBUG: send CTNS!
+2021-06-03 11:45:10,526 - StimulationExchangeMessageOperator.py[line:27] - DEBUG: 接收消息CTOK，设置监视器状态CTOK
+
+2021-06-03 11:45:10,576 - ExchangeMessageManagement.py[line:82] - DEBUG: send STAR!
+2021-06-03 11:45:10,576 - DoubleSpellingStimController.py[line:115] - DEBUG: 当前监视器状态CTOK,等待监视器状态改变为TROK,2021-06-03 11:45:10.576388
+
+2021-06-03 11:45:10,650 - receive_exchange_message_fcn.py[line:16] - DEBUG: receive: CTOK
+2021-06-03 11:45:11,027 - StimulationExchangeMessageOperator.py[line:27] - DEBUG: 接收消息CTOK，设置监视器状态CTOK
+
+2021-06-03 11:45:11,151 - receive_exchange_message_fcn.py[line:16] - DEBUG: receive: CTOK
+2021-06-03 11:45:11,528 - StimulationExchangeMessageOperator.py[line:27] - DEBUG: 接收消息CTOK，设置监视器状态CTOK
+
+2021-06-03 11:45:11,651 - receive_exchange_message_fcn.py[line:16] - DEBUG: receive: CTOK
+2021-06-03 11:45:12,028 - StimulationExchangeMessageOperator.py[line:27] - DEBUG: 接收消息CTOK，设置监视器状态CTOK
+
+2021-06-03 11:45:12,152 - receive_exchange_message_fcn.py[line:16] - DEBUG: receive: CTOK
+2021-06-03 11:45:12,529 - StimulationExchangeMessageOperator.py[line:27] - DEBUG: 接收消息CTOK，设置监视器状态CTOK
+
+2021-06-03 11:45:12,653 - receive_exchange_message_fcn.py[line:16] - DEBUG: receive: CTOK
+2021-06-03 11:45:13,029 - StimulationExchangeMessageOperator.py[line:27] - DEBUG: 接收消息CTOK，设置监视器状态CTOK
+
+2021-06-03 11:45:13,154 - receive_exchange_message_fcn.py[line:16] - DEBUG: receive: CTOK
+2021-06-03 11:45:13,530 - StimulationExchangeMessageOperator.py[line:27] - DEBUG: 接收消息CTOK，设置监视器状态CTOK
+
+2021-06-03 11:45:13,654 - receive_exchange_message_fcn.py[line:16] - DEBUG: receive: CTOK
+2021-06-03 11:45:14,030 - StimulationExchangeMessageOperator.py[line:27] - DEBUG: 接收消息CTOK，设置监视器状态CTOK
+
+2021-06-03 11:45:14,155 - receive_exchange_message_fcn.py[line:16] - DEBUG: receive: CTOK
+2021-06-03 11:45:14,531 - StimulationExchangeMessageOperator.py[line:27] - DEBUG: 接收消息CTOK，设置监视器状态CTOK
+
+2021-06-03 11:45:14,655 - receive_exchange_message_fcn.py[line:16] - DEBUG: receive: CTOK
+2021-06-03 11:45:15,031 - StimulationExchangeMessageOperator.py[line:27] - DEBUG: 接收消息CTOK，设置监视器状态CTOK
+
+2021-06-03 11:45:15,156 - receive_exchange_message_fcn.py[line:16] - DEBUG: receive: TROK
+2021-06-03 11:45:15,532 - StimulationExchangeMessageOperator.py[line:37] - DEBUG: 接收消息TROK，设置监视器状态TROK
+
+2021-06-03 11:45:46,539 - StimulationController.py[line:22] - DEBUG: DoubleSpellingApplication.StimulationController.initiall is called.
+2021-06-03 11:45:46,539 - InitialProcess.py[line:17] - DEBUG: DoubleSpellingApplication.InitialProcess.initial is called.
+2021-06-03 11:45:46,539 - InitialProcess.py[line:28] - DEBUG: DoubleSpellingApplication.InitialProcess.initial returned.
+2021-06-03 11:45:46,539 - PrePareProcess.py[line:21] - DEBUG: DoubleSpellingApplication.PrepareProcess.initial is called.
+2021-06-03 11:45:46,539 - PrePareProcess.py[line:33] - DEBUG: DoubleSpellingApplication.PrepareProcess.initial rerturned.
+2021-06-03 11:45:46,539 - StimulateProcess.py[line:23] - DEBUG: DoubleSpellingApplication.StimulateProcess.initial is called.
+2021-06-03 11:45:46,539 - StimulateProcess.py[line:33] - DEBUG: DoubleSpellingApplication.StimulateProcess.initial returned.
+2021-06-03 11:45:46,539 - FinishProcess.py[line:31] - DEBUG: DoubleSpellingApplication.FinishProcess.initial is called.
+2021-06-03 11:45:46,541 - FinishProcess.py[line:63] - DEBUG: DoubleSpellingApplication.FinishProcess.initial returned.
+2021-06-03 11:45:46,541 - StimulationController.py[line:41] - DEBUG: DoubleSpellingApplication.StimulationController.initiall returned.
+2021-06-03 11:45:47,557 - DoubleSpellingStimController.py[line:174] - DEBUG: DoubleSpellingStimController.initial returned.
+2021-06-03 11:45:47,557 - DoubleSpellingStimController.py[line:183] - INFO: DoubleSpellingStimController.start is called
+2021-06-03 11:45:47,565 - ExchangeMessageManagement.py[line:82] - DEBUG: send STON!
+2021-06-03 11:45:47,565 - DoubleSpellingStimController.py[line:186] - DEBUG: 当前监视器状态TROK,等待监视器状态改变为TNOK,2021-06-03 11:45:47.565229
+
+2021-06-03 11:45:48,714 - receive_exchange_message_fcn.py[line:16] - DEBUG: receive: TNOK
+2021-06-03 11:45:49,093 - StimulationExchangeMessageOperator.py[line:47] - DEBUG: 接收消息TNOK，设置监视器状态TNOK
+
+2021-06-03 11:45:49,177 - StimulationController.py[line:51] - DEBUG: DoubleSpellingApplication.StimulationController.run is called.
+2021-06-03 11:45:49,177 - StimulationController.py[line:52] - DEBUG: 
+开始进入StimulationController呈现阶段，执行时间2021-06-03 11:45:49.177531
+
+2021-06-03 11:45:49,177 - InitialProcess.py[line:42] - DEBUG: DoubleSpellingApplication.InitialProcess.run is called.
+2021-06-03 11:45:49,215 - InitialProcess.py[line:49] - DEBUG: DoubleSpellingApplication.InitialProcess.run returned.
+2021-06-03 11:45:49,216 - StimulationController.py[line:54] - DEBUG: DoubleSpellingApplication.StimulationController.run returned.
+2021-06-03 11:45:49,216 - StimulationController.py[line:51] - DEBUG: DoubleSpellingApplication.StimulationController.run is called.
+2021-06-03 11:45:49,216 - StimulationController.py[line:52] - DEBUG: 
+开始进入StimulationController呈现阶段，执行时间2021-06-03 11:45:49.216446
+
+2021-06-03 11:45:49,216 - PrePareProcess.py[line:54] - DEBUG: DoubleSpellingApplication.PrepareProcess.run is called.
+2021-06-03 11:45:50,239 - PrePareProcess.py[line:73] - DEBUG: DoubleSpellingApplication.PrepareProcess.run returned.
+2021-06-03 11:45:50,239 - StimulationController.py[line:54] - DEBUG: DoubleSpellingApplication.StimulationController.run returned.
+2021-06-03 11:45:50,239 - StimulationController.py[line:51] - DEBUG: DoubleSpellingApplication.StimulationController.run is called.
+2021-06-03 11:45:50,239 - StimulationController.py[line:52] - DEBUG: 
+开始进入StimulationController呈现阶段，执行时间2021-06-03 11:45:50.239802
+
+2021-06-03 11:45:50,239 - StimulateProcess.py[line:46] - DEBUG: DoubleSpellingApplication.StimulateProcess.run is called.
+2021-06-03 11:45:50,247 - ExchangeMessageManagement.py[line:82] - DEBUG: send STRD!
+2021-06-03 11:45:50,247 - StimulateProcess.py[line:54] - DEBUG: 
+StimulateProcess 发送开始异步检测指令，执行时间2021-06-03 11:45:50.247780
+
+2021-06-03 11:46:53,438 - DoubleSpellingStimController.py[line:216] - DEBUG: DoubleSpellingStimController.stop is called
+2021-06-03 11:46:53,438 - ExchangeMessageManagement.py[line:67] - DEBUG: ExchangeMessageManagement.stop is called.
+2021-06-03 11:46:53,439 - EventManager.py[line:59] - DEBUG: 144_Stop
+2021-06-03 11:46:53,668 - operate_exchange_message_fcn.py[line:40] - DEBUG: Exiting operate_exchange_message_fcn!
+2021-06-03 11:46:54,276 - receive_exchange_message_fcn.py[line:21] - DEBUG: Exiting receive_exchange_message_fcn!
+2021-06-03 11:46:54,276 - ExchangeMessageManagement.py[line:72] - DEBUG: ExchangeMessageManagement.stop returned.
+2021-06-03 11:46:54,276 - DoubleSpellingStimController.py[line:220] - DEBUG: DoubleSpellingStimController.stop returned
+2021-06-03 11:46:54,279 - StimulateProcess.py[line:77] - DEBUG: DoubleSpellingApplication.StimulateProcess.run returned.
+2021-06-03 11:46:54,279 - StimulationController.py[line:54] - DEBUG: DoubleSpellingApplication.StimulationController.run returned.
+2021-06-03 11:46:54,279 - StimulationController.py[line:51] - DEBUG: DoubleSpellingApplication.StimulationController.run is called.
+2021-06-03 11:46:54,279 - StimulationController.py[line:52] - DEBUG: 
+开始进入StimulationController呈现阶段，执行时间2021-06-03 11:46:54.279918
+
+2021-06-03 11:46:54,279 - ExitProcess.py[line:18] - DEBUG: DoubleSpellingApplication.ExitProcess.run is called.
+2021-06-03 11:46:54,312 - ExitProcess.py[line:29] - DEBUG: DoubleSpellingApplication.ExitProcess.run returned.
+2021-06-03 11:46:54,313 - StimulationController.py[line:54] - DEBUG: DoubleSpellingApplication.StimulationController.run returned.
+2021-06-03 11:46:54,313 - DoubleSpellingStimController.py[line:206] - INFO: DoubleSpellingStimController.start returned
+2021-06-03 11:47:57,995 - DoubleSpellingStimController.py[line:49] - DEBUG: DoubleSpellingStimController.initial is called.
+2021-06-03 11:47:59,133 - ExchangeMessageManagement.py[line:43] - DEBUG: ExchangeMessageManagement.initial is called.
+2021-06-03 11:47:59,133 - EventManager.py[line:68] - DEBUG: 0_AddEventListener
+2021-06-03 11:47:59,133 - EventManager.py[line:78] - DEBUG: {'CTOK': [<bound method StimulationExchangeMessageOperator.do_CTOK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x000001EE1E9FCC18>>]}
+2021-06-03 11:47:59,133 - EventManager.py[line:68] - DEBUG: 1_AddEventListener
+2021-06-03 11:47:59,133 - EventManager.py[line:78] - DEBUG: {'CTOK': [<bound method StimulationExchangeMessageOperator.do_CTOK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x000001EE1E9FCC18>>], 'DCOK': [<bound method StimulationExchangeMessageOperator.do_DCOK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x000001EE1E9FCC18>>]}
+2021-06-03 11:47:59,133 - EventManager.py[line:68] - DEBUG: 2_AddEventListener
+2021-06-03 11:47:59,133 - EventManager.py[line:78] - DEBUG: {'CTOK': [<bound method StimulationExchangeMessageOperator.do_CTOK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x000001EE1E9FCC18>>], 'DCOK': [<bound method StimulationExchangeMessageOperator.do_DCOK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x000001EE1E9FCC18>>], 'TROK': [<bound method StimulationExchangeMessageOperator.do_TROK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x000001EE1E9FCC18>>]}
+2021-06-03 11:47:59,133 - EventManager.py[line:68] - DEBUG: 3_AddEventListener
+2021-06-03 11:47:59,133 - EventManager.py[line:78] - DEBUG: {'CTOK': [<bound method StimulationExchangeMessageOperator.do_CTOK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x000001EE1E9FCC18>>], 'DCOK': [<bound method StimulationExchangeMessageOperator.do_DCOK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x000001EE1E9FCC18>>], 'TROK': [<bound method StimulationExchangeMessageOperator.do_TROK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x000001EE1E9FCC18>>], 'PROK': [<bound method StimulationExchangeMessageOperator.do_PROK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x000001EE1E9FCC18>>]}
+2021-06-03 11:47:59,133 - EventManager.py[line:68] - DEBUG: 4_AddEventListener
+2021-06-03 11:47:59,133 - EventManager.py[line:78] - DEBUG: {'CTOK': [<bound method StimulationExchangeMessageOperator.do_CTOK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x000001EE1E9FCC18>>], 'DCOK': [<bound method StimulationExchangeMessageOperator.do_DCOK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x000001EE1E9FCC18>>], 'TROK': [<bound method StimulationExchangeMessageOperator.do_TROK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x000001EE1E9FCC18>>], 'PROK': [<bound method StimulationExchangeMessageOperator.do_PROK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x000001EE1E9FCC18>>], 'TNOK': [<bound method StimulationExchangeMessageOperator.do_TNOK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x000001EE1E9FCC18>>]}
+2021-06-03 11:47:59,138 - EventManager.py[line:68] - DEBUG: 5_AddEventListener
+2021-06-03 11:47:59,138 - EventManager.py[line:78] - DEBUG: {'CTOK': [<bound method StimulationExchangeMessageOperator.do_CTOK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x000001EE1E9FCC18>>], 'DCOK': [<bound method StimulationExchangeMessageOperator.do_DCOK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x000001EE1E9FCC18>>], 'TROK': [<bound method StimulationExchangeMessageOperator.do_TROK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x000001EE1E9FCC18>>], 'PROK': [<bound method StimulationExchangeMessageOperator.do_PROK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x000001EE1E9FCC18>>], 'TNOK': [<bound method StimulationExchangeMessageOperator.do_TNOK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x000001EE1E9FCC18>>], 'PNOK': [<bound method StimulationExchangeMessageOperator.do_PNOK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x000001EE1E9FCC18>>]}
+2021-06-03 11:47:59,138 - EventManager.py[line:68] - DEBUG: 6_AddEventListener
+2021-06-03 11:47:59,138 - EventManager.py[line:78] - DEBUG: {'CTOK': [<bound method StimulationExchangeMessageOperator.do_CTOK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x000001EE1E9FCC18>>], 'DCOK': [<bound method StimulationExchangeMessageOperator.do_DCOK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x000001EE1E9FCC18>>], 'TROK': [<bound method StimulationExchangeMessageOperator.do_TROK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x000001EE1E9FCC18>>], 'PROK': [<bound method StimulationExchangeMessageOperator.do_PROK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x000001EE1E9FCC18>>], 'TNOK': [<bound method StimulationExchangeMessageOperator.do_TNOK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x000001EE1E9FCC18>>], 'PNOK': [<bound method StimulationExchangeMessageOperator.do_PNOK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x000001EE1E9FCC18>>], 'CAOK': [<bound method StimulationExchangeMessageOperator.do_CAOK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x000001EE1E9FCC18>>]}
+2021-06-03 11:47:59,138 - EventManager.py[line:68] - DEBUG: 7_AddEventListener
+2021-06-03 11:47:59,139 - EventManager.py[line:78] - DEBUG: {'CTOK': [<bound method StimulationExchangeMessageOperator.do_CTOK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x000001EE1E9FCC18>>], 'DCOK': [<bound method StimulationExchangeMessageOperator.do_DCOK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x000001EE1E9FCC18>>], 'TROK': [<bound method StimulationExchangeMessageOperator.do_TROK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x000001EE1E9FCC18>>], 'PROK': [<bound method StimulationExchangeMessageOperator.do_PROK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x000001EE1E9FCC18>>], 'TNOK': [<bound method StimulationExchangeMessageOperator.do_TNOK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x000001EE1E9FCC18>>], 'PNOK': [<bound method StimulationExchangeMessageOperator.do_PNOK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x000001EE1E9FCC18>>], 'CAOK': [<bound method StimulationExchangeMessageOperator.do_CAOK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x000001EE1E9FCC18>>], 'STSN': [<bound method StimulationExchangeMessageOperator.do_STSN of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x000001EE1E9FCC18>>]}
+2021-06-03 11:47:59,154 - EventManager.py[line:68] - DEBUG: 8_AddEventListener
+2021-06-03 11:47:59,154 - EventManager.py[line:78] - DEBUG: {'CTOK': [<bound method StimulationExchangeMessageOperator.do_CTOK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x000001EE1E9FCC18>>], 'DCOK': [<bound method StimulationExchangeMessageOperator.do_DCOK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x000001EE1E9FCC18>>], 'TROK': [<bound method StimulationExchangeMessageOperator.do_TROK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x000001EE1E9FCC18>>], 'PROK': [<bound method StimulationExchangeMessageOperator.do_PROK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x000001EE1E9FCC18>>], 'TNOK': [<bound method StimulationExchangeMessageOperator.do_TNOK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x000001EE1E9FCC18>>], 'PNOK': [<bound method StimulationExchangeMessageOperator.do_PNOK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x000001EE1E9FCC18>>], 'CAOK': [<bound method StimulationExchangeMessageOperator.do_CAOK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x000001EE1E9FCC18>>], 'STSN': [<bound method StimulationExchangeMessageOperator.do_STSN of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x000001EE1E9FCC18>>], 'RSLT': [<bound method StimulationExchangeMessageOperator.do_RSLT of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x000001EE1E9FCC18>>]}
+2021-06-03 11:47:59,154 - EventManager.py[line:49] - DEBUG: 9_Start
+2021-06-03 11:47:59,155 - EventManager.py[line:27] - DEBUG: 9_run
+2021-06-03 11:47:59,155 - EventManager.py[line:55] - DEBUG: start中的count: 10
+2021-06-03 11:47:59,155 - ExchangeMessageManagement.py[line:58] - DEBUG: ExchangeMessageManagement.initial returned.
+2021-06-03 11:47:59,155 - ExchangeMessageManagement.py[line:61] - DEBUG: ExchangeMessageManagement.start is called.
+2021-06-03 11:47:59,156 - ExchangeMessageManagement.py[line:64] - DEBUG: ExchangeMessageManagement.start returned.
+2021-06-03 11:47:59,156 - DoubleSpellingStimController.py[line:105] - DEBUG: 当前监视器状态INIT,等待监视器状态改变为CTOK,2021-06-03 11:47:59.156515
+
+2021-06-03 11:47:59,634 - ExchangeMessageManagement.py[line:82] - DEBUG: send CTNS!
+2021-06-03 11:47:59,741 - ExchangeMessageManagement.py[line:82] - DEBUG: send CTNS!
+2021-06-03 11:47:59,848 - ExchangeMessageManagement.py[line:82] - DEBUG: send CTNS!
+2021-06-03 11:47:59,956 - ExchangeMessageManagement.py[line:82] - DEBUG: send CTNS!
+2021-06-03 11:48:00,063 - ExchangeMessageManagement.py[line:82] - DEBUG: send CTNS!
+2021-06-03 11:48:00,157 - receive_exchange_message_fcn.py[line:16] - DEBUG: receive: CTOK
+2021-06-03 11:48:00,169 - ExchangeMessageManagement.py[line:82] - DEBUG: send CTNS!
+2021-06-03 11:48:00,277 - ExchangeMessageManagement.py[line:82] - DEBUG: send CTNS!
+2021-06-03 11:48:00,385 - ExchangeMessageManagement.py[line:82] - DEBUG: send CTNS!
+2021-06-03 11:48:00,492 - ExchangeMessageManagement.py[line:82] - DEBUG: send CTNS!
+2021-06-03 11:48:00,600 - ExchangeMessageManagement.py[line:82] - DEBUG: send CTNS!
+2021-06-03 11:48:00,658 - StimulationExchangeMessageOperator.py[line:27] - DEBUG: 接收消息CTOK，设置监视器状态CTOK
+
+2021-06-03 11:48:00,658 - receive_exchange_message_fcn.py[line:16] - DEBUG: receive: CTOK
+2021-06-03 11:48:00,707 - ExchangeMessageManagement.py[line:82] - DEBUG: send STAR!
+2021-06-03 11:48:00,707 - DoubleSpellingStimController.py[line:115] - DEBUG: 当前监视器状态CTOK,等待监视器状态改变为TROK,2021-06-03 11:48:00.707471
+
+2021-06-03 11:48:01,158 - StimulationExchangeMessageOperator.py[line:27] - DEBUG: 接收消息CTOK，设置监视器状态CTOK
+
+2021-06-03 11:48:01,159 - receive_exchange_message_fcn.py[line:16] - DEBUG: receive: CTOK
+2021-06-03 11:48:01,659 - StimulationExchangeMessageOperator.py[line:27] - DEBUG: 接收消息CTOK，设置监视器状态CTOK
+
+2021-06-03 11:48:01,661 - receive_exchange_message_fcn.py[line:16] - DEBUG: receive: CTOK
+2021-06-03 11:48:02,159 - StimulationExchangeMessageOperator.py[line:27] - DEBUG: 接收消息CTOK，设置监视器状态CTOK
+
+2021-06-03 11:48:02,161 - receive_exchange_message_fcn.py[line:16] - DEBUG: receive: CTOK
+2021-06-03 11:48:02,659 - StimulationExchangeMessageOperator.py[line:27] - DEBUG: 接收消息CTOK，设置监视器状态CTOK
+
+2021-06-03 11:48:02,662 - receive_exchange_message_fcn.py[line:16] - DEBUG: receive: CTOK
+2021-06-03 11:48:03,160 - StimulationExchangeMessageOperator.py[line:27] - DEBUG: 接收消息CTOK，设置监视器状态CTOK
+
+2021-06-03 11:48:03,162 - receive_exchange_message_fcn.py[line:16] - DEBUG: receive: CTOK
+2021-06-03 11:48:03,661 - StimulationExchangeMessageOperator.py[line:27] - DEBUG: 接收消息CTOK，设置监视器状态CTOK
+
+2021-06-03 11:48:03,663 - receive_exchange_message_fcn.py[line:16] - DEBUG: receive: CTOK
+2021-06-03 11:48:04,161 - StimulationExchangeMessageOperator.py[line:27] - DEBUG: 接收消息CTOK，设置监视器状态CTOK
+
+2021-06-03 11:48:04,163 - receive_exchange_message_fcn.py[line:16] - DEBUG: receive: CTOK
+2021-06-03 11:48:04,661 - StimulationExchangeMessageOperator.py[line:27] - DEBUG: 接收消息CTOK，设置监视器状态CTOK
+
+2021-06-03 11:48:04,663 - receive_exchange_message_fcn.py[line:16] - DEBUG: receive: CTOK
+2021-06-03 11:48:05,162 - StimulationExchangeMessageOperator.py[line:27] - DEBUG: 接收消息CTOK，设置监视器状态CTOK
+
+2021-06-03 11:48:05,164 - receive_exchange_message_fcn.py[line:16] - DEBUG: receive: TROK
+2021-06-03 11:48:05,662 - StimulationExchangeMessageOperator.py[line:37] - DEBUG: 接收消息TROK，设置监视器状态TROK
+
+2021-06-03 11:48:37,275 - StimulationController.py[line:22] - DEBUG: DoubleSpellingApplication.StimulationController.initiall is called.
+2021-06-03 11:48:37,275 - InitialProcess.py[line:17] - DEBUG: DoubleSpellingApplication.InitialProcess.initial is called.
+2021-06-03 11:48:37,275 - InitialProcess.py[line:28] - DEBUG: DoubleSpellingApplication.InitialProcess.initial returned.
+2021-06-03 11:48:37,275 - PrePareProcess.py[line:21] - DEBUG: DoubleSpellingApplication.PrepareProcess.initial is called.
+2021-06-03 11:48:37,275 - PrePareProcess.py[line:33] - DEBUG: DoubleSpellingApplication.PrepareProcess.initial rerturned.
+2021-06-03 11:48:37,275 - StimulateProcess.py[line:23] - DEBUG: DoubleSpellingApplication.StimulateProcess.initial is called.
+2021-06-03 11:48:37,275 - StimulateProcess.py[line:33] - DEBUG: DoubleSpellingApplication.StimulateProcess.initial returned.
+2021-06-03 11:48:37,275 - FinishProcess.py[line:31] - DEBUG: DoubleSpellingApplication.FinishProcess.initial is called.
+2021-06-03 11:48:37,277 - FinishProcess.py[line:63] - DEBUG: DoubleSpellingApplication.FinishProcess.initial returned.
+2021-06-03 11:48:37,277 - StimulationController.py[line:41] - DEBUG: DoubleSpellingApplication.StimulationController.initiall returned.
+2021-06-03 11:48:38,340 - DoubleSpellingStimController.py[line:174] - DEBUG: DoubleSpellingStimController.initial returned.
+2021-06-03 11:48:38,340 - DoubleSpellingStimController.py[line:183] - INFO: DoubleSpellingStimController.start is called
+2021-06-03 11:48:38,347 - ExchangeMessageManagement.py[line:82] - DEBUG: send STON!
+2021-06-03 11:48:38,347 - DoubleSpellingStimController.py[line:186] - DEBUG: 当前监视器状态TROK,等待监视器状态改变为TNOK,2021-06-03 11:48:38.347335
+
+2021-06-03 11:48:38,935 - receive_exchange_message_fcn.py[line:16] - DEBUG: receive: TNOK
+2021-06-03 11:48:39,234 - StimulationExchangeMessageOperator.py[line:47] - DEBUG: 接收消息TNOK，设置监视器状态TNOK
+
+2021-06-03 11:48:39,258 - StimulationController.py[line:51] - DEBUG: DoubleSpellingApplication.StimulationController.run is called.
+2021-06-03 11:48:39,258 - StimulationController.py[line:52] - DEBUG: 
+开始进入StimulationController呈现阶段，执行时间2021-06-03 11:48:39.258416
+
+2021-06-03 11:48:39,258 - InitialProcess.py[line:42] - DEBUG: DoubleSpellingApplication.InitialProcess.run is called.
+2021-06-03 11:48:39,281 - InitialProcess.py[line:49] - DEBUG: DoubleSpellingApplication.InitialProcess.run returned.
+2021-06-03 11:48:39,282 - StimulationController.py[line:54] - DEBUG: DoubleSpellingApplication.StimulationController.run returned.
+2021-06-03 11:48:39,282 - StimulationController.py[line:51] - DEBUG: DoubleSpellingApplication.StimulationController.run is called.
+2021-06-03 11:48:39,282 - StimulationController.py[line:52] - DEBUG: 
+开始进入StimulationController呈现阶段，执行时间2021-06-03 11:48:39.282053
+
+2021-06-03 11:48:39,282 - PrePareProcess.py[line:54] - DEBUG: DoubleSpellingApplication.PrepareProcess.run is called.
+2021-06-03 11:48:39,864 - receive_exchange_message_fcn.py[line:16] - DEBUG: receive: RSLT^0^0^^;_^;|:|'|"|.|!|,|`|上|下^0
+2021-06-03 11:48:40,235 - StimulationExchangeMessageOperator.py[line:79] - DEBUG: 收到返回结果2021-06-03 11:48:40.235005：
+2021-06-03 11:48:40,235 - StimulationExchangeMessageOperator.py[line:80] - DEBUG: <doubleSpellingApplication.Stimulation_Operation.CommonSystem.CommonModule.ResultTransferModel.ResultTransferModel object at 0x000001EE1D14CCF8>
+2021-06-03 11:48:40,306 - PrePareProcess.py[line:73] - DEBUG: DoubleSpellingApplication.PrepareProcess.run returned.
+2021-06-03 11:48:40,306 - StimulationController.py[line:54] - DEBUG: DoubleSpellingApplication.StimulationController.run returned.
+2021-06-03 11:48:40,306 - StimulationController.py[line:51] - DEBUG: DoubleSpellingApplication.StimulationController.run is called.
+2021-06-03 11:48:40,306 - StimulationController.py[line:52] - DEBUG: 
+开始进入StimulationController呈现阶段，执行时间2021-06-03 11:48:40.306095
+
+2021-06-03 11:48:40,306 - StimulateProcess.py[line:46] - DEBUG: DoubleSpellingApplication.StimulateProcess.run is called.
+2021-06-03 11:48:40,316 - ExchangeMessageManagement.py[line:82] - DEBUG: send STRD!
+2021-06-03 11:48:40,316 - StimulateProcess.py[line:54] - DEBUG: 
+StimulateProcess 发送开始异步检测指令，执行时间2021-06-03 11:48:40.316381
+
+2021-06-03 11:48:40,845 - receive_exchange_message_fcn.py[line:16] - DEBUG: receive: RSLT^0^0^^;;_^;|:|'|"|.|!|,|`|上|下^0
+2021-06-03 11:48:41,235 - StimulationExchangeMessageOperator.py[line:79] - DEBUG: 收到返回结果2021-06-03 11:48:41.235471：
+2021-06-03 11:48:41,235 - StimulationExchangeMessageOperator.py[line:80] - DEBUG: <doubleSpellingApplication.Stimulation_Operation.CommonSystem.CommonModule.ResultTransferModel.ResultTransferModel object at 0x000001EE1D178278>
+2021-06-03 11:48:41,235 - FinishProcess.py[line:66] - DEBUG: DoubleSpellingApplication.FinishProcess.update is called.
+2021-06-03 11:48:41,235 - FinishProcess.py[line:83] - DEBUG: DoubleSpellingApplication.FinishProcess.update returned.
+2021-06-03 11:48:41,245 - StimulateProcess.py[line:77] - DEBUG: DoubleSpellingApplication.StimulateProcess.run returned.
+2021-06-03 11:48:41,245 - StimulationController.py[line:54] - DEBUG: DoubleSpellingApplication.StimulationController.run returned.
+2021-06-03 11:48:41,245 - StimulationController.py[line:51] - DEBUG: DoubleSpellingApplication.StimulationController.run is called.
+2021-06-03 11:48:41,245 - StimulationController.py[line:52] - DEBUG: 
+开始进入StimulationController呈现阶段，执行时间2021-06-03 11:48:41.245467
+
+2021-06-03 11:48:41,246 - FinishProcess.py[line:93] - DEBUG: DoubleSpellingApplication.FinishProcess.run is called.
+2021-06-03 11:48:42,289 - FinishProcess.py[line:99] - DEBUG: DoubleSpellingApplication.FinishProcess.run returned.
+2021-06-03 11:48:42,289 - StimulationController.py[line:54] - DEBUG: DoubleSpellingApplication.StimulationController.run returned.
+2021-06-03 11:48:42,289 - StimulationController.py[line:51] - DEBUG: DoubleSpellingApplication.StimulationController.run is called.
+2021-06-03 11:48:42,289 - StimulationController.py[line:52] - DEBUG: 
+开始进入StimulationController呈现阶段，执行时间2021-06-03 11:48:42.289425
+
+2021-06-03 11:48:42,289 - PrePareProcess.py[line:54] - DEBUG: DoubleSpellingApplication.PrepareProcess.run is called.
+2021-06-03 11:48:43,306 - PrePareProcess.py[line:73] - DEBUG: DoubleSpellingApplication.PrepareProcess.run returned.
+2021-06-03 11:48:43,306 - StimulationController.py[line:54] - DEBUG: DoubleSpellingApplication.StimulationController.run returned.
+2021-06-03 11:48:43,306 - StimulationController.py[line:51] - DEBUG: DoubleSpellingApplication.StimulationController.run is called.
+2021-06-03 11:48:43,306 - StimulationController.py[line:52] - DEBUG: 
+开始进入StimulationController呈现阶段，执行时间2021-06-03 11:48:43.306469
+
+2021-06-03 11:48:43,306 - StimulateProcess.py[line:46] - DEBUG: DoubleSpellingApplication.StimulateProcess.run is called.
+2021-06-03 11:48:43,312 - ExchangeMessageManagement.py[line:82] - DEBUG: send STRD!
+2021-06-03 11:48:43,312 - StimulateProcess.py[line:54] - DEBUG: 
+StimulateProcess 发送开始异步检测指令，执行时间2021-06-03 11:48:43.312869
+
+2021-06-03 11:48:43,730 - receive_exchange_message_fcn.py[line:16] - DEBUG: receive: RSLT^0^0^^;;;_^;|:|'|"|.|!|,|`|上|下^0
+2021-06-03 11:48:43,738 - StimulationExchangeMessageOperator.py[line:79] - DEBUG: 收到返回结果2021-06-03 11:48:43.738161：
+2021-06-03 11:48:43,738 - StimulationExchangeMessageOperator.py[line:80] - DEBUG: <doubleSpellingApplication.Stimulation_Operation.CommonSystem.CommonModule.ResultTransferModel.ResultTransferModel object at 0x000001EE1D197400>
+2021-06-03 11:48:43,738 - FinishProcess.py[line:66] - DEBUG: DoubleSpellingApplication.FinishProcess.update is called.
+2021-06-03 11:48:43,738 - FinishProcess.py[line:83] - DEBUG: DoubleSpellingApplication.FinishProcess.update returned.
+2021-06-03 11:48:43,746 - StimulateProcess.py[line:77] - DEBUG: DoubleSpellingApplication.StimulateProcess.run returned.
+2021-06-03 11:48:43,746 - StimulationController.py[line:54] - DEBUG: DoubleSpellingApplication.StimulationController.run returned.
+2021-06-03 11:48:43,746 - StimulationController.py[line:51] - DEBUG: DoubleSpellingApplication.StimulationController.run is called.
+2021-06-03 11:48:43,746 - StimulationController.py[line:52] - DEBUG: 
+开始进入StimulationController呈现阶段，执行时间2021-06-03 11:48:43.746915
+
+2021-06-03 11:48:43,746 - FinishProcess.py[line:93] - DEBUG: DoubleSpellingApplication.FinishProcess.run is called.
+2021-06-03 11:48:44,762 - FinishProcess.py[line:99] - DEBUG: DoubleSpellingApplication.FinishProcess.run returned.
+2021-06-03 11:48:44,762 - StimulationController.py[line:54] - DEBUG: DoubleSpellingApplication.StimulationController.run returned.
+2021-06-03 11:48:44,762 - StimulationController.py[line:51] - DEBUG: DoubleSpellingApplication.StimulationController.run is called.
+2021-06-03 11:48:44,762 - StimulationController.py[line:52] - DEBUG: 
+开始进入StimulationController呈现阶段，执行时间2021-06-03 11:48:44.762901
+
+2021-06-03 11:48:44,762 - PrePareProcess.py[line:54] - DEBUG: DoubleSpellingApplication.PrepareProcess.run is called.
+2021-06-03 11:48:45,777 - PrePareProcess.py[line:73] - DEBUG: DoubleSpellingApplication.PrepareProcess.run returned.
+2021-06-03 11:48:45,777 - StimulationController.py[line:54] - DEBUG: DoubleSpellingApplication.StimulationController.run returned.
+2021-06-03 11:48:45,777 - StimulationController.py[line:51] - DEBUG: DoubleSpellingApplication.StimulationController.run is called.
+2021-06-03 11:48:45,777 - StimulationController.py[line:52] - DEBUG: 
+开始进入StimulationController呈现阶段，执行时间2021-06-03 11:48:45.777880
+
+2021-06-03 11:48:45,777 - StimulateProcess.py[line:46] - DEBUG: DoubleSpellingApplication.StimulateProcess.run is called.
+2021-06-03 11:48:45,786 - ExchangeMessageManagement.py[line:82] - DEBUG: send STRD!
+2021-06-03 11:48:45,786 - StimulateProcess.py[line:54] - DEBUG: 
+StimulateProcess 发送开始异步检测指令，执行时间2021-06-03 11:48:45.786235
+
+2021-06-03 11:48:46,718 - receive_exchange_message_fcn.py[line:16] - DEBUG: receive: RSLT^0^0^^;;;;_^;|:|'|"|.|!|,|`|上|下^0
+2021-06-03 11:48:46,742 - StimulationExchangeMessageOperator.py[line:79] - DEBUG: 收到返回结果2021-06-03 11:48:46.742105：
+2021-06-03 11:48:46,742 - StimulationExchangeMessageOperator.py[line:80] - DEBUG: <doubleSpellingApplication.Stimulation_Operation.CommonSystem.CommonModule.ResultTransferModel.ResultTransferModel object at 0x000001EE1D519A90>
+2021-06-03 11:48:46,742 - FinishProcess.py[line:66] - DEBUG: DoubleSpellingApplication.FinishProcess.update is called.
+2021-06-03 11:48:46,742 - FinishProcess.py[line:83] - DEBUG: DoubleSpellingApplication.FinishProcess.update returned.
+2021-06-03 11:48:46,746 - StimulateProcess.py[line:77] - DEBUG: DoubleSpellingApplication.StimulateProcess.run returned.
+2021-06-03 11:48:46,746 - StimulationController.py[line:54] - DEBUG: DoubleSpellingApplication.StimulationController.run returned.
+2021-06-03 11:48:46,746 - StimulationController.py[line:51] - DEBUG: DoubleSpellingApplication.StimulationController.run is called.
+2021-06-03 11:48:46,746 - StimulationController.py[line:52] - DEBUG: 
+开始进入StimulationController呈现阶段，执行时间2021-06-03 11:48:46.746066
+
+2021-06-03 11:48:46,746 - FinishProcess.py[line:93] - DEBUG: DoubleSpellingApplication.FinishProcess.run is called.
+2021-06-03 11:48:47,762 - FinishProcess.py[line:99] - DEBUG: DoubleSpellingApplication.FinishProcess.run returned.
+2021-06-03 11:48:47,762 - StimulationController.py[line:54] - DEBUG: DoubleSpellingApplication.StimulationController.run returned.
+2021-06-03 11:48:47,762 - StimulationController.py[line:51] - DEBUG: DoubleSpellingApplication.StimulationController.run is called.
+2021-06-03 11:48:47,762 - StimulationController.py[line:52] - DEBUG: 
+开始进入StimulationController呈现阶段，执行时间2021-06-03 11:48:47.762910
+
+2021-06-03 11:48:47,762 - PrePareProcess.py[line:54] - DEBUG: DoubleSpellingApplication.PrepareProcess.run is called.
+2021-06-03 11:48:48,779 - PrePareProcess.py[line:73] - DEBUG: DoubleSpellingApplication.PrepareProcess.run returned.
+2021-06-03 11:48:48,779 - StimulationController.py[line:54] - DEBUG: DoubleSpellingApplication.StimulationController.run returned.
+2021-06-03 11:48:48,779 - StimulationController.py[line:51] - DEBUG: DoubleSpellingApplication.StimulationController.run is called.
+2021-06-03 11:48:48,779 - StimulationController.py[line:52] - DEBUG: 
+开始进入StimulationController呈现阶段，执行时间2021-06-03 11:48:48.779222
+
+2021-06-03 11:48:48,779 - StimulateProcess.py[line:46] - DEBUG: DoubleSpellingApplication.StimulateProcess.run is called.
+2021-06-03 11:48:48,787 - ExchangeMessageManagement.py[line:82] - DEBUG: send STRD!
+2021-06-03 11:48:48,787 - StimulateProcess.py[line:54] - DEBUG: 
+StimulateProcess 发送开始异步检测指令，执行时间2021-06-03 11:48:48.787282
+
+2021-06-03 11:48:49,710 - receive_exchange_message_fcn.py[line:16] - DEBUG: receive: RSLT^0^0^^;;;;;_^;|:|'|"|.|!|,|`|上|下^0
+2021-06-03 11:48:49,745 - StimulationExchangeMessageOperator.py[line:79] - DEBUG: 收到返回结果2021-06-03 11:48:49.745465：
+2021-06-03 11:48:49,745 - StimulationExchangeMessageOperator.py[line:80] - DEBUG: <doubleSpellingApplication.Stimulation_Operation.CommonSystem.CommonModule.ResultTransferModel.ResultTransferModel object at 0x000001EE1D1978D0>
+2021-06-03 11:48:49,745 - FinishProcess.py[line:66] - DEBUG: DoubleSpellingApplication.FinishProcess.update is called.
+2021-06-03 11:48:49,746 - StimulateProcess.py[line:77] - DEBUG: DoubleSpellingApplication.StimulateProcess.run returned.
+2021-06-03 11:48:49,746 - FinishProcess.py[line:83] - DEBUG: DoubleSpellingApplication.FinishProcess.update returned.
+2021-06-03 11:48:49,746 - StimulationController.py[line:54] - DEBUG: DoubleSpellingApplication.StimulationController.run returned.
+2021-06-03 11:48:49,746 - StimulationController.py[line:51] - DEBUG: DoubleSpellingApplication.StimulationController.run is called.
+2021-06-03 11:48:49,747 - StimulationController.py[line:52] - DEBUG: 
+开始进入StimulationController呈现阶段，执行时间2021-06-03 11:48:49.747272
+
+2021-06-03 11:48:49,747 - FinishProcess.py[line:93] - DEBUG: DoubleSpellingApplication.FinishProcess.run is called.
+2021-06-03 11:48:50,762 - FinishProcess.py[line:99] - DEBUG: DoubleSpellingApplication.FinishProcess.run returned.
+2021-06-03 11:48:50,762 - StimulationController.py[line:54] - DEBUG: DoubleSpellingApplication.StimulationController.run returned.
+2021-06-03 11:48:50,762 - StimulationController.py[line:51] - DEBUG: DoubleSpellingApplication.StimulationController.run is called.
+2021-06-03 11:48:50,762 - StimulationController.py[line:52] - DEBUG: 
+开始进入StimulationController呈现阶段，执行时间2021-06-03 11:48:50.762647
+
+2021-06-03 11:48:50,762 - PrePareProcess.py[line:54] - DEBUG: DoubleSpellingApplication.PrepareProcess.run is called.
+2021-06-03 11:48:51,778 - PrePareProcess.py[line:73] - DEBUG: DoubleSpellingApplication.PrepareProcess.run returned.
+2021-06-03 11:48:51,778 - StimulationController.py[line:54] - DEBUG: DoubleSpellingApplication.StimulationController.run returned.
+2021-06-03 11:48:51,778 - StimulationController.py[line:51] - DEBUG: DoubleSpellingApplication.StimulationController.run is called.
+2021-06-03 11:48:51,778 - StimulationController.py[line:52] - DEBUG: 
+开始进入StimulationController呈现阶段，执行时间2021-06-03 11:48:51.778006
+
+2021-06-03 11:48:51,778 - StimulateProcess.py[line:46] - DEBUG: DoubleSpellingApplication.StimulateProcess.run is called.
+2021-06-03 11:48:51,785 - ExchangeMessageManagement.py[line:82] - DEBUG: send STRD!
+2021-06-03 11:48:51,785 - StimulateProcess.py[line:54] - DEBUG: 
+StimulateProcess 发送开始异步检测指令，执行时间2021-06-03 11:48:51.785033
+
+2021-06-03 11:48:57,489 - receive_exchange_message_fcn.py[line:16] - DEBUG: receive: RSLT^4^0^^;;;;;'_^;|:|'|"|.|!|,|`|上|下^0
+2021-06-03 11:48:57,755 - StimulationExchangeMessageOperator.py[line:79] - DEBUG: 收到返回结果2021-06-03 11:48:57.755793：
+2021-06-03 11:48:57,755 - StimulationExchangeMessageOperator.py[line:80] - DEBUG: <doubleSpellingApplication.Stimulation_Operation.CommonSystem.CommonModule.ResultTransferModel.ResultTransferModel object at 0x000001EE1D197E10>
+2021-06-03 11:48:57,755 - FinishProcess.py[line:66] - DEBUG: DoubleSpellingApplication.FinishProcess.update is called.
+2021-06-03 11:48:57,755 - FinishProcess.py[line:83] - DEBUG: DoubleSpellingApplication.FinishProcess.update returned.
+2021-06-03 11:48:57,762 - StimulateProcess.py[line:77] - DEBUG: DoubleSpellingApplication.StimulateProcess.run returned.
+2021-06-03 11:48:57,762 - StimulationController.py[line:54] - DEBUG: DoubleSpellingApplication.StimulationController.run returned.
+2021-06-03 11:48:57,762 - StimulationController.py[line:51] - DEBUG: DoubleSpellingApplication.StimulationController.run is called.
+2021-06-03 11:48:57,762 - StimulationController.py[line:52] - DEBUG: 
+开始进入StimulationController呈现阶段，执行时间2021-06-03 11:48:57.762370
+
+2021-06-03 11:48:57,762 - FinishProcess.py[line:93] - DEBUG: DoubleSpellingApplication.FinishProcess.run is called.
+2021-06-03 11:48:58,780 - FinishProcess.py[line:99] - DEBUG: DoubleSpellingApplication.FinishProcess.run returned.
+2021-06-03 11:48:58,780 - StimulationController.py[line:54] - DEBUG: DoubleSpellingApplication.StimulationController.run returned.
+2021-06-03 11:48:58,780 - StimulationController.py[line:51] - DEBUG: DoubleSpellingApplication.StimulationController.run is called.
+2021-06-03 11:48:58,780 - StimulationController.py[line:52] - DEBUG: 
+开始进入StimulationController呈现阶段，执行时间2021-06-03 11:48:58.780555
+
+2021-06-03 11:48:58,780 - PrePareProcess.py[line:54] - DEBUG: DoubleSpellingApplication.PrepareProcess.run is called.
+2021-06-03 11:48:59,811 - PrePareProcess.py[line:73] - DEBUG: DoubleSpellingApplication.PrepareProcess.run returned.
+2021-06-03 11:48:59,811 - StimulationController.py[line:54] - DEBUG: DoubleSpellingApplication.StimulationController.run returned.
+2021-06-03 11:48:59,811 - StimulationController.py[line:51] - DEBUG: DoubleSpellingApplication.StimulationController.run is called.
+2021-06-03 11:48:59,811 - StimulationController.py[line:52] - DEBUG: 
+开始进入StimulationController呈现阶段，执行时间2021-06-03 11:48:59.811648
+
+2021-06-03 11:48:59,811 - StimulateProcess.py[line:46] - DEBUG: DoubleSpellingApplication.StimulateProcess.run is called.
+2021-06-03 11:48:59,818 - ExchangeMessageManagement.py[line:82] - DEBUG: send STRD!
+2021-06-03 11:48:59,818 - StimulateProcess.py[line:54] - DEBUG: 
+StimulateProcess 发送开始异步检测指令，执行时间2021-06-03 11:48:59.818381
+
+2021-06-03 11:49:00,192 - receive_exchange_message_fcn.py[line:16] - DEBUG: receive: RSLT^4^0^^;;;;;''_^;|:|'|"|.|!|,|`|上|下^0
+2021-06-03 11:49:00,258 - StimulationExchangeMessageOperator.py[line:79] - DEBUG: 收到返回结果2021-06-03 11:49:00.258005：
+2021-06-03 11:49:00,258 - StimulationExchangeMessageOperator.py[line:80] - DEBUG: <doubleSpellingApplication.Stimulation_Operation.CommonSystem.CommonModule.ResultTransferModel.ResultTransferModel object at 0x000001EE1D16AD30>
+2021-06-03 11:49:00,258 - FinishProcess.py[line:66] - DEBUG: DoubleSpellingApplication.FinishProcess.update is called.
+2021-06-03 11:49:00,258 - FinishProcess.py[line:83] - DEBUG: DoubleSpellingApplication.FinishProcess.update returned.
+2021-06-03 11:49:00,262 - StimulateProcess.py[line:77] - DEBUG: DoubleSpellingApplication.StimulateProcess.run returned.
+2021-06-03 11:49:00,262 - StimulationController.py[line:54] - DEBUG: DoubleSpellingApplication.StimulationController.run returned.
+2021-06-03 11:49:00,262 - StimulationController.py[line:51] - DEBUG: DoubleSpellingApplication.StimulationController.run is called.
+2021-06-03 11:49:00,262 - StimulationController.py[line:52] - DEBUG: 
+开始进入StimulationController呈现阶段，执行时间2021-06-03 11:49:00.262340
+
+2021-06-03 11:49:00,262 - FinishProcess.py[line:93] - DEBUG: DoubleSpellingApplication.FinishProcess.run is called.
+2021-06-03 11:49:01,279 - FinishProcess.py[line:99] - DEBUG: DoubleSpellingApplication.FinishProcess.run returned.
+2021-06-03 11:49:01,522 - StimulationController.py[line:54] - DEBUG: DoubleSpellingApplication.StimulationController.run returned.
+2021-06-03 11:49:01,522 - StimulationController.py[line:51] - DEBUG: DoubleSpellingApplication.StimulationController.run is called.
+2021-06-03 11:49:01,522 - StimulationController.py[line:52] - DEBUG: 
+开始进入StimulationController呈现阶段，执行时间2021-06-03 11:49:01.522727
+
+2021-06-03 11:49:01,522 - PrePareProcess.py[line:54] - DEBUG: DoubleSpellingApplication.PrepareProcess.run is called.
+2021-06-03 11:49:02,537 - PrePareProcess.py[line:73] - DEBUG: DoubleSpellingApplication.PrepareProcess.run returned.
+2021-06-03 11:49:02,537 - StimulationController.py[line:54] - DEBUG: DoubleSpellingApplication.StimulationController.run returned.
+2021-06-03 11:49:02,537 - StimulationController.py[line:51] - DEBUG: DoubleSpellingApplication.StimulationController.run is called.
+2021-06-03 11:49:02,537 - StimulationController.py[line:52] - DEBUG: 
+开始进入StimulationController呈现阶段，执行时间2021-06-03 11:49:02.537433
+
+2021-06-03 11:49:02,537 - StimulateProcess.py[line:46] - DEBUG: DoubleSpellingApplication.StimulateProcess.run is called.
+2021-06-03 11:49:02,544 - ExchangeMessageManagement.py[line:82] - DEBUG: send STRD!
+2021-06-03 11:49:02,544 - StimulateProcess.py[line:54] - DEBUG: 
+StimulateProcess 发送开始异步检测指令，执行时间2021-06-03 11:49:02.544408
+
+2021-06-03 11:49:02,554 - DoubleSpellingStimController.py[line:216] - DEBUG: DoubleSpellingStimController.stop is called
+2021-06-03 11:49:02,554 - ExchangeMessageManagement.py[line:67] - DEBUG: ExchangeMessageManagement.stop is called.
+2021-06-03 11:49:02,554 - EventManager.py[line:59] - DEBUG: 123_Stop
+2021-06-03 11:49:02,697 - receive_exchange_message_fcn.py[line:21] - DEBUG: Exiting receive_exchange_message_fcn!
+2021-06-03 11:49:02,761 - operate_exchange_message_fcn.py[line:40] - DEBUG: Exiting operate_exchange_message_fcn!
+2021-06-03 11:49:03,258 - ExchangeMessageManagement.py[line:72] - DEBUG: ExchangeMessageManagement.stop returned.
+2021-06-03 11:49:03,258 - DoubleSpellingStimController.py[line:220] - DEBUG: DoubleSpellingStimController.stop returned
+2021-06-03 11:49:03,262 - StimulateProcess.py[line:77] - DEBUG: DoubleSpellingApplication.StimulateProcess.run returned.
+2021-06-03 11:49:03,262 - StimulationController.py[line:54] - DEBUG: DoubleSpellingApplication.StimulationController.run returned.
+2021-06-03 11:49:03,262 - StimulationController.py[line:51] - DEBUG: DoubleSpellingApplication.StimulationController.run is called.
+2021-06-03 11:49:03,262 - StimulationController.py[line:52] - DEBUG: 
+开始进入StimulationController呈现阶段，执行时间2021-06-03 11:49:03.262310
+
+2021-06-03 11:49:03,262 - ExitProcess.py[line:18] - DEBUG: DoubleSpellingApplication.ExitProcess.run is called.
+2021-06-03 11:49:03,297 - ExitProcess.py[line:29] - DEBUG: DoubleSpellingApplication.ExitProcess.run returned.
+2021-06-03 11:49:03,297 - StimulationController.py[line:54] - DEBUG: DoubleSpellingApplication.StimulationController.run returned.
+2021-06-03 11:49:03,298 - DoubleSpellingStimController.py[line:206] - INFO: DoubleSpellingStimController.start returned
+2021-06-03 11:50:30,668 - DoubleSpellingStimController.py[line:49] - DEBUG: DoubleSpellingStimController.initial is called.
+2021-06-03 11:50:30,668 - DoubleSpellingStimController.py[line:49] - DEBUG: DoubleSpellingStimController.initial is called.
+2021-06-03 11:50:31,814 - ExchangeMessageManagement.py[line:43] - DEBUG: ExchangeMessageManagement.initial is called.
+2021-06-03 11:50:31,814 - ExchangeMessageManagement.py[line:43] - DEBUG: ExchangeMessageManagement.initial is called.
+2021-06-03 11:50:31,814 - EventManager.py[line:68] - DEBUG: 0_AddEventListener
+2021-06-03 11:50:31,814 - EventManager.py[line:68] - DEBUG: 0_AddEventListener
+2021-06-03 11:50:31,814 - EventManager.py[line:78] - DEBUG: {'CTOK': [<bound method StimulationExchangeMessageOperator.do_CTOK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x000001EE1D1879B0>>]}
+2021-06-03 11:50:31,814 - EventManager.py[line:78] - DEBUG: {'CTOK': [<bound method StimulationExchangeMessageOperator.do_CTOK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x000001EE1D1879B0>>]}
+2021-06-03 11:50:31,814 - EventManager.py[line:68] - DEBUG: 1_AddEventListener
+2021-06-03 11:50:31,814 - EventManager.py[line:68] - DEBUG: 1_AddEventListener
+2021-06-03 11:50:31,814 - EventManager.py[line:78] - DEBUG: {'CTOK': [<bound method StimulationExchangeMessageOperator.do_CTOK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x000001EE1D1879B0>>], 'DCOK': [<bound method StimulationExchangeMessageOperator.do_DCOK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x000001EE1D1879B0>>]}
+2021-06-03 11:50:31,814 - EventManager.py[line:78] - DEBUG: {'CTOK': [<bound method StimulationExchangeMessageOperator.do_CTOK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x000001EE1D1879B0>>], 'DCOK': [<bound method StimulationExchangeMessageOperator.do_DCOK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x000001EE1D1879B0>>]}
+2021-06-03 11:50:31,814 - EventManager.py[line:68] - DEBUG: 2_AddEventListener
+2021-06-03 11:50:31,814 - EventManager.py[line:68] - DEBUG: 2_AddEventListener
+2021-06-03 11:50:31,814 - EventManager.py[line:78] - DEBUG: {'CTOK': [<bound method StimulationExchangeMessageOperator.do_CTOK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x000001EE1D1879B0>>], 'DCOK': [<bound method StimulationExchangeMessageOperator.do_DCOK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x000001EE1D1879B0>>], 'TROK': [<bound method StimulationExchangeMessageOperator.do_TROK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x000001EE1D1879B0>>]}
+2021-06-03 11:50:31,814 - EventManager.py[line:78] - DEBUG: {'CTOK': [<bound method StimulationExchangeMessageOperator.do_CTOK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x000001EE1D1879B0>>], 'DCOK': [<bound method StimulationExchangeMessageOperator.do_DCOK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x000001EE1D1879B0>>], 'TROK': [<bound method StimulationExchangeMessageOperator.do_TROK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x000001EE1D1879B0>>]}
+2021-06-03 11:50:31,814 - EventManager.py[line:68] - DEBUG: 3_AddEventListener
+2021-06-03 11:50:31,814 - EventManager.py[line:68] - DEBUG: 3_AddEventListener
+2021-06-03 11:50:31,814 - EventManager.py[line:78] - DEBUG: {'CTOK': [<bound method StimulationExchangeMessageOperator.do_CTOK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x000001EE1D1879B0>>], 'DCOK': [<bound method StimulationExchangeMessageOperator.do_DCOK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x000001EE1D1879B0>>], 'TROK': [<bound method StimulationExchangeMessageOperator.do_TROK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x000001EE1D1879B0>>], 'PROK': [<bound method StimulationExchangeMessageOperator.do_PROK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x000001EE1D1879B0>>]}
+2021-06-03 11:50:31,814 - EventManager.py[line:78] - DEBUG: {'CTOK': [<bound method StimulationExchangeMessageOperator.do_CTOK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x000001EE1D1879B0>>], 'DCOK': [<bound method StimulationExchangeMessageOperator.do_DCOK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x000001EE1D1879B0>>], 'TROK': [<bound method StimulationExchangeMessageOperator.do_TROK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x000001EE1D1879B0>>], 'PROK': [<bound method StimulationExchangeMessageOperator.do_PROK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x000001EE1D1879B0>>]}
+2021-06-03 11:50:31,814 - EventManager.py[line:68] - DEBUG: 4_AddEventListener
+2021-06-03 11:50:31,814 - EventManager.py[line:68] - DEBUG: 4_AddEventListener
+2021-06-03 11:50:31,815 - EventManager.py[line:78] - DEBUG: {'CTOK': [<bound method StimulationExchangeMessageOperator.do_CTOK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x000001EE1D1879B0>>], 'DCOK': [<bound method StimulationExchangeMessageOperator.do_DCOK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x000001EE1D1879B0>>], 'TROK': [<bound method StimulationExchangeMessageOperator.do_TROK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x000001EE1D1879B0>>], 'PROK': [<bound method StimulationExchangeMessageOperator.do_PROK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x000001EE1D1879B0>>], 'TNOK': [<bound method StimulationExchangeMessageOperator.do_TNOK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x000001EE1D1879B0>>]}
+2021-06-03 11:50:31,815 - EventManager.py[line:78] - DEBUG: {'CTOK': [<bound method StimulationExchangeMessageOperator.do_CTOK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x000001EE1D1879B0>>], 'DCOK': [<bound method StimulationExchangeMessageOperator.do_DCOK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x000001EE1D1879B0>>], 'TROK': [<bound method StimulationExchangeMessageOperator.do_TROK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x000001EE1D1879B0>>], 'PROK': [<bound method StimulationExchangeMessageOperator.do_PROK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x000001EE1D1879B0>>], 'TNOK': [<bound method StimulationExchangeMessageOperator.do_TNOK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x000001EE1D1879B0>>]}
+2021-06-03 11:50:31,817 - EventManager.py[line:68] - DEBUG: 5_AddEventListener
+2021-06-03 11:50:31,817 - EventManager.py[line:68] - DEBUG: 5_AddEventListener
+2021-06-03 11:50:31,817 - EventManager.py[line:78] - DEBUG: {'CTOK': [<bound method StimulationExchangeMessageOperator.do_CTOK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x000001EE1D1879B0>>], 'DCOK': [<bound method StimulationExchangeMessageOperator.do_DCOK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x000001EE1D1879B0>>], 'TROK': [<bound method StimulationExchangeMessageOperator.do_TROK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x000001EE1D1879B0>>], 'PROK': [<bound method StimulationExchangeMessageOperator.do_PROK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x000001EE1D1879B0>>], 'TNOK': [<bound method StimulationExchangeMessageOperator.do_TNOK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x000001EE1D1879B0>>], 'PNOK': [<bound method StimulationExchangeMessageOperator.do_PNOK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x000001EE1D1879B0>>]}
+2021-06-03 11:50:31,817 - EventManager.py[line:78] - DEBUG: {'CTOK': [<bound method StimulationExchangeMessageOperator.do_CTOK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x000001EE1D1879B0>>], 'DCOK': [<bound method StimulationExchangeMessageOperator.do_DCOK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x000001EE1D1879B0>>], 'TROK': [<bound method StimulationExchangeMessageOperator.do_TROK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x000001EE1D1879B0>>], 'PROK': [<bound method StimulationExchangeMessageOperator.do_PROK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x000001EE1D1879B0>>], 'TNOK': [<bound method StimulationExchangeMessageOperator.do_TNOK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x000001EE1D1879B0>>], 'PNOK': [<bound method StimulationExchangeMessageOperator.do_PNOK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x000001EE1D1879B0>>]}
+2021-06-03 11:50:31,817 - EventManager.py[line:68] - DEBUG: 6_AddEventListener
+2021-06-03 11:50:31,817 - EventManager.py[line:68] - DEBUG: 6_AddEventListener
+2021-06-03 11:50:31,817 - EventManager.py[line:78] - DEBUG: {'CTOK': [<bound method StimulationExchangeMessageOperator.do_CTOK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x000001EE1D1879B0>>], 'DCOK': [<bound method StimulationExchangeMessageOperator.do_DCOK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x000001EE1D1879B0>>], 'TROK': [<bound method StimulationExchangeMessageOperator.do_TROK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x000001EE1D1879B0>>], 'PROK': [<bound method StimulationExchangeMessageOperator.do_PROK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x000001EE1D1879B0>>], 'TNOK': [<bound method StimulationExchangeMessageOperator.do_TNOK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x000001EE1D1879B0>>], 'PNOK': [<bound method StimulationExchangeMessageOperator.do_PNOK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x000001EE1D1879B0>>], 'CAOK': [<bound method StimulationExchangeMessageOperator.do_CAOK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x000001EE1D1879B0>>]}
+2021-06-03 11:50:31,817 - EventManager.py[line:78] - DEBUG: {'CTOK': [<bound method StimulationExchangeMessageOperator.do_CTOK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x000001EE1D1879B0>>], 'DCOK': [<bound method StimulationExchangeMessageOperator.do_DCOK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x000001EE1D1879B0>>], 'TROK': [<bound method StimulationExchangeMessageOperator.do_TROK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x000001EE1D1879B0>>], 'PROK': [<bound method StimulationExchangeMessageOperator.do_PROK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x000001EE1D1879B0>>], 'TNOK': [<bound method StimulationExchangeMessageOperator.do_TNOK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x000001EE1D1879B0>>], 'PNOK': [<bound method StimulationExchangeMessageOperator.do_PNOK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x000001EE1D1879B0>>], 'CAOK': [<bound method StimulationExchangeMessageOperator.do_CAOK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x000001EE1D1879B0>>]}
+2021-06-03 11:50:31,817 - EventManager.py[line:68] - DEBUG: 7_AddEventListener
+2021-06-03 11:50:31,817 - EventManager.py[line:68] - DEBUG: 7_AddEventListener
+2021-06-03 11:50:31,817 - EventManager.py[line:78] - DEBUG: {'CTOK': [<bound method StimulationExchangeMessageOperator.do_CTOK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x000001EE1D1879B0>>], 'DCOK': [<bound method StimulationExchangeMessageOperator.do_DCOK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x000001EE1D1879B0>>], 'TROK': [<bound method StimulationExchangeMessageOperator.do_TROK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x000001EE1D1879B0>>], 'PROK': [<bound method StimulationExchangeMessageOperator.do_PROK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x000001EE1D1879B0>>], 'TNOK': [<bound method StimulationExchangeMessageOperator.do_TNOK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x000001EE1D1879B0>>], 'PNOK': [<bound method StimulationExchangeMessageOperator.do_PNOK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x000001EE1D1879B0>>], 'CAOK': [<bound method StimulationExchangeMessageOperator.do_CAOK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x000001EE1D1879B0>>], 'STSN': [<bound method StimulationExchangeMessageOperator.do_STSN of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x000001EE1D1879B0>>]}
+2021-06-03 11:50:31,817 - EventManager.py[line:78] - DEBUG: {'CTOK': [<bound method StimulationExchangeMessageOperator.do_CTOK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x000001EE1D1879B0>>], 'DCOK': [<bound method StimulationExchangeMessageOperator.do_DCOK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x000001EE1D1879B0>>], 'TROK': [<bound method StimulationExchangeMessageOperator.do_TROK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x000001EE1D1879B0>>], 'PROK': [<bound method StimulationExchangeMessageOperator.do_PROK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x000001EE1D1879B0>>], 'TNOK': [<bound method StimulationExchangeMessageOperator.do_TNOK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x000001EE1D1879B0>>], 'PNOK': [<bound method StimulationExchangeMessageOperator.do_PNOK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x000001EE1D1879B0>>], 'CAOK': [<bound method StimulationExchangeMessageOperator.do_CAOK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x000001EE1D1879B0>>], 'STSN': [<bound method StimulationExchangeMessageOperator.do_STSN of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x000001EE1D1879B0>>]}
+2021-06-03 11:50:31,832 - EventManager.py[line:68] - DEBUG: 8_AddEventListener
+2021-06-03 11:50:31,832 - EventManager.py[line:68] - DEBUG: 8_AddEventListener
+2021-06-03 11:50:31,832 - EventManager.py[line:78] - DEBUG: {'CTOK': [<bound method StimulationExchangeMessageOperator.do_CTOK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x000001EE1D1879B0>>], 'DCOK': [<bound method StimulationExchangeMessageOperator.do_DCOK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x000001EE1D1879B0>>], 'TROK': [<bound method StimulationExchangeMessageOperator.do_TROK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x000001EE1D1879B0>>], 'PROK': [<bound method StimulationExchangeMessageOperator.do_PROK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x000001EE1D1879B0>>], 'TNOK': [<bound method StimulationExchangeMessageOperator.do_TNOK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x000001EE1D1879B0>>], 'PNOK': [<bound method StimulationExchangeMessageOperator.do_PNOK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x000001EE1D1879B0>>], 'CAOK': [<bound method StimulationExchangeMessageOperator.do_CAOK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x000001EE1D1879B0>>], 'STSN': [<bound method StimulationExchangeMessageOperator.do_STSN of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x000001EE1D1879B0>>], 'RSLT': [<bound method StimulationExchangeMessageOperator.do_RSLT of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x000001EE1D1879B0>>]}
+2021-06-03 11:50:31,832 - EventManager.py[line:78] - DEBUG: {'CTOK': [<bound method StimulationExchangeMessageOperator.do_CTOK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x000001EE1D1879B0>>], 'DCOK': [<bound method StimulationExchangeMessageOperator.do_DCOK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x000001EE1D1879B0>>], 'TROK': [<bound method StimulationExchangeMessageOperator.do_TROK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x000001EE1D1879B0>>], 'PROK': [<bound method StimulationExchangeMessageOperator.do_PROK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x000001EE1D1879B0>>], 'TNOK': [<bound method StimulationExchangeMessageOperator.do_TNOK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x000001EE1D1879B0>>], 'PNOK': [<bound method StimulationExchangeMessageOperator.do_PNOK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x000001EE1D1879B0>>], 'CAOK': [<bound method StimulationExchangeMessageOperator.do_CAOK of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x000001EE1D1879B0>>], 'STSN': [<bound method StimulationExchangeMessageOperator.do_STSN of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x000001EE1D1879B0>>], 'RSLT': [<bound method StimulationExchangeMessageOperator.do_RSLT of <doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationExchangeMessageOperator.StimulationExchangeMessageOperator object at 0x000001EE1D1879B0>>]}
+2021-06-03 11:50:31,832 - EventManager.py[line:49] - DEBUG: 9_Start
+2021-06-03 11:50:31,832 - EventManager.py[line:49] - DEBUG: 9_Start
+2021-06-03 11:50:31,833 - EventManager.py[line:27] - DEBUG: 9_run
+2021-06-03 11:50:31,833 - EventManager.py[line:27] - DEBUG: 9_run
+2021-06-03 11:50:31,833 - EventManager.py[line:55] - DEBUG: start中的count: 10
+2021-06-03 11:50:31,833 - EventManager.py[line:55] - DEBUG: start中的count: 10
+2021-06-03 11:50:31,833 - ExchangeMessageManagement.py[line:58] - DEBUG: ExchangeMessageManagement.initial returned.
+2021-06-03 11:50:31,833 - ExchangeMessageManagement.py[line:58] - DEBUG: ExchangeMessageManagement.initial returned.
+2021-06-03 11:50:31,833 - ExchangeMessageManagement.py[line:61] - DEBUG: ExchangeMessageManagement.start is called.
+2021-06-03 11:50:31,833 - ExchangeMessageManagement.py[line:61] - DEBUG: ExchangeMessageManagement.start is called.
+2021-06-03 11:50:31,835 - ExchangeMessageManagement.py[line:64] - DEBUG: ExchangeMessageManagement.start returned.
+2021-06-03 11:50:31,835 - ExchangeMessageManagement.py[line:64] - DEBUG: ExchangeMessageManagement.start returned.
+2021-06-03 11:50:31,835 - DoubleSpellingStimController.py[line:105] - DEBUG: 当前监视器状态INIT,等待监视器状态改变为CTOK,2021-06-03 11:50:31.835087
+
+2021-06-03 11:50:31,835 - DoubleSpellingStimController.py[line:105] - DEBUG: 当前监视器状态INIT,等待监视器状态改变为CTOK,2021-06-03 11:50:31.835087
+
+2021-06-03 11:50:32,315 - ExchangeMessageManagement.py[line:82] - DEBUG: send CTNS!
+2021-06-03 11:50:32,315 - ExchangeMessageManagement.py[line:82] - DEBUG: send CTNS!
+2021-06-03 11:50:32,422 - ExchangeMessageManagement.py[line:82] - DEBUG: send CTNS!
+2021-06-03 11:50:32,422 - ExchangeMessageManagement.py[line:82] - DEBUG: send CTNS!
+2021-06-03 11:50:32,529 - ExchangeMessageManagement.py[line:82] - DEBUG: send CTNS!
+2021-06-03 11:50:32,529 - ExchangeMessageManagement.py[line:82] - DEBUG: send CTNS!
+2021-06-03 11:50:32,637 - ExchangeMessageManagement.py[line:82] - DEBUG: send CTNS!
+2021-06-03 11:50:32,637 - ExchangeMessageManagement.py[line:82] - DEBUG: send CTNS!
+2021-06-03 11:50:32,744 - ExchangeMessageManagement.py[line:82] - DEBUG: send CTNS!
+2021-06-03 11:50:32,744 - ExchangeMessageManagement.py[line:82] - DEBUG: send CTNS!
+2021-06-03 11:50:32,835 - receive_exchange_message_fcn.py[line:16] - DEBUG: receive: CTOK
+2021-06-03 11:50:32,835 - receive_exchange_message_fcn.py[line:16] - DEBUG: receive: CTOK
+2021-06-03 11:50:32,836 - StimulationExchangeMessageOperator.py[line:27] - DEBUG: 接收消息CTOK，设置监视器状态CTOK
+
+2021-06-03 11:50:32,836 - StimulationExchangeMessageOperator.py[line:27] - DEBUG: 接收消息CTOK，设置监视器状态CTOK
+
+2021-06-03 11:50:32,851 - ExchangeMessageManagement.py[line:82] - DEBUG: send STAR!
+2021-06-03 11:50:32,851 - ExchangeMessageManagement.py[line:82] - DEBUG: send STAR!
+2021-06-03 11:50:32,851 - DoubleSpellingStimController.py[line:115] - DEBUG: 当前监视器状态CTOK,等待监视器状态改变为TROK,2021-06-03 11:50:32.851588
+
+2021-06-03 11:50:32,851 - DoubleSpellingStimController.py[line:115] - DEBUG: 当前监视器状态CTOK,等待监视器状态改变为TROK,2021-06-03 11:50:32.851588
+
+2021-06-03 11:50:33,335 - receive_exchange_message_fcn.py[line:16] - DEBUG: receive: CTOK
+2021-06-03 11:50:33,335 - receive_exchange_message_fcn.py[line:16] - DEBUG: receive: CTOK
+2021-06-03 11:50:33,336 - StimulationExchangeMessageOperator.py[line:27] - DEBUG: 接收消息CTOK，设置监视器状态CTOK
+
+2021-06-03 11:50:33,336 - StimulationExchangeMessageOperator.py[line:27] - DEBUG: 接收消息CTOK，设置监视器状态CTOK
+
+2021-06-03 11:50:33,837 - receive_exchange_message_fcn.py[line:16] - DEBUG: receive: CTOK
+2021-06-03 11:50:33,837 - receive_exchange_message_fcn.py[line:16] - DEBUG: receive: CTOK
+2021-06-03 11:50:34,337 - StimulationExchangeMessageOperator.py[line:27] - DEBUG: 接收消息CTOK，设置监视器状态CTOK
+
+2021-06-03 11:50:34,337 - StimulationExchangeMessageOperator.py[line:27] - DEBUG: 接收消息CTOK，设置监视器状态CTOK
+
+2021-06-03 11:50:34,338 - receive_exchange_message_fcn.py[line:16] - DEBUG: receive: CTOK
+2021-06-03 11:50:34,338 - receive_exchange_message_fcn.py[line:16] - DEBUG: receive: CTOK
+2021-06-03 11:50:34,837 - StimulationExchangeMessageOperator.py[line:27] - DEBUG: 接收消息CTOK，设置监视器状态CTOK
+
+2021-06-03 11:50:34,837 - StimulationExchangeMessageOperator.py[line:27] - DEBUG: 接收消息CTOK，设置监视器状态CTOK
+
+2021-06-03 11:50:34,839 - receive_exchange_message_fcn.py[line:16] - DEBUG: receive: CTOK
+2021-06-03 11:50:34,839 - receive_exchange_message_fcn.py[line:16] - DEBUG: receive: CTOK
+2021-06-03 11:50:35,338 - StimulationExchangeMessageOperator.py[line:27] - DEBUG: 接收消息CTOK，设置监视器状态CTOK
+
+2021-06-03 11:50:35,338 - StimulationExchangeMessageOperator.py[line:27] - DEBUG: 接收消息CTOK，设置监视器状态CTOK
+
+2021-06-03 11:50:35,339 - receive_exchange_message_fcn.py[line:16] - DEBUG: receive: TROK
+2021-06-03 11:50:35,339 - receive_exchange_message_fcn.py[line:16] - DEBUG: receive: TROK
+2021-06-03 11:50:35,838 - StimulationExchangeMessageOperator.py[line:37] - DEBUG: 接收消息TROK，设置监视器状态TROK
+
+2021-06-03 11:50:35,838 - StimulationExchangeMessageOperator.py[line:37] - DEBUG: 接收消息TROK，设置监视器状态TROK
+
+2021-06-03 11:51:10,207 - StimulationController.py[line:22] - DEBUG: DoubleSpellingApplication.StimulationController.initiall is called.
+2021-06-03 11:51:10,207 - StimulationController.py[line:22] - DEBUG: DoubleSpellingApplication.StimulationController.initiall is called.
+2021-06-03 11:51:10,207 - InitialProcess.py[line:17] - DEBUG: DoubleSpellingApplication.InitialProcess.initial is called.
+2021-06-03 11:51:10,207 - InitialProcess.py[line:17] - DEBUG: DoubleSpellingApplication.InitialProcess.initial is called.
+2021-06-03 11:51:10,207 - InitialProcess.py[line:28] - DEBUG: DoubleSpellingApplication.InitialProcess.initial returned.
+2021-06-03 11:51:10,207 - InitialProcess.py[line:28] - DEBUG: DoubleSpellingApplication.InitialProcess.initial returned.
+2021-06-03 11:51:10,208 - PrePareProcess.py[line:21] - DEBUG: DoubleSpellingApplication.PrepareProcess.initial is called.
+2021-06-03 11:51:10,208 - PrePareProcess.py[line:21] - DEBUG: DoubleSpellingApplication.PrepareProcess.initial is called.
+2021-06-03 11:51:10,208 - PrePareProcess.py[line:33] - DEBUG: DoubleSpellingApplication.PrepareProcess.initial rerturned.
+2021-06-03 11:51:10,208 - PrePareProcess.py[line:33] - DEBUG: DoubleSpellingApplication.PrepareProcess.initial rerturned.
+2021-06-03 11:51:10,208 - StimulateProcess.py[line:23] - DEBUG: DoubleSpellingApplication.StimulateProcess.initial is called.
+2021-06-03 11:51:10,208 - StimulateProcess.py[line:23] - DEBUG: DoubleSpellingApplication.StimulateProcess.initial is called.
+2021-06-03 11:51:10,208 - StimulateProcess.py[line:33] - DEBUG: DoubleSpellingApplication.StimulateProcess.initial returned.
+2021-06-03 11:51:10,208 - StimulateProcess.py[line:33] - DEBUG: DoubleSpellingApplication.StimulateProcess.initial returned.
+2021-06-03 11:51:10,208 - FinishProcess.py[line:31] - DEBUG: DoubleSpellingApplication.FinishProcess.initial is called.
+2021-06-03 11:51:10,208 - FinishProcess.py[line:31] - DEBUG: DoubleSpellingApplication.FinishProcess.initial is called.
+2021-06-03 11:51:10,210 - FinishProcess.py[line:63] - DEBUG: DoubleSpellingApplication.FinishProcess.initial returned.
+2021-06-03 11:51:10,210 - FinishProcess.py[line:63] - DEBUG: DoubleSpellingApplication.FinishProcess.initial returned.
+2021-06-03 11:51:10,210 - StimulationController.py[line:41] - DEBUG: DoubleSpellingApplication.StimulationController.initiall returned.
+2021-06-03 11:51:10,210 - StimulationController.py[line:41] - DEBUG: DoubleSpellingApplication.StimulationController.initiall returned.
+2021-06-03 11:51:11,295 - DoubleSpellingStimController.py[line:174] - DEBUG: DoubleSpellingStimController.initial returned.
+2021-06-03 11:51:11,295 - DoubleSpellingStimController.py[line:174] - DEBUG: DoubleSpellingStimController.initial returned.
+2021-06-03 11:51:11,297 - DoubleSpellingStimController.py[line:183] - INFO: DoubleSpellingStimController.start is called
+2021-06-03 11:51:11,297 - DoubleSpellingStimController.py[line:183] - INFO: DoubleSpellingStimController.start is called
+2021-06-03 11:51:11,304 - ExchangeMessageManagement.py[line:82] - DEBUG: send STON!
+2021-06-03 11:51:11,304 - ExchangeMessageManagement.py[line:82] - DEBUG: send STON!
+2021-06-03 11:51:11,304 - DoubleSpellingStimController.py[line:186] - DEBUG: 当前监视器状态TROK,等待监视器状态改变为TNOK,2021-06-03 11:51:11.304233
+
+2021-06-03 11:51:11,304 - DoubleSpellingStimController.py[line:186] - DEBUG: 当前监视器状态TROK,等待监视器状态改变为TNOK,2021-06-03 11:51:11.304233
+
+2021-06-03 11:51:12,258 - receive_exchange_message_fcn.py[line:16] - DEBUG: receive: TNOK
+2021-06-03 11:51:12,258 - receive_exchange_message_fcn.py[line:16] - DEBUG: receive: TNOK
+2021-06-03 11:51:12,420 - StimulationExchangeMessageOperator.py[line:47] - DEBUG: 接收消息TNOK，设置监视器状态TNOK
+
+2021-06-03 11:51:12,420 - StimulationExchangeMessageOperator.py[line:47] - DEBUG: 接收消息TNOK，设置监视器状态TNOK
+
+2021-06-03 11:51:12,423 - StimulationController.py[line:51] - DEBUG: DoubleSpellingApplication.StimulationController.run is called.
+2021-06-03 11:51:12,423 - StimulationController.py[line:51] - DEBUG: DoubleSpellingApplication.StimulationController.run is called.
+2021-06-03 11:51:12,423 - StimulationController.py[line:52] - DEBUG: 
+开始进入StimulationController呈现阶段，执行时间2021-06-03 11:51:12.423041
+
+2021-06-03 11:51:12,423 - StimulationController.py[line:52] - DEBUG: 
+开始进入StimulationController呈现阶段，执行时间2021-06-03 11:51:12.423041
+
+2021-06-03 11:51:12,423 - InitialProcess.py[line:42] - DEBUG: DoubleSpellingApplication.InitialProcess.run is called.
+2021-06-03 11:51:12,423 - InitialProcess.py[line:42] - DEBUG: DoubleSpellingApplication.InitialProcess.run is called.
+2021-06-03 11:51:12,466 - InitialProcess.py[line:49] - DEBUG: DoubleSpellingApplication.InitialProcess.run returned.
+2021-06-03 11:51:12,466 - InitialProcess.py[line:49] - DEBUG: DoubleSpellingApplication.InitialProcess.run returned.
+2021-06-03 11:51:12,467 - StimulationController.py[line:54] - DEBUG: DoubleSpellingApplication.StimulationController.run returned.
+2021-06-03 11:51:12,467 - StimulationController.py[line:54] - DEBUG: DoubleSpellingApplication.StimulationController.run returned.
+2021-06-03 11:51:12,467 - StimulationController.py[line:51] - DEBUG: DoubleSpellingApplication.StimulationController.run is called.
+2021-06-03 11:51:12,467 - StimulationController.py[line:51] - DEBUG: DoubleSpellingApplication.StimulationController.run is called.
+2021-06-03 11:51:12,467 - StimulationController.py[line:52] - DEBUG: 
+开始进入StimulationController呈现阶段，执行时间2021-06-03 11:51:12.467862
+
+2021-06-03 11:51:12,467 - StimulationController.py[line:52] - DEBUG: 
+开始进入StimulationController呈现阶段，执行时间2021-06-03 11:51:12.467862
+
+2021-06-03 11:51:12,467 - PrePareProcess.py[line:54] - DEBUG: DoubleSpellingApplication.PrepareProcess.run is called.
+2021-06-03 11:51:12,467 - PrePareProcess.py[line:54] - DEBUG: DoubleSpellingApplication.PrepareProcess.run is called.
+2021-06-03 11:51:12,759 - receive_exchange_message_fcn.py[line:16] - DEBUG: receive: RSLT^0^0^^;_^;|:|'|"|.|!|,|`|上|下^0
+2021-06-03 11:51:12,759 - receive_exchange_message_fcn.py[line:16] - DEBUG: receive: RSLT^0^0^^;_^;|:|'|"|.|!|,|`|上|下^0
+2021-06-03 11:51:12,920 - StimulationExchangeMessageOperator.py[line:79] - DEBUG: 收到返回结果2021-06-03 11:51:12.920975：
+2021-06-03 11:51:12,920 - StimulationExchangeMessageOperator.py[line:79] - DEBUG: 收到返回结果2021-06-03 11:51:12.920975：
+2021-06-03 11:51:12,920 - StimulationExchangeMessageOperator.py[line:80] - DEBUG: <doubleSpellingApplication.Stimulation_Operation.CommonSystem.CommonModule.ResultTransferModel.ResultTransferModel object at 0x000001EE1EA127B8>
+2021-06-03 11:51:12,920 - StimulationExchangeMessageOperator.py[line:80] - DEBUG: <doubleSpellingApplication.Stimulation_Operation.CommonSystem.CommonModule.ResultTransferModel.ResultTransferModel object at 0x000001EE1EA127B8>
+2021-06-03 11:51:13,507 - PrePareProcess.py[line:73] - DEBUG: DoubleSpellingApplication.PrepareProcess.run returned.
+2021-06-03 11:51:13,507 - PrePareProcess.py[line:73] - DEBUG: DoubleSpellingApplication.PrepareProcess.run returned.
+2021-06-03 11:51:13,507 - StimulationController.py[line:54] - DEBUG: DoubleSpellingApplication.StimulationController.run returned.
+2021-06-03 11:51:13,507 - StimulationController.py[line:54] - DEBUG: DoubleSpellingApplication.StimulationController.run returned.
+2021-06-03 11:51:13,507 - StimulationController.py[line:51] - DEBUG: DoubleSpellingApplication.StimulationController.run is called.
+2021-06-03 11:51:13,507 - StimulationController.py[line:51] - DEBUG: DoubleSpellingApplication.StimulationController.run is called.
+2021-06-03 11:51:13,507 - StimulationController.py[line:52] - DEBUG: 
+开始进入StimulationController呈现阶段，执行时间2021-06-03 11:51:13.507376
+
+2021-06-03 11:51:13,507 - StimulationController.py[line:52] - DEBUG: 
+开始进入StimulationController呈现阶段，执行时间2021-06-03 11:51:13.507376
+
+2021-06-03 11:51:13,507 - StimulateProcess.py[line:46] - DEBUG: DoubleSpellingApplication.StimulateProcess.run is called.
+2021-06-03 11:51:13,507 - StimulateProcess.py[line:46] - DEBUG: DoubleSpellingApplication.StimulateProcess.run is called.
+2021-06-03 11:51:13,514 - ExchangeMessageManagement.py[line:82] - DEBUG: send STRD!
+2021-06-03 11:51:13,514 - ExchangeMessageManagement.py[line:82] - DEBUG: send STRD!
+2021-06-03 11:51:13,514 - StimulateProcess.py[line:54] - DEBUG: 
+StimulateProcess 发送开始异步检测指令，执行时间2021-06-03 11:51:13.514691
+
+2021-06-03 11:51:13,514 - StimulateProcess.py[line:54] - DEBUG: 
+StimulateProcess 发送开始异步检测指令，执行时间2021-06-03 11:51:13.514691
+
+2021-06-03 11:51:14,261 - receive_exchange_message_fcn.py[line:16] - DEBUG: receive: RSLT^0^0^^;;_^;|:|'|"|.|!|,|`|上|下^0
+2021-06-03 11:51:14,261 - receive_exchange_message_fcn.py[line:16] - DEBUG: receive: RSLT^0^0^^;;_^;|:|'|"|.|!|,|`|上|下^0
+2021-06-03 11:51:14,422 - StimulationExchangeMessageOperator.py[line:79] - DEBUG: 收到返回结果2021-06-03 11:51:14.422859：
+2021-06-03 11:51:14,422 - StimulationExchangeMessageOperator.py[line:79] - DEBUG: 收到返回结果2021-06-03 11:51:14.422859：
+2021-06-03 11:51:14,422 - StimulationExchangeMessageOperator.py[line:80] - DEBUG: <doubleSpellingApplication.Stimulation_Operation.CommonSystem.CommonModule.ResultTransferModel.ResultTransferModel object at 0x000001EE1EA12710>
+2021-06-03 11:51:14,422 - StimulationExchangeMessageOperator.py[line:80] - DEBUG: <doubleSpellingApplication.Stimulation_Operation.CommonSystem.CommonModule.ResultTransferModel.ResultTransferModel object at 0x000001EE1EA12710>
+2021-06-03 11:51:14,422 - FinishProcess.py[line:66] - DEBUG: DoubleSpellingApplication.FinishProcess.update is called.
+2021-06-03 11:51:14,422 - FinishProcess.py[line:66] - DEBUG: DoubleSpellingApplication.FinishProcess.update is called.
+2021-06-03 11:51:14,422 - FinishProcess.py[line:83] - DEBUG: DoubleSpellingApplication.FinishProcess.update returned.
+2021-06-03 11:51:14,422 - FinishProcess.py[line:83] - DEBUG: DoubleSpellingApplication.FinishProcess.update returned.
+2021-06-03 11:51:14,428 - StimulateProcess.py[line:77] - DEBUG: DoubleSpellingApplication.StimulateProcess.run returned.
+2021-06-03 11:51:14,428 - StimulateProcess.py[line:77] - DEBUG: DoubleSpellingApplication.StimulateProcess.run returned.
+2021-06-03 11:51:14,428 - StimulationController.py[line:54] - DEBUG: DoubleSpellingApplication.StimulationController.run returned.
+2021-06-03 11:51:14,428 - StimulationController.py[line:54] - DEBUG: DoubleSpellingApplication.StimulationController.run returned.
+2021-06-03 11:51:14,428 - StimulationController.py[line:51] - DEBUG: DoubleSpellingApplication.StimulationController.run is called.
+2021-06-03 11:51:14,428 - StimulationController.py[line:51] - DEBUG: DoubleSpellingApplication.StimulationController.run is called.
+2021-06-03 11:51:14,428 - StimulationController.py[line:52] - DEBUG: 
+开始进入StimulationController呈现阶段，执行时间2021-06-03 11:51:14.428816
+
+2021-06-03 11:51:14,428 - StimulationController.py[line:52] - DEBUG: 
+开始进入StimulationController呈现阶段，执行时间2021-06-03 11:51:14.428816
+
+2021-06-03 11:51:14,428 - FinishProcess.py[line:93] - DEBUG: DoubleSpellingApplication.FinishProcess.run is called.
+2021-06-03 11:51:14,428 - FinishProcess.py[line:93] - DEBUG: DoubleSpellingApplication.FinishProcess.run is called.
+2021-06-03 11:51:15,461 - FinishProcess.py[line:99] - DEBUG: DoubleSpellingApplication.FinishProcess.run returned.
+2021-06-03 11:51:15,461 - FinishProcess.py[line:99] - DEBUG: DoubleSpellingApplication.FinishProcess.run returned.
+2021-06-03 11:51:15,461 - StimulationController.py[line:54] - DEBUG: DoubleSpellingApplication.StimulationController.run returned.
+2021-06-03 11:51:15,461 - StimulationController.py[line:54] - DEBUG: DoubleSpellingApplication.StimulationController.run returned.
+2021-06-03 11:51:15,461 - StimulationController.py[line:51] - DEBUG: DoubleSpellingApplication.StimulationController.run is called.
+2021-06-03 11:51:15,461 - StimulationController.py[line:51] - DEBUG: DoubleSpellingApplication.StimulationController.run is called.
+2021-06-03 11:51:15,461 - StimulationController.py[line:52] - DEBUG: 
+开始进入StimulationController呈现阶段，执行时间2021-06-03 11:51:15.461650
+
+2021-06-03 11:51:15,461 - StimulationController.py[line:52] - DEBUG: 
+开始进入StimulationController呈现阶段，执行时间2021-06-03 11:51:15.461650
+
+2021-06-03 11:51:15,461 - PrePareProcess.py[line:54] - DEBUG: DoubleSpellingApplication.PrepareProcess.run is called.
+2021-06-03 11:51:15,461 - PrePareProcess.py[line:54] - DEBUG: DoubleSpellingApplication.PrepareProcess.run is called.
+2021-06-03 11:51:16,483 - PrePareProcess.py[line:73] - DEBUG: DoubleSpellingApplication.PrepareProcess.run returned.
+2021-06-03 11:51:16,483 - PrePareProcess.py[line:73] - DEBUG: DoubleSpellingApplication.PrepareProcess.run returned.
+2021-06-03 11:51:16,483 - StimulationController.py[line:54] - DEBUG: DoubleSpellingApplication.StimulationController.run returned.
+2021-06-03 11:51:16,483 - StimulationController.py[line:54] - DEBUG: DoubleSpellingApplication.StimulationController.run returned.
+2021-06-03 11:51:16,483 - StimulationController.py[line:51] - DEBUG: DoubleSpellingApplication.StimulationController.run is called.
+2021-06-03 11:51:16,483 - StimulationController.py[line:51] - DEBUG: DoubleSpellingApplication.StimulationController.run is called.
+2021-06-03 11:51:16,483 - StimulationController.py[line:52] - DEBUG: 
+开始进入StimulationController呈现阶段，执行时间2021-06-03 11:51:16.483291
+
+2021-06-03 11:51:16,483 - StimulationController.py[line:52] - DEBUG: 
+开始进入StimulationController呈现阶段，执行时间2021-06-03 11:51:16.483291
+
+2021-06-03 11:51:16,483 - StimulateProcess.py[line:46] - DEBUG: DoubleSpellingApplication.StimulateProcess.run is called.
+2021-06-03 11:51:16,483 - StimulateProcess.py[line:46] - DEBUG: DoubleSpellingApplication.StimulateProcess.run is called.
+2021-06-03 11:51:16,491 - ExchangeMessageManagement.py[line:82] - DEBUG: send STRD!
+2021-06-03 11:51:16,491 - ExchangeMessageManagement.py[line:82] - DEBUG: send STRD!
+2021-06-03 11:51:16,491 - StimulateProcess.py[line:54] - DEBUG: 
+StimulateProcess 发送开始异步检测指令，执行时间2021-06-03 11:51:16.491040
+
+2021-06-03 11:51:16,491 - StimulateProcess.py[line:54] - DEBUG: 
+StimulateProcess 发送开始异步检测指令，执行时间2021-06-03 11:51:16.491040
+
+2021-06-03 11:51:17,000 - receive_exchange_message_fcn.py[line:16] - DEBUG: receive: RSLT^0^0^^;;;_^;|:|'|"|.|!|,|`|上|下^0
+2021-06-03 11:51:17,000 - receive_exchange_message_fcn.py[line:16] - DEBUG: receive: RSLT^0^0^^;;;_^;|:|'|"|.|!|,|`|上|下^0
+2021-06-03 11:51:17,425 - StimulationExchangeMessageOperator.py[line:79] - DEBUG: 收到返回结果2021-06-03 11:51:17.425722：
+2021-06-03 11:51:17,425 - StimulationExchangeMessageOperator.py[line:79] - DEBUG: 收到返回结果2021-06-03 11:51:17.425722：
+2021-06-03 11:51:17,425 - StimulationExchangeMessageOperator.py[line:80] - DEBUG: <doubleSpellingApplication.Stimulation_Operation.CommonSystem.CommonModule.ResultTransferModel.ResultTransferModel object at 0x000001EE1EA09E48>
+2021-06-03 11:51:17,425 - StimulationExchangeMessageOperator.py[line:80] - DEBUG: <doubleSpellingApplication.Stimulation_Operation.CommonSystem.CommonModule.ResultTransferModel.ResultTransferModel object at 0x000001EE1EA09E48>
+2021-06-03 11:51:17,425 - FinishProcess.py[line:66] - DEBUG: DoubleSpellingApplication.FinishProcess.update is called.
+2021-06-03 11:51:17,425 - FinishProcess.py[line:66] - DEBUG: DoubleSpellingApplication.FinishProcess.update is called.
+2021-06-03 11:51:17,425 - FinishProcess.py[line:83] - DEBUG: DoubleSpellingApplication.FinishProcess.update returned.
+2021-06-03 11:51:17,425 - FinishProcess.py[line:83] - DEBUG: DoubleSpellingApplication.FinishProcess.update returned.
+2021-06-03 11:51:17,428 - StimulateProcess.py[line:77] - DEBUG: DoubleSpellingApplication.StimulateProcess.run returned.
+2021-06-03 11:51:17,428 - StimulateProcess.py[line:77] - DEBUG: DoubleSpellingApplication.StimulateProcess.run returned.
+2021-06-03 11:51:17,428 - StimulationController.py[line:54] - DEBUG: DoubleSpellingApplication.StimulationController.run returned.
+2021-06-03 11:51:17,428 - StimulationController.py[line:54] - DEBUG: DoubleSpellingApplication.StimulationController.run returned.
+2021-06-03 11:51:17,428 - StimulationController.py[line:51] - DEBUG: DoubleSpellingApplication.StimulationController.run is called.
+2021-06-03 11:51:17,428 - StimulationController.py[line:51] - DEBUG: DoubleSpellingApplication.StimulationController.run is called.
+2021-06-03 11:51:17,428 - StimulationController.py[line:52] - DEBUG: 
+开始进入StimulationController呈现阶段，执行时间2021-06-03 11:51:17.428204
+
+2021-06-03 11:51:17,428 - StimulationController.py[line:52] - DEBUG: 
+开始进入StimulationController呈现阶段，执行时间2021-06-03 11:51:17.428204
+
+2021-06-03 11:51:17,428 - FinishProcess.py[line:93] - DEBUG: DoubleSpellingApplication.FinishProcess.run is called.
+2021-06-03 11:51:17,428 - FinishProcess.py[line:93] - DEBUG: DoubleSpellingApplication.FinishProcess.run is called.
+2021-06-03 11:51:18,445 - FinishProcess.py[line:99] - DEBUG: DoubleSpellingApplication.FinishProcess.run returned.
+2021-06-03 11:51:18,445 - FinishProcess.py[line:99] - DEBUG: DoubleSpellingApplication.FinishProcess.run returned.
+2021-06-03 11:51:18,445 - StimulationController.py[line:54] - DEBUG: DoubleSpellingApplication.StimulationController.run returned.
+2021-06-03 11:51:18,445 - StimulationController.py[line:54] - DEBUG: DoubleSpellingApplication.StimulationController.run returned.
+2021-06-03 11:51:18,445 - StimulationController.py[line:51] - DEBUG: DoubleSpellingApplication.StimulationController.run is called.
+2021-06-03 11:51:18,445 - StimulationController.py[line:51] - DEBUG: DoubleSpellingApplication.StimulationController.run is called.
+2021-06-03 11:51:18,445 - StimulationController.py[line:52] - DEBUG: 
+开始进入StimulationController呈现阶段，执行时间2021-06-03 11:51:18.445055
+
+2021-06-03 11:51:18,445 - StimulationController.py[line:52] - DEBUG: 
+开始进入StimulationController呈现阶段，执行时间2021-06-03 11:51:18.445055
+
+2021-06-03 11:51:18,445 - PrePareProcess.py[line:54] - DEBUG: DoubleSpellingApplication.PrepareProcess.run is called.
+2021-06-03 11:51:18,445 - PrePareProcess.py[line:54] - DEBUG: DoubleSpellingApplication.PrepareProcess.run is called.
+2021-06-03 11:51:19,462 - PrePareProcess.py[line:73] - DEBUG: DoubleSpellingApplication.PrepareProcess.run returned.
+2021-06-03 11:51:19,462 - PrePareProcess.py[line:73] - DEBUG: DoubleSpellingApplication.PrepareProcess.run returned.
+2021-06-03 11:51:19,462 - StimulationController.py[line:54] - DEBUG: DoubleSpellingApplication.StimulationController.run returned.
+2021-06-03 11:51:19,462 - StimulationController.py[line:54] - DEBUG: DoubleSpellingApplication.StimulationController.run returned.
+2021-06-03 11:51:19,462 - StimulationController.py[line:51] - DEBUG: DoubleSpellingApplication.StimulationController.run is called.
+2021-06-03 11:51:19,462 - StimulationController.py[line:51] - DEBUG: DoubleSpellingApplication.StimulationController.run is called.
+2021-06-03 11:51:19,462 - StimulationController.py[line:52] - DEBUG: 
+开始进入StimulationController呈现阶段，执行时间2021-06-03 11:51:19.462019
+
+2021-06-03 11:51:19,462 - StimulationController.py[line:52] - DEBUG: 
+开始进入StimulationController呈现阶段，执行时间2021-06-03 11:51:19.462019
+
+2021-06-03 11:51:19,462 - StimulateProcess.py[line:46] - DEBUG: DoubleSpellingApplication.StimulateProcess.run is called.
+2021-06-03 11:51:19,462 - StimulateProcess.py[line:46] - DEBUG: DoubleSpellingApplication.StimulateProcess.run is called.
+2021-06-03 11:51:19,470 - ExchangeMessageManagement.py[line:82] - DEBUG: send STRD!
+2021-06-03 11:51:19,470 - ExchangeMessageManagement.py[line:82] - DEBUG: send STRD!
+2021-06-03 11:51:19,470 - StimulateProcess.py[line:54] - DEBUG: 
+StimulateProcess 发送开始异步检测指令，执行时间2021-06-03 11:51:19.470230
+
+2021-06-03 11:51:19,470 - StimulateProcess.py[line:54] - DEBUG: 
+StimulateProcess 发送开始异步检测指令，执行时间2021-06-03 11:51:19.470230
+
+2021-06-03 11:51:19,990 - receive_exchange_message_fcn.py[line:16] - DEBUG: receive: RSLT^0^0^^;;;;_^;|:|'|"|.|!|,|`|上|下^0
+2021-06-03 11:51:19,990 - receive_exchange_message_fcn.py[line:16] - DEBUG: receive: RSLT^0^0^^;;;;_^;|:|'|"|.|!|,|`|上|下^0
+2021-06-03 11:51:20,430 - StimulationExchangeMessageOperator.py[line:79] - DEBUG: 收到返回结果2021-06-03 11:51:20.430951：
+2021-06-03 11:51:20,430 - StimulationExchangeMessageOperator.py[line:79] - DEBUG: 收到返回结果2021-06-03 11:51:20.430951：
+2021-06-03 11:51:20,430 - StimulationExchangeMessageOperator.py[line:80] - DEBUG: <doubleSpellingApplication.Stimulation_Operation.CommonSystem.CommonModule.ResultTransferModel.ResultTransferModel object at 0x000001EE1EA09908>
+2021-06-03 11:51:20,430 - StimulationExchangeMessageOperator.py[line:80] - DEBUG: <doubleSpellingApplication.Stimulation_Operation.CommonSystem.CommonModule.ResultTransferModel.ResultTransferModel object at 0x000001EE1EA09908>
+2021-06-03 11:51:20,430 - FinishProcess.py[line:66] - DEBUG: DoubleSpellingApplication.FinishProcess.update is called.
+2021-06-03 11:51:20,430 - FinishProcess.py[line:66] - DEBUG: DoubleSpellingApplication.FinishProcess.update is called.
+2021-06-03 11:51:20,430 - FinishProcess.py[line:83] - DEBUG: DoubleSpellingApplication.FinishProcess.update returned.
+2021-06-03 11:51:20,430 - FinishProcess.py[line:83] - DEBUG: DoubleSpellingApplication.FinishProcess.update returned.
+2021-06-03 11:51:20,444 - StimulateProcess.py[line:77] - DEBUG: DoubleSpellingApplication.StimulateProcess.run returned.
+2021-06-03 11:51:20,444 - StimulateProcess.py[line:77] - DEBUG: DoubleSpellingApplication.StimulateProcess.run returned.
+2021-06-03 11:51:20,445 - StimulationController.py[line:54] - DEBUG: DoubleSpellingApplication.StimulationController.run returned.
+2021-06-03 11:51:20,445 - StimulationController.py[line:54] - DEBUG: DoubleSpellingApplication.StimulationController.run returned.
+2021-06-03 11:51:20,445 - StimulationController.py[line:51] - DEBUG: DoubleSpellingApplication.StimulationController.run is called.
+2021-06-03 11:51:20,445 - StimulationController.py[line:51] - DEBUG: DoubleSpellingApplication.StimulationController.run is called.
+2021-06-03 11:51:20,445 - StimulationController.py[line:52] - DEBUG: 
+开始进入StimulationController呈现阶段，执行时间2021-06-03 11:51:20.445911
+
+2021-06-03 11:51:20,445 - StimulationController.py[line:52] - DEBUG: 
+开始进入StimulationController呈现阶段，执行时间2021-06-03 11:51:20.445911
+
+2021-06-03 11:51:20,445 - FinishProcess.py[line:93] - DEBUG: DoubleSpellingApplication.FinishProcess.run is called.
+2021-06-03 11:51:20,445 - FinishProcess.py[line:93] - DEBUG: DoubleSpellingApplication.FinishProcess.run is called.
+2021-06-03 11:51:21,462 - FinishProcess.py[line:99] - DEBUG: DoubleSpellingApplication.FinishProcess.run returned.
+2021-06-03 11:51:21,462 - FinishProcess.py[line:99] - DEBUG: DoubleSpellingApplication.FinishProcess.run returned.
+2021-06-03 11:51:21,462 - StimulationController.py[line:54] - DEBUG: DoubleSpellingApplication.StimulationController.run returned.
+2021-06-03 11:51:21,462 - StimulationController.py[line:54] - DEBUG: DoubleSpellingApplication.StimulationController.run returned.
+2021-06-03 11:51:21,462 - StimulationController.py[line:51] - DEBUG: DoubleSpellingApplication.StimulationController.run is called.
+2021-06-03 11:51:21,462 - StimulationController.py[line:51] - DEBUG: DoubleSpellingApplication.StimulationController.run is called.
+2021-06-03 11:51:21,462 - StimulationController.py[line:52] - DEBUG: 
+开始进入StimulationController呈现阶段，执行时间2021-06-03 11:51:21.462920
+
+2021-06-03 11:51:21,462 - StimulationController.py[line:52] - DEBUG: 
+开始进入StimulationController呈现阶段，执行时间2021-06-03 11:51:21.462920
+
+2021-06-03 11:51:21,462 - PrePareProcess.py[line:54] - DEBUG: DoubleSpellingApplication.PrepareProcess.run is called.
+2021-06-03 11:51:21,462 - PrePareProcess.py[line:54] - DEBUG: DoubleSpellingApplication.PrepareProcess.run is called.
+2021-06-03 11:51:22,479 - PrePareProcess.py[line:73] - DEBUG: DoubleSpellingApplication.PrepareProcess.run returned.
+2021-06-03 11:51:22,479 - PrePareProcess.py[line:73] - DEBUG: DoubleSpellingApplication.PrepareProcess.run returned.
+2021-06-03 11:51:22,479 - StimulationController.py[line:54] - DEBUG: DoubleSpellingApplication.StimulationController.run returned.
+2021-06-03 11:51:22,479 - StimulationController.py[line:54] - DEBUG: DoubleSpellingApplication.StimulationController.run returned.
+2021-06-03 11:51:22,479 - StimulationController.py[line:51] - DEBUG: DoubleSpellingApplication.StimulationController.run is called.
+2021-06-03 11:51:22,479 - StimulationController.py[line:51] - DEBUG: DoubleSpellingApplication.StimulationController.run is called.
+2021-06-03 11:51:22,479 - StimulationController.py[line:52] - DEBUG: 
+开始进入StimulationController呈现阶段，执行时间2021-06-03 11:51:22.479374
+
+2021-06-03 11:51:22,479 - StimulationController.py[line:52] - DEBUG: 
+开始进入StimulationController呈现阶段，执行时间2021-06-03 11:51:22.479374
+
+2021-06-03 11:51:22,479 - StimulateProcess.py[line:46] - DEBUG: DoubleSpellingApplication.StimulateProcess.run is called.
+2021-06-03 11:51:22,479 - StimulateProcess.py[line:46] - DEBUG: DoubleSpellingApplication.StimulateProcess.run is called.
+2021-06-03 11:51:22,486 - ExchangeMessageManagement.py[line:82] - DEBUG: send STRD!
+2021-06-03 11:51:22,486 - ExchangeMessageManagement.py[line:82] - DEBUG: send STRD!
+2021-06-03 11:51:22,486 - StimulateProcess.py[line:54] - DEBUG: 
+StimulateProcess 发送开始异步检测指令，执行时间2021-06-03 11:51:22.486983
+
+2021-06-03 11:51:22,486 - StimulateProcess.py[line:54] - DEBUG: 
+StimulateProcess 发送开始异步检测指令，执行时间2021-06-03 11:51:22.486983
+
+2021-06-03 11:51:23,494 - receive_exchange_message_fcn.py[line:16] - DEBUG: receive: RSLT^0^0^^;;;;;_^;|:|'|"|.|!|,|`|上|下^0
+2021-06-03 11:51:23,494 - receive_exchange_message_fcn.py[line:16] - DEBUG: receive: RSLT^0^0^^;;;;;_^;|:|'|"|.|!|,|`|上|下^0
+2021-06-03 11:51:23,936 - StimulationExchangeMessageOperator.py[line:79] - DEBUG: 收到返回结果2021-06-03 11:51:23.936031：
+2021-06-03 11:51:23,936 - StimulationExchangeMessageOperator.py[line:79] - DEBUG: 收到返回结果2021-06-03 11:51:23.936031：
+2021-06-03 11:51:23,936 - StimulationExchangeMessageOperator.py[line:80] - DEBUG: <doubleSpellingApplication.Stimulation_Operation.CommonSystem.CommonModule.ResultTransferModel.ResultTransferModel object at 0x000001EE1D7E1240>
+2021-06-03 11:51:23,936 - StimulationExchangeMessageOperator.py[line:80] - DEBUG: <doubleSpellingApplication.Stimulation_Operation.CommonSystem.CommonModule.ResultTransferModel.ResultTransferModel object at 0x000001EE1D7E1240>
+2021-06-03 11:51:23,936 - FinishProcess.py[line:66] - DEBUG: DoubleSpellingApplication.FinishProcess.update is called.
+2021-06-03 11:51:23,936 - FinishProcess.py[line:66] - DEBUG: DoubleSpellingApplication.FinishProcess.update is called.
+2021-06-03 11:51:23,936 - FinishProcess.py[line:83] - DEBUG: DoubleSpellingApplication.FinishProcess.update returned.
+2021-06-03 11:51:23,936 - FinishProcess.py[line:83] - DEBUG: DoubleSpellingApplication.FinishProcess.update returned.
+2021-06-03 11:51:23,944 - StimulateProcess.py[line:77] - DEBUG: DoubleSpellingApplication.StimulateProcess.run returned.
+2021-06-03 11:51:23,944 - StimulateProcess.py[line:77] - DEBUG: DoubleSpellingApplication.StimulateProcess.run returned.
+2021-06-03 11:51:23,944 - StimulationController.py[line:54] - DEBUG: DoubleSpellingApplication.StimulationController.run returned.
+2021-06-03 11:51:23,944 - StimulationController.py[line:54] - DEBUG: DoubleSpellingApplication.StimulationController.run returned.
+2021-06-03 11:51:23,944 - StimulationController.py[line:51] - DEBUG: DoubleSpellingApplication.StimulationController.run is called.
+2021-06-03 11:51:23,944 - StimulationController.py[line:51] - DEBUG: DoubleSpellingApplication.StimulationController.run is called.
+2021-06-03 11:51:23,946 - StimulationController.py[line:52] - DEBUG: 
+开始进入StimulationController呈现阶段，执行时间2021-06-03 11:51:23.946004
+
+2021-06-03 11:51:23,946 - StimulationController.py[line:52] - DEBUG: 
+开始进入StimulationController呈现阶段，执行时间2021-06-03 11:51:23.946004
+
+2021-06-03 11:51:23,946 - FinishProcess.py[line:93] - DEBUG: DoubleSpellingApplication.FinishProcess.run is called.
+2021-06-03 11:51:23,946 - FinishProcess.py[line:93] - DEBUG: DoubleSpellingApplication.FinishProcess.run is called.
+2021-06-03 11:51:24,961 - FinishProcess.py[line:99] - DEBUG: DoubleSpellingApplication.FinishProcess.run returned.
+2021-06-03 11:51:24,961 - FinishProcess.py[line:99] - DEBUG: DoubleSpellingApplication.FinishProcess.run returned.
+2021-06-03 11:51:24,961 - StimulationController.py[line:54] - DEBUG: DoubleSpellingApplication.StimulationController.run returned.
+2021-06-03 11:51:24,961 - StimulationController.py[line:54] - DEBUG: DoubleSpellingApplication.StimulationController.run returned.
+2021-06-03 11:51:24,961 - StimulationController.py[line:51] - DEBUG: DoubleSpellingApplication.StimulationController.run is called.
+2021-06-03 11:51:24,961 - StimulationController.py[line:51] - DEBUG: DoubleSpellingApplication.StimulationController.run is called.
+2021-06-03 11:51:24,961 - StimulationController.py[line:52] - DEBUG: 
+开始进入StimulationController呈现阶段，执行时间2021-06-03 11:51:24.961623
+
+2021-06-03 11:51:24,961 - StimulationController.py[line:52] - DEBUG: 
+开始进入StimulationController呈现阶段，执行时间2021-06-03 11:51:24.961623
+
+2021-06-03 11:51:24,961 - PrePareProcess.py[line:54] - DEBUG: DoubleSpellingApplication.PrepareProcess.run is called.
+2021-06-03 11:51:24,961 - PrePareProcess.py[line:54] - DEBUG: DoubleSpellingApplication.PrepareProcess.run is called.
+2021-06-03 11:51:25,977 - PrePareProcess.py[line:73] - DEBUG: DoubleSpellingApplication.PrepareProcess.run returned.
+2021-06-03 11:51:25,977 - PrePareProcess.py[line:73] - DEBUG: DoubleSpellingApplication.PrepareProcess.run returned.
+2021-06-03 11:51:25,977 - StimulationController.py[line:54] - DEBUG: DoubleSpellingApplication.StimulationController.run returned.
+2021-06-03 11:51:25,977 - StimulationController.py[line:54] - DEBUG: DoubleSpellingApplication.StimulationController.run returned.
+2021-06-03 11:51:25,977 - StimulationController.py[line:51] - DEBUG: DoubleSpellingApplication.StimulationController.run is called.
+2021-06-03 11:51:25,977 - StimulationController.py[line:51] - DEBUG: DoubleSpellingApplication.StimulationController.run is called.
+2021-06-03 11:51:25,977 - StimulationController.py[line:52] - DEBUG: 
+开始进入StimulationController呈现阶段，执行时间2021-06-03 11:51:25.977785
+
+2021-06-03 11:51:25,977 - StimulationController.py[line:52] - DEBUG: 
+开始进入StimulationController呈现阶段，执行时间2021-06-03 11:51:25.977785
+
+2021-06-03 11:51:25,977 - StimulateProcess.py[line:46] - DEBUG: DoubleSpellingApplication.StimulateProcess.run is called.
+2021-06-03 11:51:25,977 - StimulateProcess.py[line:46] - DEBUG: DoubleSpellingApplication.StimulateProcess.run is called.
+2021-06-03 11:51:25,984 - ExchangeMessageManagement.py[line:82] - DEBUG: send STRD!
+2021-06-03 11:51:25,984 - ExchangeMessageManagement.py[line:82] - DEBUG: send STRD!
+2021-06-03 11:51:25,984 - StimulateProcess.py[line:54] - DEBUG: 
+StimulateProcess 发送开始异步检测指令，执行时间2021-06-03 11:51:25.984724
+
+2021-06-03 11:51:25,984 - StimulateProcess.py[line:54] - DEBUG: 
+StimulateProcess 发送开始异步检测指令，执行时间2021-06-03 11:51:25.984724
+
+2021-06-03 11:51:31,275 - receive_exchange_message_fcn.py[line:16] - DEBUG: receive: RSLT^4^0^^;;;;;'_^;|:|'|"|.|!|,|`|上|下^0
+2021-06-03 11:51:31,275 - receive_exchange_message_fcn.py[line:16] - DEBUG: receive: RSLT^4^0^^;;;;;'_^;|:|'|"|.|!|,|`|上|下^0
+2021-06-03 11:51:31,444 - StimulationExchangeMessageOperator.py[line:79] - DEBUG: 收到返回结果2021-06-03 11:51:31.444826：
+2021-06-03 11:51:31,444 - StimulationExchangeMessageOperator.py[line:79] - DEBUG: 收到返回结果2021-06-03 11:51:31.444826：
+2021-06-03 11:51:31,444 - StimulationExchangeMessageOperator.py[line:80] - DEBUG: <doubleSpellingApplication.Stimulation_Operation.CommonSystem.CommonModule.ResultTransferModel.ResultTransferModel object at 0x000001EE1EA09BA8>
+2021-06-03 11:51:31,444 - StimulationExchangeMessageOperator.py[line:80] - DEBUG: <doubleSpellingApplication.Stimulation_Operation.CommonSystem.CommonModule.ResultTransferModel.ResultTransferModel object at 0x000001EE1EA09BA8>
+2021-06-03 11:51:31,445 - FinishProcess.py[line:66] - DEBUG: DoubleSpellingApplication.FinishProcess.update is called.
+2021-06-03 11:51:31,445 - FinishProcess.py[line:66] - DEBUG: DoubleSpellingApplication.FinishProcess.update is called.
+2021-06-03 11:51:31,445 - FinishProcess.py[line:83] - DEBUG: DoubleSpellingApplication.FinishProcess.update returned.
+2021-06-03 11:51:31,445 - FinishProcess.py[line:83] - DEBUG: DoubleSpellingApplication.FinishProcess.update returned.
+2021-06-03 11:51:31,461 - StimulateProcess.py[line:77] - DEBUG: DoubleSpellingApplication.StimulateProcess.run returned.
+2021-06-03 11:51:31,461 - StimulateProcess.py[line:77] - DEBUG: DoubleSpellingApplication.StimulateProcess.run returned.
+2021-06-03 11:51:31,461 - StimulationController.py[line:54] - DEBUG: DoubleSpellingApplication.StimulationController.run returned.
+2021-06-03 11:51:31,461 - StimulationController.py[line:54] - DEBUG: DoubleSpellingApplication.StimulationController.run returned.
+2021-06-03 11:51:31,461 - StimulationController.py[line:51] - DEBUG: DoubleSpellingApplication.StimulationController.run is called.
+2021-06-03 11:51:31,461 - StimulationController.py[line:51] - DEBUG: DoubleSpellingApplication.StimulationController.run is called.
+2021-06-03 11:51:31,462 - StimulationController.py[line:52] - DEBUG: 
+开始进入StimulationController呈现阶段，执行时间2021-06-03 11:51:31.462578
+
+2021-06-03 11:51:31,462 - StimulationController.py[line:52] - DEBUG: 
+开始进入StimulationController呈现阶段，执行时间2021-06-03 11:51:31.462578
+
+2021-06-03 11:51:31,462 - FinishProcess.py[line:93] - DEBUG: DoubleSpellingApplication.FinishProcess.run is called.
+2021-06-03 11:51:31,462 - FinishProcess.py[line:93] - DEBUG: DoubleSpellingApplication.FinishProcess.run is called.
+2021-06-03 11:51:32,478 - FinishProcess.py[line:99] - DEBUG: DoubleSpellingApplication.FinishProcess.run returned.
+2021-06-03 11:51:32,478 - FinishProcess.py[line:99] - DEBUG: DoubleSpellingApplication.FinishProcess.run returned.
+2021-06-03 11:51:32,478 - StimulationController.py[line:54] - DEBUG: DoubleSpellingApplication.StimulationController.run returned.
+2021-06-03 11:51:32,478 - StimulationController.py[line:54] - DEBUG: DoubleSpellingApplication.StimulationController.run returned.
+2021-06-03 11:51:32,478 - StimulationController.py[line:51] - DEBUG: DoubleSpellingApplication.StimulationController.run is called.
+2021-06-03 11:51:32,478 - StimulationController.py[line:51] - DEBUG: DoubleSpellingApplication.StimulationController.run is called.
+2021-06-03 11:51:32,478 - StimulationController.py[line:52] - DEBUG: 
+开始进入StimulationController呈现阶段，执行时间2021-06-03 11:51:32.478303
+
+2021-06-03 11:51:32,478 - StimulationController.py[line:52] - DEBUG: 
+开始进入StimulationController呈现阶段，执行时间2021-06-03 11:51:32.478303
+
+2021-06-03 11:51:32,478 - PrePareProcess.py[line:54] - DEBUG: DoubleSpellingApplication.PrepareProcess.run is called.
+2021-06-03 11:51:32,478 - PrePareProcess.py[line:54] - DEBUG: DoubleSpellingApplication.PrepareProcess.run is called.
+2021-06-03 11:51:33,494 - PrePareProcess.py[line:73] - DEBUG: DoubleSpellingApplication.PrepareProcess.run returned.
+2021-06-03 11:51:33,494 - PrePareProcess.py[line:73] - DEBUG: DoubleSpellingApplication.PrepareProcess.run returned.
+2021-06-03 11:51:33,494 - StimulationController.py[line:54] - DEBUG: DoubleSpellingApplication.StimulationController.run returned.
+2021-06-03 11:51:33,494 - StimulationController.py[line:54] - DEBUG: DoubleSpellingApplication.StimulationController.run returned.
+2021-06-03 11:51:33,494 - StimulationController.py[line:51] - DEBUG: DoubleSpellingApplication.StimulationController.run is called.
+2021-06-03 11:51:33,494 - StimulationController.py[line:51] - DEBUG: DoubleSpellingApplication.StimulationController.run is called.
+2021-06-03 11:51:33,494 - StimulationController.py[line:52] - DEBUG: 
+开始进入StimulationController呈现阶段，执行时间2021-06-03 11:51:33.494836
+
+2021-06-03 11:51:33,494 - StimulationController.py[line:52] - DEBUG: 
+开始进入StimulationController呈现阶段，执行时间2021-06-03 11:51:33.494836
+
+2021-06-03 11:51:33,494 - StimulateProcess.py[line:46] - DEBUG: DoubleSpellingApplication.StimulateProcess.run is called.
+2021-06-03 11:51:33,494 - StimulateProcess.py[line:46] - DEBUG: DoubleSpellingApplication.StimulateProcess.run is called.
+2021-06-03 11:51:33,502 - ExchangeMessageManagement.py[line:82] - DEBUG: send STRD!
+2021-06-03 11:51:33,502 - ExchangeMessageManagement.py[line:82] - DEBUG: send STRD!
+2021-06-03 11:51:33,502 - StimulateProcess.py[line:54] - DEBUG: 
+StimulateProcess 发送开始异步检测指令，执行时间2021-06-03 11:51:33.502788
+
+2021-06-03 11:51:33,502 - StimulateProcess.py[line:54] - DEBUG: 
+StimulateProcess 发送开始异步检测指令，执行时间2021-06-03 11:51:33.502788
+
+2021-06-03 11:51:34,061 - receive_exchange_message_fcn.py[line:16] - DEBUG: receive: RSLT^4^0^^;;;;;''_^;|:|'|"|.|!|,|`|上|下^0
+2021-06-03 11:51:34,061 - receive_exchange_message_fcn.py[line:16] - DEBUG: receive: RSLT^4^0^^;;;;;''_^;|:|'|"|.|!|,|`|上|下^0
+2021-06-03 11:51:34,447 - StimulationExchangeMessageOperator.py[line:79] - DEBUG: 收到返回结果2021-06-03 11:51:34.447910：
+2021-06-03 11:51:34,447 - StimulationExchangeMessageOperator.py[line:79] - DEBUG: 收到返回结果2021-06-03 11:51:34.447910：
+2021-06-03 11:51:34,447 - StimulationExchangeMessageOperator.py[line:80] - DEBUG: <doubleSpellingApplication.Stimulation_Operation.CommonSystem.CommonModule.ResultTransferModel.ResultTransferModel object at 0x000001EE1EA4CE48>
+2021-06-03 11:51:34,447 - StimulationExchangeMessageOperator.py[line:80] - DEBUG: <doubleSpellingApplication.Stimulation_Operation.CommonSystem.CommonModule.ResultTransferModel.ResultTransferModel object at 0x000001EE1EA4CE48>
+2021-06-03 11:51:34,447 - FinishProcess.py[line:66] - DEBUG: DoubleSpellingApplication.FinishProcess.update is called.
+2021-06-03 11:51:34,447 - FinishProcess.py[line:66] - DEBUG: DoubleSpellingApplication.FinishProcess.update is called.
+2021-06-03 11:51:34,447 - FinishProcess.py[line:83] - DEBUG: DoubleSpellingApplication.FinishProcess.update returned.
+2021-06-03 11:51:34,447 - FinishProcess.py[line:83] - DEBUG: DoubleSpellingApplication.FinishProcess.update returned.
+2021-06-03 11:51:34,461 - StimulateProcess.py[line:77] - DEBUG: DoubleSpellingApplication.StimulateProcess.run returned.
+2021-06-03 11:51:34,461 - StimulateProcess.py[line:77] - DEBUG: DoubleSpellingApplication.StimulateProcess.run returned.
+2021-06-03 11:51:34,461 - StimulationController.py[line:54] - DEBUG: DoubleSpellingApplication.StimulationController.run returned.
+2021-06-03 11:51:34,461 - StimulationController.py[line:54] - DEBUG: DoubleSpellingApplication.StimulationController.run returned.
+2021-06-03 11:51:34,461 - StimulationController.py[line:51] - DEBUG: DoubleSpellingApplication.StimulationController.run is called.
+2021-06-03 11:51:34,461 - StimulationController.py[line:51] - DEBUG: DoubleSpellingApplication.StimulationController.run is called.
+2021-06-03 11:51:34,461 - StimulationController.py[line:52] - DEBUG: 
+开始进入StimulationController呈现阶段，执行时间2021-06-03 11:51:34.461955
+
+2021-06-03 11:51:34,461 - StimulationController.py[line:52] - DEBUG: 
+开始进入StimulationController呈现阶段，执行时间2021-06-03 11:51:34.461955
+
+2021-06-03 11:51:34,461 - FinishProcess.py[line:93] - DEBUG: DoubleSpellingApplication.FinishProcess.run is called.
+2021-06-03 11:51:34,461 - FinishProcess.py[line:93] - DEBUG: DoubleSpellingApplication.FinishProcess.run is called.
+2021-06-03 11:51:35,478 - FinishProcess.py[line:99] - DEBUG: DoubleSpellingApplication.FinishProcess.run returned.
+2021-06-03 11:51:35,478 - FinishProcess.py[line:99] - DEBUG: DoubleSpellingApplication.FinishProcess.run returned.
+2021-06-03 11:51:35,478 - StimulationController.py[line:54] - DEBUG: DoubleSpellingApplication.StimulationController.run returned.
+2021-06-03 11:51:35,478 - StimulationController.py[line:54] - DEBUG: DoubleSpellingApplication.StimulationController.run returned.
+2021-06-03 11:51:35,478 - StimulationController.py[line:51] - DEBUG: DoubleSpellingApplication.StimulationController.run is called.
+2021-06-03 11:51:35,478 - StimulationController.py[line:51] - DEBUG: DoubleSpellingApplication.StimulationController.run is called.
+2021-06-03 11:51:35,478 - StimulationController.py[line:52] - DEBUG: 
+开始进入StimulationController呈现阶段，执行时间2021-06-03 11:51:35.478023
+
+2021-06-03 11:51:35,478 - StimulationController.py[line:52] - DEBUG: 
+开始进入StimulationController呈现阶段，执行时间2021-06-03 11:51:35.478023
+
+2021-06-03 11:51:35,478 - PrePareProcess.py[line:54] - DEBUG: DoubleSpellingApplication.PrepareProcess.run is called.
+2021-06-03 11:51:35,478 - PrePareProcess.py[line:54] - DEBUG: DoubleSpellingApplication.PrepareProcess.run is called.
+2021-06-03 11:51:36,494 - PrePareProcess.py[line:73] - DEBUG: DoubleSpellingApplication.PrepareProcess.run returned.
+2021-06-03 11:51:36,494 - PrePareProcess.py[line:73] - DEBUG: DoubleSpellingApplication.PrepareProcess.run returned.
+2021-06-03 11:51:36,494 - StimulationController.py[line:54] - DEBUG: DoubleSpellingApplication.StimulationController.run returned.
+2021-06-03 11:51:36,494 - StimulationController.py[line:54] - DEBUG: DoubleSpellingApplication.StimulationController.run returned.
+2021-06-03 11:51:36,494 - StimulationController.py[line:51] - DEBUG: DoubleSpellingApplication.StimulationController.run is called.
+2021-06-03 11:51:36,494 - StimulationController.py[line:51] - DEBUG: DoubleSpellingApplication.StimulationController.run is called.
+2021-06-03 11:51:36,494 - StimulationController.py[line:52] - DEBUG: 
+开始进入StimulationController呈现阶段，执行时间2021-06-03 11:51:36.494936
+
+2021-06-03 11:51:36,494 - StimulationController.py[line:52] - DEBUG: 
+开始进入StimulationController呈现阶段，执行时间2021-06-03 11:51:36.494936
+
+2021-06-03 11:51:36,494 - StimulateProcess.py[line:46] - DEBUG: DoubleSpellingApplication.StimulateProcess.run is called.
+2021-06-03 11:51:36,494 - StimulateProcess.py[line:46] - DEBUG: DoubleSpellingApplication.StimulateProcess.run is called.
+2021-06-03 11:51:36,501 - ExchangeMessageManagement.py[line:82] - DEBUG: send STRD!
+2021-06-03 11:51:36,501 - ExchangeMessageManagement.py[line:82] - DEBUG: send STRD!
+2021-06-03 11:51:36,501 - StimulateProcess.py[line:54] - DEBUG: 
+StimulateProcess 发送开始异步检测指令，执行时间2021-06-03 11:51:36.501690
+
+2021-06-03 11:51:36,501 - StimulateProcess.py[line:54] - DEBUG: 
+StimulateProcess 发送开始异步检测指令，执行时间2021-06-03 11:51:36.501690
+
+2021-06-03 11:51:37,035 - receive_exchange_message_fcn.py[line:16] - DEBUG: receive: RSLT^4^0^^;;;;;'''_^;|:|'|"|.|!|,|`|上|下^0
+2021-06-03 11:51:37,035 - receive_exchange_message_fcn.py[line:16] - DEBUG: receive: RSLT^4^0^^;;;;;'''_^;|:|'|"|.|!|,|`|上|下^0
+2021-06-03 11:51:37,450 - StimulationExchangeMessageOperator.py[line:79] - DEBUG: 收到返回结果2021-06-03 11:51:37.450808：
+2021-06-03 11:51:37,450 - StimulationExchangeMessageOperator.py[line:79] - DEBUG: 收到返回结果2021-06-03 11:51:37.450808：
+2021-06-03 11:51:37,450 - StimulationExchangeMessageOperator.py[line:80] - DEBUG: <doubleSpellingApplication.Stimulation_Operation.CommonSystem.CommonModule.ResultTransferModel.ResultTransferModel object at 0x000001EE1EA4CAC8>
+2021-06-03 11:51:37,450 - StimulationExchangeMessageOperator.py[line:80] - DEBUG: <doubleSpellingApplication.Stimulation_Operation.CommonSystem.CommonModule.ResultTransferModel.ResultTransferModel object at 0x000001EE1EA4CAC8>
+2021-06-03 11:51:37,450 - FinishProcess.py[line:66] - DEBUG: DoubleSpellingApplication.FinishProcess.update is called.
+2021-06-03 11:51:37,450 - FinishProcess.py[line:66] - DEBUG: DoubleSpellingApplication.FinishProcess.update is called.
+2021-06-03 11:51:37,450 - FinishProcess.py[line:83] - DEBUG: DoubleSpellingApplication.FinishProcess.update returned.
+2021-06-03 11:51:37,450 - FinishProcess.py[line:83] - DEBUG: DoubleSpellingApplication.FinishProcess.update returned.
+2021-06-03 11:51:37,461 - StimulateProcess.py[line:77] - DEBUG: DoubleSpellingApplication.StimulateProcess.run returned.
+2021-06-03 11:51:37,461 - StimulateProcess.py[line:77] - DEBUG: DoubleSpellingApplication.StimulateProcess.run returned.
+2021-06-03 11:51:37,461 - StimulationController.py[line:54] - DEBUG: DoubleSpellingApplication.StimulationController.run returned.
+2021-06-03 11:51:37,461 - StimulationController.py[line:54] - DEBUG: DoubleSpellingApplication.StimulationController.run returned.
+2021-06-03 11:51:37,461 - StimulationController.py[line:51] - DEBUG: DoubleSpellingApplication.StimulationController.run is called.
+2021-06-03 11:51:37,461 - StimulationController.py[line:51] - DEBUG: DoubleSpellingApplication.StimulationController.run is called.
+2021-06-03 11:51:37,461 - StimulationController.py[line:52] - DEBUG: 
+开始进入StimulationController呈现阶段，执行时间2021-06-03 11:51:37.461260
+
+2021-06-03 11:51:37,461 - StimulationController.py[line:52] - DEBUG: 
+开始进入StimulationController呈现阶段，执行时间2021-06-03 11:51:37.461260
+
+2021-06-03 11:51:37,461 - FinishProcess.py[line:93] - DEBUG: DoubleSpellingApplication.FinishProcess.run is called.
+2021-06-03 11:51:37,461 - FinishProcess.py[line:93] - DEBUG: DoubleSpellingApplication.FinishProcess.run is called.
+2021-06-03 11:51:38,478 - FinishProcess.py[line:99] - DEBUG: DoubleSpellingApplication.FinishProcess.run returned.
+2021-06-03 11:51:38,478 - FinishProcess.py[line:99] - DEBUG: DoubleSpellingApplication.FinishProcess.run returned.
+2021-06-03 11:51:38,478 - StimulationController.py[line:54] - DEBUG: DoubleSpellingApplication.StimulationController.run returned.
+2021-06-03 11:51:38,478 - StimulationController.py[line:54] - DEBUG: DoubleSpellingApplication.StimulationController.run returned.
+2021-06-03 11:51:38,478 - StimulationController.py[line:51] - DEBUG: DoubleSpellingApplication.StimulationController.run is called.
+2021-06-03 11:51:38,478 - StimulationController.py[line:51] - DEBUG: DoubleSpellingApplication.StimulationController.run is called.
+2021-06-03 11:51:38,478 - StimulationController.py[line:52] - DEBUG: 
+开始进入StimulationController呈现阶段，执行时间2021-06-03 11:51:38.478883
+
+2021-06-03 11:51:38,478 - StimulationController.py[line:52] - DEBUG: 
+开始进入StimulationController呈现阶段，执行时间2021-06-03 11:51:38.478883
+
+2021-06-03 11:51:38,478 - PrePareProcess.py[line:54] - DEBUG: DoubleSpellingApplication.PrepareProcess.run is called.
+2021-06-03 11:51:38,478 - PrePareProcess.py[line:54] - DEBUG: DoubleSpellingApplication.PrepareProcess.run is called.
+2021-06-03 11:51:39,495 - PrePareProcess.py[line:73] - DEBUG: DoubleSpellingApplication.PrepareProcess.run returned.
+2021-06-03 11:51:39,495 - PrePareProcess.py[line:73] - DEBUG: DoubleSpellingApplication.PrepareProcess.run returned.
+2021-06-03 11:51:39,495 - StimulationController.py[line:54] - DEBUG: DoubleSpellingApplication.StimulationController.run returned.
+2021-06-03 11:51:39,495 - StimulationController.py[line:54] - DEBUG: DoubleSpellingApplication.StimulationController.run returned.
+2021-06-03 11:51:39,495 - StimulationController.py[line:51] - DEBUG: DoubleSpellingApplication.StimulationController.run is called.
+2021-06-03 11:51:39,495 - StimulationController.py[line:51] - DEBUG: DoubleSpellingApplication.StimulationController.run is called.
+2021-06-03 11:51:39,495 - StimulationController.py[line:52] - DEBUG: 
+开始进入StimulationController呈现阶段，执行时间2021-06-03 11:51:39.495849
+
+2021-06-03 11:51:39,495 - StimulationController.py[line:52] - DEBUG: 
+开始进入StimulationController呈现阶段，执行时间2021-06-03 11:51:39.495849
+
+2021-06-03 11:51:39,495 - StimulateProcess.py[line:46] - DEBUG: DoubleSpellingApplication.StimulateProcess.run is called.
+2021-06-03 11:51:39,495 - StimulateProcess.py[line:46] - DEBUG: DoubleSpellingApplication.StimulateProcess.run is called.
+2021-06-03 11:51:39,502 - ExchangeMessageManagement.py[line:82] - DEBUG: send STRD!
+2021-06-03 11:51:39,502 - ExchangeMessageManagement.py[line:82] - DEBUG: send STRD!
+2021-06-03 11:51:39,502 - StimulateProcess.py[line:54] - DEBUG: 
+StimulateProcess 发送开始异步检测指令，执行时间2021-06-03 11:51:39.502972
+
+2021-06-03 11:51:39,502 - StimulateProcess.py[line:54] - DEBUG: 
+StimulateProcess 发送开始异步检测指令，执行时间2021-06-03 11:51:39.502972
+
+2021-06-03 11:51:40,021 - receive_exchange_message_fcn.py[line:16] - DEBUG: receive: RSLT^4^0^^;;;;;''''_^;|:|'|"|.|!|,|`|上|下^0
+2021-06-03 11:51:40,021 - receive_exchange_message_fcn.py[line:16] - DEBUG: receive: RSLT^4^0^^;;;;;''''_^;|:|'|"|.|!|,|`|上|下^0
+2021-06-03 11:51:40,453 - StimulationExchangeMessageOperator.py[line:79] - DEBUG: 收到返回结果2021-06-03 11:51:40.453536：
+2021-06-03 11:51:40,453 - StimulationExchangeMessageOperator.py[line:79] - DEBUG: 收到返回结果2021-06-03 11:51:40.453536：
+2021-06-03 11:51:40,453 - StimulationExchangeMessageOperator.py[line:80] - DEBUG: <doubleSpellingApplication.Stimulation_Operation.CommonSystem.CommonModule.ResultTransferModel.ResultTransferModel object at 0x000001EE1EA779B0>
+2021-06-03 11:51:40,453 - StimulationExchangeMessageOperator.py[line:80] - DEBUG: <doubleSpellingApplication.Stimulation_Operation.CommonSystem.CommonModule.ResultTransferModel.ResultTransferModel object at 0x000001EE1EA779B0>
+2021-06-03 11:51:40,453 - FinishProcess.py[line:66] - DEBUG: DoubleSpellingApplication.FinishProcess.update is called.
+2021-06-03 11:51:40,453 - FinishProcess.py[line:66] - DEBUG: DoubleSpellingApplication.FinishProcess.update is called.
+2021-06-03 11:51:40,453 - FinishProcess.py[line:83] - DEBUG: DoubleSpellingApplication.FinishProcess.update returned.
+2021-06-03 11:51:40,453 - FinishProcess.py[line:83] - DEBUG: DoubleSpellingApplication.FinishProcess.update returned.
+2021-06-03 11:51:40,461 - StimulateProcess.py[line:77] - DEBUG: DoubleSpellingApplication.StimulateProcess.run returned.
+2021-06-03 11:51:40,461 - StimulateProcess.py[line:77] - DEBUG: DoubleSpellingApplication.StimulateProcess.run returned.
+2021-06-03 11:51:40,461 - StimulationController.py[line:54] - DEBUG: DoubleSpellingApplication.StimulationController.run returned.
+2021-06-03 11:51:40,461 - StimulationController.py[line:54] - DEBUG: DoubleSpellingApplication.StimulationController.run returned.
+2021-06-03 11:51:40,462 - StimulationController.py[line:51] - DEBUG: DoubleSpellingApplication.StimulationController.run is called.
+2021-06-03 11:51:40,462 - StimulationController.py[line:51] - DEBUG: DoubleSpellingApplication.StimulationController.run is called.
+2021-06-03 11:51:40,462 - StimulationController.py[line:52] - DEBUG: 
+开始进入StimulationController呈现阶段，执行时间2021-06-03 11:51:40.462206
+
+2021-06-03 11:51:40,462 - StimulationController.py[line:52] - DEBUG: 
+开始进入StimulationController呈现阶段，执行时间2021-06-03 11:51:40.462206
+
+2021-06-03 11:51:40,462 - FinishProcess.py[line:93] - DEBUG: DoubleSpellingApplication.FinishProcess.run is called.
+2021-06-03 11:51:40,462 - FinishProcess.py[line:93] - DEBUG: DoubleSpellingApplication.FinishProcess.run is called.
+2021-06-03 11:51:41,477 - FinishProcess.py[line:99] - DEBUG: DoubleSpellingApplication.FinishProcess.run returned.
+2021-06-03 11:51:41,477 - FinishProcess.py[line:99] - DEBUG: DoubleSpellingApplication.FinishProcess.run returned.
+2021-06-03 11:51:41,477 - StimulationController.py[line:54] - DEBUG: DoubleSpellingApplication.StimulationController.run returned.
+2021-06-03 11:51:41,477 - StimulationController.py[line:54] - DEBUG: DoubleSpellingApplication.StimulationController.run returned.
+2021-06-03 11:51:41,477 - StimulationController.py[line:51] - DEBUG: DoubleSpellingApplication.StimulationController.run is called.
+2021-06-03 11:51:41,477 - StimulationController.py[line:51] - DEBUG: DoubleSpellingApplication.StimulationController.run is called.
+2021-06-03 11:51:41,477 - StimulationController.py[line:52] - DEBUG: 
+开始进入StimulationController呈现阶段，执行时间2021-06-03 11:51:41.477898
+
+2021-06-03 11:51:41,477 - StimulationController.py[line:52] - DEBUG: 
+开始进入StimulationController呈现阶段，执行时间2021-06-03 11:51:41.477898
+
+2021-06-03 11:51:41,477 - PrePareProcess.py[line:54] - DEBUG: DoubleSpellingApplication.PrepareProcess.run is called.
+2021-06-03 11:51:41,477 - PrePareProcess.py[line:54] - DEBUG: DoubleSpellingApplication.PrepareProcess.run is called.
+2021-06-03 11:51:42,494 - PrePareProcess.py[line:73] - DEBUG: DoubleSpellingApplication.PrepareProcess.run returned.
+2021-06-03 11:51:42,494 - PrePareProcess.py[line:73] - DEBUG: DoubleSpellingApplication.PrepareProcess.run returned.
+2021-06-03 11:51:42,494 - StimulationController.py[line:54] - DEBUG: DoubleSpellingApplication.StimulationController.run returned.
+2021-06-03 11:51:42,494 - StimulationController.py[line:54] - DEBUG: DoubleSpellingApplication.StimulationController.run returned.
+2021-06-03 11:51:42,494 - StimulationController.py[line:51] - DEBUG: DoubleSpellingApplication.StimulationController.run is called.
+2021-06-03 11:51:42,494 - StimulationController.py[line:51] - DEBUG: DoubleSpellingApplication.StimulationController.run is called.
+2021-06-03 11:51:42,494 - StimulationController.py[line:52] - DEBUG: 
+开始进入StimulationController呈现阶段，执行时间2021-06-03 11:51:42.494699
+
+2021-06-03 11:51:42,494 - StimulationController.py[line:52] - DEBUG: 
+开始进入StimulationController呈现阶段，执行时间2021-06-03 11:51:42.494699
+
+2021-06-03 11:51:42,494 - StimulateProcess.py[line:46] - DEBUG: DoubleSpellingApplication.StimulateProcess.run is called.
+2021-06-03 11:51:42,494 - StimulateProcess.py[line:46] - DEBUG: DoubleSpellingApplication.StimulateProcess.run is called.
+2021-06-03 11:51:42,502 - ExchangeMessageManagement.py[line:82] - DEBUG: send STRD!
+2021-06-03 11:51:42,502 - ExchangeMessageManagement.py[line:82] - DEBUG: send STRD!
+2021-06-03 11:51:42,502 - StimulateProcess.py[line:54] - DEBUG: 
+StimulateProcess 发送开始异步检测指令，执行时间2021-06-03 11:51:42.502034
+
+2021-06-03 11:51:42,502 - StimulateProcess.py[line:54] - DEBUG: 
+StimulateProcess 发送开始异步检测指令，执行时间2021-06-03 11:51:42.502034
+
+2021-06-03 11:51:43,004 - receive_exchange_message_fcn.py[line:16] - DEBUG: receive: RSLT^4^0^^;;;;;'''''_^;|:|'|"|.|!|,|`|上|下^0
+2021-06-03 11:51:43,004 - receive_exchange_message_fcn.py[line:16] - DEBUG: receive: RSLT^4^0^^;;;;;'''''_^;|:|'|"|.|!|,|`|上|下^0
+2021-06-03 11:51:43,456 - StimulationExchangeMessageOperator.py[line:79] - DEBUG: 收到返回结果2021-06-03 11:51:43.456825：
+2021-06-03 11:51:43,456 - StimulationExchangeMessageOperator.py[line:79] - DEBUG: 收到返回结果2021-06-03 11:51:43.456825：
+2021-06-03 11:51:43,456 - StimulationExchangeMessageOperator.py[line:80] - DEBUG: <doubleSpellingApplication.Stimulation_Operation.CommonSystem.CommonModule.ResultTransferModel.ResultTransferModel object at 0x000001EE1EF7BE10>
+2021-06-03 11:51:43,456 - StimulationExchangeMessageOperator.py[line:80] - DEBUG: <doubleSpellingApplication.Stimulation_Operation.CommonSystem.CommonModule.ResultTransferModel.ResultTransferModel object at 0x000001EE1EF7BE10>
+2021-06-03 11:51:43,456 - FinishProcess.py[line:66] - DEBUG: DoubleSpellingApplication.FinishProcess.update is called.
+2021-06-03 11:51:43,456 - FinishProcess.py[line:66] - DEBUG: DoubleSpellingApplication.FinishProcess.update is called.
+2021-06-03 11:51:43,456 - FinishProcess.py[line:83] - DEBUG: DoubleSpellingApplication.FinishProcess.update returned.
+2021-06-03 11:51:43,456 - FinishProcess.py[line:83] - DEBUG: DoubleSpellingApplication.FinishProcess.update returned.
+2021-06-03 11:51:43,461 - StimulateProcess.py[line:77] - DEBUG: DoubleSpellingApplication.StimulateProcess.run returned.
+2021-06-03 11:51:43,461 - StimulateProcess.py[line:77] - DEBUG: DoubleSpellingApplication.StimulateProcess.run returned.
+2021-06-03 11:51:43,461 - StimulationController.py[line:54] - DEBUG: DoubleSpellingApplication.StimulationController.run returned.
+2021-06-03 11:51:43,461 - StimulationController.py[line:54] - DEBUG: DoubleSpellingApplication.StimulationController.run returned.
+2021-06-03 11:51:43,461 - StimulationController.py[line:51] - DEBUG: DoubleSpellingApplication.StimulationController.run is called.
+2021-06-03 11:51:43,461 - StimulationController.py[line:51] - DEBUG: DoubleSpellingApplication.StimulationController.run is called.
+2021-06-03 11:51:43,462 - StimulationController.py[line:52] - DEBUG: 
+开始进入StimulationController呈现阶段，执行时间2021-06-03 11:51:43.462149
+
+2021-06-03 11:51:43,462 - StimulationController.py[line:52] - DEBUG: 
+开始进入StimulationController呈现阶段，执行时间2021-06-03 11:51:43.462149
+
+2021-06-03 11:51:43,462 - FinishProcess.py[line:93] - DEBUG: DoubleSpellingApplication.FinishProcess.run is called.
+2021-06-03 11:51:43,462 - FinishProcess.py[line:93] - DEBUG: DoubleSpellingApplication.FinishProcess.run is called.
+2021-06-03 11:51:44,478 - FinishProcess.py[line:99] - DEBUG: DoubleSpellingApplication.FinishProcess.run returned.
+2021-06-03 11:51:44,478 - FinishProcess.py[line:99] - DEBUG: DoubleSpellingApplication.FinishProcess.run returned.
+2021-06-03 11:51:44,478 - StimulationController.py[line:54] - DEBUG: DoubleSpellingApplication.StimulationController.run returned.
+2021-06-03 11:51:44,478 - StimulationController.py[line:54] - DEBUG: DoubleSpellingApplication.StimulationController.run returned.
+2021-06-03 11:51:44,478 - StimulationController.py[line:51] - DEBUG: DoubleSpellingApplication.StimulationController.run is called.
+2021-06-03 11:51:44,478 - StimulationController.py[line:51] - DEBUG: DoubleSpellingApplication.StimulationController.run is called.
+2021-06-03 11:51:44,478 - StimulationController.py[line:52] - DEBUG: 
+开始进入StimulationController呈现阶段，执行时间2021-06-03 11:51:44.478172
+
+2021-06-03 11:51:44,478 - StimulationController.py[line:52] - DEBUG: 
+开始进入StimulationController呈现阶段，执行时间2021-06-03 11:51:44.478172
+
+2021-06-03 11:51:44,478 - PrePareProcess.py[line:54] - DEBUG: DoubleSpellingApplication.PrepareProcess.run is called.
+2021-06-03 11:51:44,478 - PrePareProcess.py[line:54] - DEBUG: DoubleSpellingApplication.PrepareProcess.run is called.
+2021-06-03 11:51:45,494 - PrePareProcess.py[line:73] - DEBUG: DoubleSpellingApplication.PrepareProcess.run returned.
+2021-06-03 11:51:45,494 - PrePareProcess.py[line:73] - DEBUG: DoubleSpellingApplication.PrepareProcess.run returned.
+2021-06-03 11:51:45,494 - StimulationController.py[line:54] - DEBUG: DoubleSpellingApplication.StimulationController.run returned.
+2021-06-03 11:51:45,494 - StimulationController.py[line:54] - DEBUG: DoubleSpellingApplication.StimulationController.run returned.
+2021-06-03 11:51:45,494 - StimulationController.py[line:51] - DEBUG: DoubleSpellingApplication.StimulationController.run is called.
+2021-06-03 11:51:45,494 - StimulationController.py[line:51] - DEBUG: DoubleSpellingApplication.StimulationController.run is called.
+2021-06-03 11:51:45,494 - StimulationController.py[line:52] - DEBUG: 
+开始进入StimulationController呈现阶段，执行时间2021-06-03 11:51:45.494194
+
+2021-06-03 11:51:45,494 - StimulationController.py[line:52] - DEBUG: 
+开始进入StimulationController呈现阶段，执行时间2021-06-03 11:51:45.494194
+
+2021-06-03 11:51:45,494 - StimulateProcess.py[line:46] - DEBUG: DoubleSpellingApplication.StimulateProcess.run is called.
+2021-06-03 11:51:45,494 - StimulateProcess.py[line:46] - DEBUG: DoubleSpellingApplication.StimulateProcess.run is called.
+2021-06-03 11:51:45,501 - ExchangeMessageManagement.py[line:82] - DEBUG: send STRD!
+2021-06-03 11:51:45,501 - ExchangeMessageManagement.py[line:82] - DEBUG: send STRD!
+2021-06-03 11:51:45,501 - StimulateProcess.py[line:54] - DEBUG: 
+StimulateProcess 发送开始异步检测指令，执行时间2021-06-03 11:51:45.501160
+
+2021-06-03 11:51:45,501 - StimulateProcess.py[line:54] - DEBUG: 
+StimulateProcess 发送开始异步检测指令，执行时间2021-06-03 11:51:45.501160
+
+2021-06-03 11:51:46,119 - DoubleSpellingStimController.py[line:216] - DEBUG: DoubleSpellingStimController.stop is called
+2021-06-03 11:51:46,119 - DoubleSpellingStimController.py[line:216] - DEBUG: DoubleSpellingStimController.stop is called
+2021-06-03 11:51:46,119 - ExchangeMessageManagement.py[line:67] - DEBUG: ExchangeMessageManagement.stop is called.
+2021-06-03 11:51:46,119 - ExchangeMessageManagement.py[line:67] - DEBUG: ExchangeMessageManagement.stop is called.
+2021-06-03 11:51:46,119 - EventManager.py[line:59] - DEBUG: 128_Stop
+2021-06-03 11:51:46,119 - EventManager.py[line:59] - DEBUG: 128_Stop
+2021-06-03 11:51:46,460 - operate_exchange_message_fcn.py[line:40] - DEBUG: Exiting operate_exchange_message_fcn!
+2021-06-03 11:51:46,460 - operate_exchange_message_fcn.py[line:40] - DEBUG: Exiting operate_exchange_message_fcn!
+2021-06-03 11:51:46,507 - receive_exchange_message_fcn.py[line:21] - DEBUG: Exiting receive_exchange_message_fcn!
+2021-06-03 11:51:46,507 - receive_exchange_message_fcn.py[line:21] - DEBUG: Exiting receive_exchange_message_fcn!
+2021-06-03 11:51:46,507 - ExchangeMessageManagement.py[line:72] - DEBUG: ExchangeMessageManagement.stop returned.
+2021-06-03 11:51:46,507 - ExchangeMessageManagement.py[line:72] - DEBUG: ExchangeMessageManagement.stop returned.
+2021-06-03 11:51:46,507 - DoubleSpellingStimController.py[line:220] - DEBUG: DoubleSpellingStimController.stop returned
+2021-06-03 11:51:46,507 - DoubleSpellingStimController.py[line:220] - DEBUG: DoubleSpellingStimController.stop returned
+2021-06-03 11:51:46,511 - StimulateProcess.py[line:77] - DEBUG: DoubleSpellingApplication.StimulateProcess.run returned.
+2021-06-03 11:51:46,511 - StimulateProcess.py[line:77] - DEBUG: DoubleSpellingApplication.StimulateProcess.run returned.
+2021-06-03 11:51:46,511 - StimulationController.py[line:54] - DEBUG: DoubleSpellingApplication.StimulationController.run returned.
+2021-06-03 11:51:46,511 - StimulationController.py[line:54] - DEBUG: DoubleSpellingApplication.StimulationController.run returned.
+2021-06-03 11:51:46,511 - StimulationController.py[line:51] - DEBUG: DoubleSpellingApplication.StimulationController.run is called.
+2021-06-03 11:51:46,511 - StimulationController.py[line:51] - DEBUG: DoubleSpellingApplication.StimulationController.run is called.
+2021-06-03 11:51:46,512 - StimulationController.py[line:52] - DEBUG: 
+开始进入StimulationController呈现阶段，执行时间2021-06-03 11:51:46.512200
+
+2021-06-03 11:51:46,512 - StimulationController.py[line:52] - DEBUG: 
+开始进入StimulationController呈现阶段，执行时间2021-06-03 11:51:46.512200
+
+2021-06-03 11:51:46,512 - ExitProcess.py[line:18] - DEBUG: DoubleSpellingApplication.ExitProcess.run is called.
+2021-06-03 11:51:46,512 - ExitProcess.py[line:18] - DEBUG: DoubleSpellingApplication.ExitProcess.run is called.
+2021-06-03 11:51:46,550 - ExitProcess.py[line:29] - DEBUG: DoubleSpellingApplication.ExitProcess.run returned.
+2021-06-03 11:51:46,550 - ExitProcess.py[line:29] - DEBUG: DoubleSpellingApplication.ExitProcess.run returned.
+2021-06-03 11:51:46,551 - StimulationController.py[line:54] - DEBUG: DoubleSpellingApplication.StimulationController.run returned.
+2021-06-03 11:51:46,551 - StimulationController.py[line:54] - DEBUG: DoubleSpellingApplication.StimulationController.run returned.
+2021-06-03 11:51:46,551 - DoubleSpellingStimController.py[line:206] - INFO: DoubleSpellingStimController.start returned
+2021-06-03 11:51:46,551 - DoubleSpellingStimController.py[line:206] - INFO: DoubleSpellingStimController.start returned

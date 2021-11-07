@@ -1,0 +1,4 @@
+from doubleSpellingApplication.Stimulation_Operation.StimulationSystem.StimulationUICreator.StimulationUIFactory import StimulationUIFactory
+
+
+factory_StimulationUIFactory = StimulationUIFactory()
